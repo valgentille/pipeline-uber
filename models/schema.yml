@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: stg_uber_dataset1
+    description: Données nettoyées issues de la source 1.
+    columns:
+      - name: start_date
+        tests:
+          - not_null
+      - name: end_date
+        tests:
+          - not_null
+      - name: distance
+        tests:
+          - not_null
+
+  - name: stg_uber_dataset2
+    description: Données nettoyées issues de la source 2.
+    columns:
+      - name: start_date
+        tests:
+          - not_null
+      - name: end_date
+        tests:
+          - not_null
+      - name: distance
+        tests:
+          - not_null
+
+  - name: int_uber_trips_enriched
+    description: Trajets enrichis avec les pays.
+    columns:
+      - name: start_country
+        tests:
+          - not_null
+      - name: stop_country
+        tests:
+          - not_null

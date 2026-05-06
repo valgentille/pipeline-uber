@@ -1,0 +1,7 @@
+tp_uber_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: tp_uber.duckdb
+      threads: 4

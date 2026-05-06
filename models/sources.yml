@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: raw_uber
+    description: Données brutes des trajets Uber et table de correspondance des villes.
+    schema: main
+    tables:
+      - name: UberDataset1
+        description: Source 1 des trajets Uber.
+        meta:
+          external_location: "data/UberDataset1.csv"
+
+      - name: UberDataset2
+        description: Source 2 des trajets Uber.
+        meta:
+          external_location: "data/UberDataset2.csv"
+
+      - name: cities_with_countries
+        description: Correspondance ville vers pays.
+        meta:
+          external_location: "data/cities_with_countries.csv"

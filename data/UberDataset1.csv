@@ -1,0 +1,1801 @@
+START_DATE,END_DATE,START,STOP,MILES,PURPOSE
+2024-01-17 06:05:00,2024-01-17 06:30:00,Marseille,Vitrolles,9.73,Meeting
+2024-05-22 06:48:00,2024-05-22 07:33:00,Boulogne-Billancourt,Issy-les-Moulineaux,15.75,Commute
+2024-01-23 20:34:00,2024-01-23 21:18:00,Villeurbanne,Bron,12.02,Meeting
+2024-12-26 08:02:00,2024-12-26 08:36:00,Nanterre,Créteil,11.14,Meeting
+2024-04-17 14:44:00,2024-04-17 15:00:00,Almada,Lisbon,4.89,Commute
+2024-11-23 23:14:00,2024-11-24 00:03:00,Aix-en-Provence,Vitrolles,11.88,Commute
+2024-09-12 18:56:00,2024-09-12 19:21:00,Getafe,Alcorcón,7.15,Business
+2024-07-23 17:14:00,2024-07-23 17:55:00,Boulogne-Billancourt,Créteil,9.47,Errand
+2024-07-16 18:38:00,2024-07-16 19:02:00,Oullins,Oullins,4.45,Meeting
+2024-06-23 09:18:00,2024-06-23 09:45:00,Almada,Loures,7.25,Customer Visit
+2024-11-16 15:53:00,2024-11-16 16:14:00,Loures,Sintra,1.81,Shopping
+2024-02-27 17:56:00,2024-02-27 18:12:00,Issy-les-Moulineaux,Issy-les-Moulineaux,2.29,Commute
+2024-08-31 23:10:00,2024-08-31 23:56:00,Boulogne-Billancourt,Paris,12.96,Business
+2024-12-09 17:28:00,2024-12-09 18:03:00,Villeurbanne,Oullins,11.16,Commute
+2024-01-17 16:04:00,2024-01-17 16:16:00,Paris,Créteil,2.84,Business
+2024-04-07 09:06:00,2024-04-07 09:34:00,Caluire-et-Cuire,Caluire-et-Cuire,4.87,Customer Visit
+2024-06-22 09:15:00,2024-06-22 09:33:00,Oullins,Saint-Priest,6.19,Business
+2024-10-03 06:05:00,2024-10-03 06:29:00,Boulogne-Billancourt,Nanterre,9.76,Business
+2024-07-18 14:59:00,2024-07-18 15:20:00,Versailles,Saint-Denis,7.24,Commute
+2024-10-23 23:03:00,2024-10-23 23:27:00,Saint-Priest,Caluire-et-Cuire,5.77,Meal/Entertain
+2024-04-05 08:38:00,2024-04-05 09:08:00,La Ciotat,Martigues,4.08,Business
+2024-05-13 12:42:00,2024-05-13 13:22:00,Caluire-et-Cuire,Saint-Priest,10.3,Commute
+2024-11-14 09:04:00,2024-11-14 09:31:00,Saint-Priest,Bron,8.96,Business
+2024-11-30 22:00:00,2024-11-30 22:24:00,Nanterre,Boulogne-Billancourt,6.7,Meeting
+2024-03-20 14:18:00,2024-03-20 14:51:00,Lisbon,Oeiras,10.43,Airport
+2024-05-21 07:00:00,2024-05-21 07:06:00,Créteil,Saint-Denis,0.8,Meeting
+2024-12-19 10:34:00,2024-12-19 10:55:00,Amadora,Loures,9.2,Business
+2024-04-17 13:42:00,2024-04-17 13:57:00,Bron,Bron,6.0,Errand
+2024-01-13 11:47:00,2024-01-13 12:22:00,Alcorcón,Pozuelo de Alarcón,14.36,Errand
+2024-01-20 21:14:00,2024-01-20 22:06:00,Saint-Priest,Villeurbanne,17.06,Commute
+2024-05-22 17:41:00,2024-05-22 18:15:00,Oullins,Villeurbanne,9.62,Errand
+2024-05-15 07:06:00,2024-05-15 07:45:00,Leganés,Madrid,15.01,Business
+2024-01-01 22:59:00,2024-01-01 23:47:00,Alcorcón,Fuenlabrada,15.71,Airport
+2024-12-05 09:46:00,2024-12-05 10:35:00,Loures,Oeiras,14.91,Meeting
+2024-03-30 15:25:00,2024-03-30 15:51:00,Vitrolles,Lyon#,5.73,Airport
+2024-04-19 22:30:00,2024-04-19 23:06:00,Issy-les-Moulineaux,Créteil,7.52,Commute
+2024-04-25 12:09:00,2024-04-25 12:25:00,Par1s,Martigues,3.01,Airport
+2024-05-04 10:41:00,2024-05-04 11:07:00,Salon-de-Provence,Salon-de-Provence,4.21,Commute
+2024-03-03 20:08:00,2024-03-03 20:43:00,Madrid,Leganés,13.59,Meeting
+2024-10-07 20:57:00,2024-10-07 21:57:00,Sintra,Cascais,18.62,Commute
+2024-02-09 15:15:00,2024-02-09 15:41:00,Oullins,Saint-Priest,7.17,Commute
+2024-10-04 20:26:00,2024-10-04 20:48:00,Villeurbanne,Villeurbanne,2.6,Commute
+2024-06-29 15:48:00,2024-06-29 16:35:00,Oullins,Saint-Priest,10.24,Commute
+2024-01-15 18:21:00,2024-01-15 18:58:00,Móstoles,Fuenlabrada,11.46,Commute
+2024-10-30 06:05:00,2024-10-30 06:11:00,Salon-de-Provence,Aix-en-Provence,0.8,Errand
+2024-08-03 14:53:00,2024-08-03 15:26:00,Lyon,Lisb0n,9.46,Commute
+2024-05-06 12:53:00,2024-05-06 13:21:00,Par1s,Paris,12.39,Customer Visit
+2024-03-24 15:06:00,2024-03-24 15:24:00,Lyon,Vénissieux,5.12,Customer Visit
+2024-06-03 09:50:00,2024-06-03 10:25:00,Bron,Oullins,9.25,Business
+2024-07-04 20:45:00,2024-07-04 21:10:00,Bron,Lyon,4.39,Business
+2024-10-30 14:20:00,2024-10-30 14:53:00,Saint-Priest,Caluire-et-Cuire,8.35,Commute
+2024-04-03 21:13:00,2024-04-03 21:36:00,Versailles,Saint-Denis,2.45,Errand
+2024-02-13 13:46:00,2024-02-13 14:17:00,Saint-Denis,Nanterre,5.66,Shopping
+2024-06-05 17:30:00,2024-06-05 18:04:00,Versailles,Saint-Denis,7.7,Airport
+2024-03-02 12:20:00,2024-03-02 12:52:00,Sintra,Almada,8.77,Commute
+2024-02-21 12:18:00,2024-02-21 12:38:00,Getafe,Pozuelo de Alarcón,1.31,Meeting
+2024-09-08 09:55:00,2024-09-08 10:10:00,Lyon#,Saint-Denis,3.65,Meeting
+2024-02-03 18:31:00,2024-02-03 19:05:00,Villeurbanne,Bron,8.93,Business
+2024-11-12 13:49:00,2024-11-12 14:30:00,Boulogne-Billancourt,Versailles,11.42,Meeting
+2024-02-20 12:40:00,2024-02-20 13:10:00,Oullins,Bron,10.23,Meeting
+2024-05-27 15:44:00,2024-05-27 16:25:00,Boulogne-Billancourt,Nanterre,13.42,Business
+2024-10-05 13:41:00,2024-10-05 14:08:00,Nanterre,Issy-les-Moulineaux,8.58,Commute
+2024-08-27 15:44:00,2024-08-27 16:07:00,Paris,Paris,5.38,Commute
+2024-04-27 06:48:00,2024-04-27 07:07:00,Bron,Bron,3.57,Business
+2024-09-08 08:30:00,2024-09-08 08:53:00,Issy-les-Moulineaux,Issy-les-Moulineaux,3.02,Meeting
+2024-10-08 07:29:00,2024-10-08 07:51:00,Salon-de-Provence,Salon-de-Provence,4.06,Customer Visit
+2024-04-06 22:23:00,2024-04-06 22:56:00,Issy-les-Moulineaux,Saint-Denis,8.6,Commute
+2024-12-23 21:07:00,2024-12-23 21:43:00,Marse!lle,Saint-Priest,8.31,Commute
+2024-03-01 10:31:00,2024-03-01 10:48:00,Boulogne-Billancourt,Paris,6.62,Commute
+2024-11-02 22:47:00,2024-11-02 23:15:00,Aubagne,La Ciotat,7.86,Commute
+2024-10-27 21:55:00,2024-10-27 22:33:00,Issy-les-Moulineaux,Nanterre,13.41,Airport
+2024-12-23 13:36:00,2024-12-23 14:03:00,Caluire-et-Cuire,Bron,6.35,Errand
+2024-01-19 10:32:00,2024-01-19 11:01:00,Vénissieux,Oullins,12.27,Commute
+2024-07-28 10:04:00,2024-07-28 10:18:00,Issy-les-Moulineaux,Saint-Denis,6.22,Airport
+2024-11-16 21:55:00,2024-11-16 22:36:00,Créteil,Paris,13.75,Meal/Entertain
+2024-11-20 09:28:00,2024-11-20 09:46:00,Créteil,Boulogne-Billancourt,1.44,Meal/Entertain
+2024-04-02 11:11:00,2024-04-02 11:41:00,Nanterre,Versailles,5.49,Meeting
+2024-08-23 14:42:00,2024-08-23 15:34:00,Aix123,Martigues,12.21,Meeting
+2024-08-21 15:12:00,2024-08-21 15:35:00,Saint-Denis,Saint-Denis,3.66,Airport
+2024-10-16 07:58:00,2024-10-16 08:33:00,Versailles,Créteil,6.52,Commute
+2024-04-07 14:43:00,2024-04-07 15:30:00,Oeiras,Amadora,15.19,Business
+2024-02-16 15:20:00,2024-02-16 15:48:00,Aix-en-Provence,Salon-de-Provence,6.15,Airport
+2024-05-11 21:51:00,2024-05-11 22:13:00,Saint-Denis,Nanterre,5.42,Customer Visit
+2024-10-12 17:05:00,2024-10-12 17:37:00,Alcorcón,Lisb0n,8.58,Meal/Entertain
+2024-07-09 09:43:00,2024-07-09 10:11:00,Nanterre,Lisb0n,5.28,Customer Visit
+2024-01-24 07:19:00,2024-01-24 07:45:00,Saint-Denis,Paris,5.18,Business
+2024-03-20 19:41:00,2024-03-20 19:58:00,Saint-Denis,Saint-Denis,1.2,Meeting
+2024-12-17 17:34:00,2024-12-17 17:51:00,Vénissieux,Vénissieux,2.16,Business
+2024-04-18 06:03:00,2024-04-18 06:42:00,Nanterre,Paris,12.04,Business
+2024-11-01 06:17:00,2024-11-01 06:47:00,Saint-Denis,Créteil,9.33,Customer Visit
+2024-07-02 13:37:00,2024-07-02 14:04:00,Nanterre,Paris,11.53,Business
+2024-08-19 22:14:00,2024-08-19 22:49:00,Créteil,Paris,8.36,Meeting
+2024-09-02 18:27:00,2024-09-02 18:37:00,Pozuelo de Alarcón,Leganés,3.38,Business
+2024-11-01 22:18:00,2024-11-01 22:49:00,Lisbon,Cascais,7.21,Commute
+2024-04-26 19:21:00,2024-04-26 19:32:00,Créteil,Créteil,1.58,Commute
+2024-08-30 08:05:00,2024-08-30 08:13:00,Vitrolles,Salon-de-Provence,0.88,Airport
+2024-07-29 17:55:00,2024-07-29 18:13:00,Créteil,Boulogne-Billancourt,2.89,Airport
+2024-12-02 21:14:00,2024-12-02 21:41:00,Fuenlabrada,Fuenlabrada,2.92,Business
+2024-11-14 23:01:00,2024-11-14 23:50:00,Lyon,Saint-Priest,12.29,Customer Visit
+2024-10-16 18:04:00,2024-10-16 18:35:00,Marseille,Salon-de-Provence,9.29,Errand
+2024-06-08 16:49:00,2024-06-08 17:03:00,Créteil,Versailles,0.8,Business
+2024-08-14 19:17:00,2024-08-14 19:36:00,Getafe,Getafe,1.79,Commute
+2024-11-02 07:00:00,2024-11-02 07:19:00,Lyon,Oullins,3.91,Commute
+2024-03-30 10:24:00,2024-03-30 10:57:00,Pozuelo de Alarcón,Leganés,5.46,Airport
+2024-06-09 19:36:00,2024-06-09 19:58:00,Saint-Priest,Lyon,2.59,Shopping
+2024-02-24 13:27:00,2024-02-24 13:44:00,Versailles,Versailles,2.06,Business
+2024-11-20 09:33:00,2024-11-20 10:21:00,Vénissieux,Villeurbanne,15.71,Business
+2024-03-19 08:11:00,2024-03-19 08:48:00,Saint-Priest,Oullins,9.81,Business
+2024-11-17 16:09:00,2024-11-17 16:32:00,Caluire-et-Cuire,Bron,5.47,Errand
+2024-05-26 08:41:00,2024-05-26 09:02:00,Salon-de-Provence,Marseille,7.44,Business
+2024-10-19 12:20:00,2024-10-19 12:46:00,La Ciotat,Martigues,9.92,Commute
+2024-01-21 13:45:00,2024-01-21 14:08:00,Cascais,Cascais,2.44,Meeting
+2024-11-27 16:04:00,2024-11-27 16:12:00,Villeurbanne,Bron,2.6,Customer Visit
+2024-10-25 10:58:00,2024-10-25 11:29:00,Vénissieux,Oullins,13.55,Commute
+2024-12-09 22:05:00,2024-12-09 22:23:00,Aubagne,Aubagne,2.63,Customer Visit
+2024-05-31 09:32:00,2024-05-31 09:50:00,Vénissieux,Villeurbanne,4.32,Business
+2024-04-02 11:46:00,2024-04-02 12:45:00,Madrid,Fuenlabrada,14.93,Business
+2024-08-28 12:23:00,2024-08-28 12:48:00,Aix-en-Provence,Martigues,6.87,Commute
+2024-04-12 10:55:00,2024-04-12 11:47:00,Oullins,Bron,15.8,Meal/Entertain
+2024-09-19 10:53:00,2024-09-19 11:36:00,Móstoles,Pozuelo de Alarcón,13.48,Commute
+2024-04-30 18:05:00,2024-04-30 18:22:00,Versailles,Unknown Location,1.26,Meeting
+2024-08-28 20:39:00,2024-08-28 21:07:00,Unknown Location,Par1s,10.9,Customer Visit
+2024-05-01 15:07:00,2024-05-01 15:38:00,Móstoles,Fuenlabrada,11.32,Customer Visit
+2024-03-14 15:27:00,2024-03-14 15:49:00,Lyon#,Alcorcón,1.79,Meeting
+2024-09-16 23:01:00,2024-09-16 23:43:00,Saint-Priest,Caluire-et-Cuire,10.16,Customer Visit
+2024-12-02 09:49:00,2024-12-02 10:14:00,Vitrolles,Marseille,8.23,Commute
+2024-03-10 08:45:00,2024-03-10 09:31:00,Nanterre,Issy-les-Moulineaux,12.05,Meeting
+2024-10-05 21:16:00,2024-10-05 22:08:00,Paris,Boulogne-Billancourt,15.47,Meeting
+2024-07-16 16:11:00,2024-07-16 16:44:00,Issy-les-Moulineaux,Créteil,7.36,Airport
+2024-04-02 23:18:00,2024-04-02 23:44:00,Sintra,Lisbon,10.52,Commute
+2024-06-29 19:17:00,2024-06-29 19:26:00,Vitrolles,Salon-de-Provence,2.34,Airport
+2024-03-14 20:02:00,2024-03-14 20:36:00,Créteil,Nanterre,11.58,Meal/Entertain
+2024-02-09 10:33:00,2024-02-09 11:13:00,Vitrolles,Martigues,11.04,Commute
+2024-05-13 20:13:00,2024-05-13 20:25:00,Paris,Paris,3.86,Commute
+2024-08-15 08:51:00,2024-08-15 09:34:00,Cascais,Amadora,13.5,Business
+2024-09-17 13:07:00,2024-09-17 13:15:00,Nanterre,Créteil,0.8,Customer Visit
+2024-02-14 08:19:00,2024-02-14 08:28:00,Versailles,Versailles,1.93,Meeting
+2024-08-18 20:43:00,2024-08-18 21:17:00,Bron,Saint-Priest,7.06,Meeting
+2024-09-22 10:19:00,2024-09-22 10:42:00,Móstoles,Getafe,8.76,Customer Visit
+2024-11-21 23:17:00,2024-11-21 23:33:00,Vitrolles,Martigues,6.15,Commute
+2024-10-15 07:52:00,2024-10-15 08:28:00,Caluire-et-Cuire,Saint-Priest,10.93,Customer Visit
+2024-01-16 21:56:00,2024-01-16 22:32:00,Almada,Loures,7.57,Meeting
+2024-09-04 20:13:00,2024-09-04 20:29:00,Cascais,Almada,4.39,Commute
+2024-09-20 23:06:00,2024-09-20 23:33:00,Leganés,Alcorcón,11.25,Customer Visit
+2024-03-22 16:59:00,2024-03-22 17:22:00,Boulogne-Billancourt,Boulogne-Billancourt,4.26,Commute
+2024-05-03 12:37:00,2024-05-03 13:06:00,Alcorcón,Móstoles,4.63,Meeting
+2024-08-08 10:56:00,2024-08-08 11:21:00,Oullins,Bron,8.53,Customer Visit
+2024-10-08 14:52:00,2024-10-08 15:18:00,Lyon,Saint-Priest,4.55,Meeting
+2024-04-11 22:25:00,2024-04-11 22:53:00,Paris,Versailles,6.88,Customer Visit
+2024-06-12 11:25:00,2024-06-12 11:43:00,Nanterre,Créteil,2.58,Shopping
+2024-01-09 17:21:00,2024-01-09 17:55:00,Nanterre,Créteil,10.14,Commute
+2024-10-25 21:10:00,2024-10-25 21:30:00,Salon-de-Provence,Martigues,4.33,Airport
+2024-08-13 16:26:00,2024-08-13 16:36:00,Alcorcón,Alcorcón,3.05,Business
+2024-09-22 12:35:00,2024-09-22 12:52:00,Oullins,Bron,7.47,Airport
+2024-04-08 13:17:00,2024-04-08 13:58:00,Vénissieux,Caluire-et-Cuire,12.01,Meeting
+2024-06-27 23:59:00,2024-06-28 00:34:00,Oeiras,Almada,6.34,Commute
+2024-05-27 08:22:00,2024-05-27 08:59:00,Saint-Denis,Versailles,12.08,Commute
+2024-11-11 13:15:00,2024-11-11 13:40:00,Aix-en-Provence,Martigues,5.75,Business
+2024-10-08 11:26:00,2024-10-08 11:45:00,Boulogne-Billancourt,Boulogne-Billancourt,4.35,Business
+2024-04-28 23:47:00,2024-04-29 00:02:00,Saint-Priest,Vénissieux,5.7,Meeting
+2024-07-22 21:11:00,2024-07-22 21:41:00,Amadora,Oeiras,14.35,
+2024-11-24 23:33:00,2024-11-24 23:49:00,Lisbon,Lisbon,2.92,Commute
+2024-06-21 15:36:00,2024-06-21 15:53:00,Alcorcón,Madrid,4.96,Business
+2024-02-18 11:08:00,2024-02-18 11:47:00,Martigues,Aubagne,14.88,Commute
+2024-07-03 13:03:00,2024-07-03 13:30:00,Versailles,Nanterre,12.16,Commute
+2024-05-31 17:39:00,2024-05-31 17:59:00,Créteil,Issy-les-Moulineaux,7.41,Meeting
+2024-12-14 08:33:00,2024-12-14 08:47:00,Bron,Saint-Priest,3.59,Customer Visit
+2024-09-23 20:07:00,2024-09-23 20:26:00,Saint-Denis,Saint-Denis,4.64,Business
+2024-10-15 07:35:00,2024-10-15 07:54:00,Caluire-et-Cuire,Lyon,0.8,Commute
+2024-10-04 07:59:00,2024-10-04 08:38:00,Aubagne,Marseille,8.34,Airport
+2024-07-14 20:55:00,2024-07-14 21:15:00,Vénissieux,Villeurbanne,2.59,Commute
+2024-04-24 06:48:00,2024-04-24 07:19:00,Lyon#,Boulogne-Billancourt,6.13,Meeting
+2024-04-06 09:02:00,2024-04-06 09:29:00,Aubagne,Aix-en-Provence,5.08,Business
+2024-01-23 18:28:00,2024-01-23 18:52:00,Madrid,Getafe,9.45,Commute
+2024-12-10 16:15:00,2024-12-10 16:35:00,Madrid,Madrid,4.22,Meeting
+2024-08-06 23:31:00,2024-08-07 00:04:00,Aix-en-Provence,Aubagne,8.37,Meeting
+2024-08-30 13:54:00,2024-08-30 14:19:00,Aubagne,Vitrolles,6.97,Customer Visit
+2024-03-09 18:15:00,2024-03-09 18:40:00,Versailles,Créteil,4.15,Meeting
+2024-11-04 07:55:00,2024-11-04 08:11:00,Versailles,Paris,0.8,Airport
+2024-01-08 12:59:00,2024-01-08 13:29:00,Martigues,Aubagne,6.62,Commute
+2024-05-24 18:29:00,2024-05-24 18:53:00,Salon-de-Provence,Aix-en-Provence,6.15,Meeting
+2024-06-12 12:23:00,2024-06-12 12:45:00,Saint-Denis,Versailles,1.89,Customer Visit
+2024-04-10 16:14:00,2024-04-10 16:43:00,Fuenlabrada,Fuenlabrada,6.46,Commute
+2024-06-29 11:08:00,2024-06-29 11:40:00,Saint-Priest,Vénissieux,8.12,Commute
+2024-12-08 07:48:00,2024-12-08 08:31:00,Par1s,Lisbon,16.85,Shopping
+2024-01-09 06:34:00,2024-01-09 07:06:00,Créteil,Lisb0n,4.72,Meeting
+2024-02-19 22:09:00,2024-02-19 22:19:00,La Ciotat,Marseille,1.54,Business
+2024-05-04 13:19:00,2024-05-04 13:59:00,Nanterre,Saint-Denis,8.4,Commute
+2024-12-25 11:05:00,2024-12-25 11:36:00,Salon-de-Provence,Marseille,12.16,Meeting
+2024-12-20 21:17:00,2024-12-20 21:41:00,Móstoles,Madrid,10.94,Business
+2024-12-30 18:59:00,2024-12-30 19:47:00,Sintra,Lisbon,12.27,Meeting
+2024-03-12 08:32:00,2024-03-12 09:16:00,Issy-les-Moulineaux,Créteil,16.42,Commute
+2024-05-19 20:31:00,2024-05-19 20:51:00,Boulogne-Billancourt,Versailles,3.6,Business
+2024-02-07 08:17:00,2024-02-07 08:40:00,Villeurbanne,Oullins,4.69,Customer Visit
+2024-02-22 10:05:00,2024-02-22 10:41:00,Martigues,Vitrolles,8.86,Customer Visit
+2024-01-07 15:26:00,2024-01-07 15:48:00,Bron,Bron,4.7,Errand
+2024-06-03 14:31:00,2024-06-03 15:03:00,Amadora,Oeiras,11.55,Business
+2024-04-10 20:06:00,2024-04-10 20:26:00,Nanterre,Madri$d,1.55,Meeting
+2024-11-29 10:19:00,2024-11-29 11:15:00,Saint-Denis,Nanterre,16.78,Customer Visit
+2024-05-04 16:24:00,2024-05-04 16:49:00,Nanterre,Nanterre,3.93,Meal/Entertain
+2024-04-17 20:51:00,2024-04-17 21:45:00,Caluire-et-Cuire,Saint-Priest,11.78,Shopping
+2024-12-03 10:45:00,2024-12-03 11:33:00,Pozuelo de Alarcón,Fuenlabrada,15.45,Commute
+2024-07-03 23:38:00,2024-07-03 23:54:00,Caluire-et-Cuire,Bron,0.8,Meeting
+2024-11-26 18:48:00,2024-11-26 19:04:00,Fuenlabrada,Getafe,6.31,Meeting
+2024-07-19 20:49:00,2024-07-19 21:16:00,Paris,Créteil,8.39,Commute
+2024-03-13 17:19:00,2024-03-13 17:29:00,Paris,Versailles,2.75,Business
+2024-02-28 06:54:00,2024-02-28 07:21:00,Vénissieux,Caluire-et-Cuire,7.64,Customer Visit
+2024-08-24 13:51:00,2024-08-24 14:11:00,Fuenlabrada,Getafe,3.64,Meeting
+2024-04-19 12:17:00,2024-04-19 12:45:00,Aubagne,Salon-de-Provence,6.25,Business
+2024-02-28 14:42:00,2024-02-28 15:13:00,Paris,Créteil,6.54,Business
+2024-12-27 15:58:00,2024-12-27 16:14:00,La Ciotat,Aubagne,4.95,Customer Visit
+2024-08-02 10:36:00,2024-08-02 11:00:00,Paris,Boulogne-Billancourt,6.34,Meeting
+2024-11-13 07:55:00,2024-11-13 08:17:00,Martigues,Par1s,3.59,Customer Visit
+2024-07-31 20:31:00,2024-07-31 21:00:00,Versailles,Créteil,6.73,Airport
+2024-02-27 09:17:00,2024-02-27 09:52:00,Getafe,Alcorcón,9.08,Meeting
+2024-02-22 13:19:00,2024-02-22 13:57:00,Oullins,Lyon#,12.17,
+2024-10-28 17:55:00,2024-10-28 18:08:00,Oullins,Oullins,2.68,Customer Visit
+2024-12-26 15:18:00,2024-12-26 15:49:00,Boulogne-Billancourt,Nanterre,10.5,Commute
+2024-05-21 10:44:00,2024-05-21 11:04:00,Saint-Priest,Villeurbanne,3.0,Shopping
+2024-02-08 08:25:00,2024-02-08 08:54:00,Salon-de-Provence,Martigues,6.55,Commute
+2024-02-17 20:40:00,2024-02-17 21:08:00,Oeiras,Sintra,10.06,Errand
+2024-10-22 10:36:00,2024-10-22 11:15:00,Saint-Denis,Versailles,10.88,Commute
+2024-03-21 20:29:00,2024-03-21 20:46:00,Madri$d,Pozuelo de Alarcón,5.19,Shopping
+2024-07-03 14:05:00,2024-07-03 14:53:00,Aix-en-Provence,Aubagne,13.11,Business
+2024-09-01 08:08:00,2024-09-01 08:29:00,Versailles,Issy-les-Moulineaux,7.47,Business
+2024-09-01 08:14:00,2024-09-01 08:39:00,Lyon,Villeurbanne,5.38,Airport
+2024-12-12 10:04:00,2024-12-12 10:38:00,Nanterre,Marse!lle,13.55,Meeting
+2024-08-14 12:05:00,2024-08-14 12:50:00,Nanterre,Issy-les-Moulineaux,14.38,Meeting
+2024-11-03 15:49:00,2024-11-03 16:13:00,Créteil,Aix123,7.53,Commute
+2024-01-28 13:31:00,2024-01-28 14:10:00,Vitrolles,Martigues,10.77,Commute
+2024-12-15 11:48:00,2024-12-15 13:00:00,Marseille,Aix-en-Provence,18.95,Commute
+2024-11-17 22:49:00,2024-11-17 23:13:00,Saint-Denis,Saint-Denis,3.17,Meeting
+2024-04-14 10:34:00,2024-04-14 11:11:00,Saint-Denis,Boulogne-Billancourt,9.78,Business
+2024-02-14 19:07:00,2024-02-14 19:28:00,Fuenlabrada,Madrid,6.72,Business
+2024-03-24 21:22:00,2024-03-24 22:07:00,Créteil,Boulogne-Billancourt,12.99,Airport
+2024-08-07 14:33:00,2024-08-07 14:53:00,Aix-en-Provence,Salon-de-Provence,9.19,Commute
+2024-03-26 17:10:00,2024-03-26 17:40:00,Lyon,Saint-Priest,5.01,Errand
+2024-08-29 17:24:00,2024-08-29 17:32:00,Saint-Priest,Saint-Priest,3.1,Commute
+2024-06-12 14:52:00,2024-06-12 15:28:00,Lisbon,Almada,8.22,Shopping
+2024-05-24 15:20:00,2024-05-24 15:32:00,Lyon,Lyon,4.52,Errand
+2024-10-29 21:49:00,2024-10-29 21:59:00,Vénissieux,Bron,0.8,Commute
+2024-01-01 18:54:00,2024-01-01 19:18:00,Oullins,Lyon,9.4,Meal/Entertain
+2024-02-17 07:58:00,2024-02-17 08:19:00,Boulogne-Billancourt,Paris,8.09,Airport
+2024-10-17 07:27:00,2024-10-17 08:11:00,Vénissieux,Oullins,10.24,Business
+2024-05-19 13:04:00,2024-05-19 13:36:00,Issy-les-Moulineaux,Versailles,9.53,Commute
+2024-04-16 20:19:00,2024-04-16 20:43:00,Madrid,Madrid,4.55,Meal/Entertain
+2024-12-30 13:22:00,2024-12-30 13:50:00,Issy-les-Moulineaux,Créteil,8.08,Business
+2024-10-08 13:06:00,2024-10-08 13:35:00,Issy-les-Moulineaux,Paris,7.28,Meeting
+2024-11-18 08:37:00,2024-11-18 08:57:00,Paris,Paris,2.23,Commute
+2024-08-24 07:10:00,2024-08-24 07:34:00,Paris,Issy-les-Moulineaux,6.28,Business
+2024-08-16 10:02:00,2024-08-16 10:17:00,Aubagne,Aubagne,2.85,Commute
+2024-03-11 19:12:00,2024-03-11 19:30:00,Aubagne,Martigues,5.97,Commute
+2024-10-16 22:20:00,2024-10-16 23:19:00,Issy-les-Moulineaux,Paris,16.34,Commute
+2024-10-26 13:10:00,2024-10-26 13:34:00,Boulogne-Billancourt,Boulogne-Billancourt,3.62,Meeting
+2024-07-17 17:59:00,2024-07-17 18:24:00,Issy-les-Moulineaux,Créteil,5.11,Meeting
+2024-10-15 10:36:00,2024-10-15 11:06:00,Saint-Denis,Issy-les-Moulineaux,5.28,Shopping
+2024-11-04 13:01:00,2024-11-04 13:07:00,Alcorcón,Lisb0n,0.8,Business
+2024-12-26 10:49:00,2024-12-26 11:33:00,Boulogne-Billancourt,Nanterre,16.07,Business
+2024-06-14 10:10:00,2024-06-14 10:25:00,Lyon,Oullins,4.26,Commute
+2024-10-28 11:24:00,2024-10-28 11:50:00,Aubagne,Aix-en-Provence,6.96,Business
+2024-06-11 13:40:00,2024-06-11 13:48:00,Créteil,Créteil,2.66,Business
+2024-12-09 16:28:00,2024-12-09 16:37:00,Par1s,Créteil,2.5,Customer Visit
+2024-08-02 11:56:00,2024-08-02 12:49:00,Nanterre,Issy-les-Moulineaux,11.74,Commute
+2024-02-07 07:18:00,2024-02-07 07:34:00,Lyon#,Bron,3.56,Business
+2024-11-10 21:45:00,2024-11-10 22:04:00,Marse!lle,Nanterre,7.86,Commute
+2024-06-01 13:06:00,2024-06-01 13:19:00,Getafe,Getafe,1.35,Airport
+2024-01-14 12:10:00,2024-01-14 12:34:00,Getafe,Getafe,3.8,Business
+2024-10-05 18:11:00,2024-10-05 18:41:00,Lyon,Caluire-et-Cuire,8.55,Business
+2024-12-07 09:05:00,2024-12-07 09:29:00,Paris,Saint-Denis,7.78,Customer Visit
+2024-08-02 23:43:00,2024-08-03 00:51:00,Oullins,Caluire-et-Cuire,17.04,Customer Visit
+2024-12-12 10:07:00,2024-12-12 10:59:00,Alcorcón,Móstoles,14.33,Customer Visit
+2024-12-15 19:12:00,2024-12-15 19:40:00,Amadora,Oeiras,4.41,Business
+2024-05-21 22:29:00,2024-05-21 23:08:00,Leganés,Marse!lle,9.94,Meeting
+2024-10-25 09:59:00,2024-10-25 10:24:00,La Ciotat,Marseille,7.64,Meeting
+2024-05-21 18:09:00,2024-05-21 18:50:00,Pozuelo de Alarcón,Leganés,11.04,Business
+2024-05-17 17:01:00,2024-05-17 17:17:00,Bron,Vénissieux,6.05,Airport
+2024-08-14 16:17:00,2024-08-14 16:38:00,Issy-les-Moulineaux,Créteil,3.7,Meal/Entertain
+2024-01-29 22:50:00,2024-01-29 23:09:00,Versailles,Saint-Denis,0.8,Errand
+2024-05-07 07:29:00,2024-05-07 08:03:00,Villeurbanne,Saint-Priest,9.29,Customer Visit
+2024-05-03 17:31:00,2024-05-03 17:55:00,Nanterre,Créteil,7.75,Airport
+2024-07-16 07:10:00,2024-07-16 07:42:00,Móstoles,Leganés,13.43,Commute
+2024-12-15 06:30:00,2024-12-15 07:32:00,Boulogne-Billancourt,Issy-les-Moulineaux,16.67,Meeting
+2024-07-11 17:29:00,2024-07-11 17:57:00,Marseille,Martigues,9.8,Commute
+2024-07-10 23:41:00,2024-07-11 00:14:00,Salon-de-Provence,La Ciotat,4.89,
+2024-11-29 15:12:00,2024-11-29 15:28:00,Aubagne,Aubagne,3.05,Meeting
+2024-05-31 14:58:00,2024-05-31 15:15:00,Pozuelo de Alarcón,Móstoles,5.25,Meeting
+2024-11-22 21:58:00,2024-11-22 22:35:00,Créteil,Boulogne-Billancourt,10.74,Airport
+2024-10-13 11:43:00,2024-10-13 12:21:00,Boulogne-Billancourt,Créteil,9.36,Airport
+2024-10-26 15:29:00,2024-10-26 16:06:00,Boulogne-Billancourt,Versailles,10.35,Commute
+2024-07-30 07:55:00,2024-07-30 08:49:00,Móstoles,Fuenlabrada,17.01,Meeting
+2024-09-06 16:40:00,2024-09-06 17:24:00,Versailles,Saint-Denis,12.59,Customer Visit
+2024-08-10 19:25:00,2024-08-10 19:41:00,Versailles,Boulogne-Billancourt,6.15,Business
+2024-09-28 12:01:00,2024-09-28 12:26:00,Saint-Denis,Nanterre,7.28,Customer Visit
+2024-01-24 15:18:00,2024-01-24 15:51:00,Créteil,Nanterre,11.55,Business
+2024-04-06 11:58:00,2024-04-06 12:45:00,Bron,Villeurbanne,11.71,Commute
+2024-01-20 18:56:00,2024-01-20 19:32:00,Créteil,Boulogne-Billancourt,7.9,Airport
+2024-02-29 19:28:00,2024-02-29 19:37:00,La Ciotat,Salon-de-Provence,2.52,Business
+2024-11-06 10:26:00,2024-11-06 10:56:00,Villeurbanne,Oullins,5.9,Commute
+2024-09-24 12:22:00,2024-09-24 12:43:00,Marseille,Aix-en-Provence,5.72,Customer Visit
+2024-10-20 21:09:00,2024-10-20 21:53:00,Versailles,Issy-les-Moulineaux,12.18,Errand
+2024-01-26 09:52:00,2024-01-26 10:08:00,Créteil,Créteil,3.16,Commute
+2024-01-24 06:54:00,2024-01-24 07:23:00,Issy-les-Moulineaux,Versailles,11.76,Errand
+2024-07-23 20:17:00,2024-07-23 20:44:00,Versailles,Nanterre,9.94,Business
+2024-03-22 09:26:00,2024-03-22 09:50:00,Bron,Villeurbanne,7.13,
+2024-09-06 09:56:00,2024-09-06 10:21:00,Bron,Caluire-et-Cuire,9.63,Commute
+2024-12-08 16:33:00,2024-12-08 16:51:00,Nanterre,Nanterre,4.36,Meal/Entertain
+2024-10-12 07:00:00,2024-10-12 07:25:00,Créteil,Versailles,4.46,Business
+2024-04-24 23:41:00,2024-04-25 00:27:00,Pozuelo de Alarcón,Getafe,13.17,Business
+2024-03-01 21:47:00,2024-03-01 22:37:00,Versailles,Saint-Denis,10.87,Commute
+2024-12-01 20:21:00,2024-12-01 21:04:00,Caluire-et-Cuire,Lyon,11.5,Meeting
+2024-02-28 09:48:00,2024-02-28 10:02:00,Versailles,Lyon#,0.8,Airport
+2024-07-28 09:16:00,2024-07-28 09:46:00,Pozuelo de Alarcón,Móstoles,7.0,Business
+2024-01-24 09:49:00,2024-01-24 10:15:00,Cascais,Amadora,10.02,Customer Visit
+2024-09-04 22:49:00,2024-09-04 23:14:00,La Ciotat,La Ciotat,3.21,Customer Visit
+2024-08-02 13:17:00,2024-08-02 13:42:00,Saint-Priest,Lyon,3.87,Errand
+2024-10-07 16:45:00,2024-10-07 16:58:00,Issy-les-Moulineaux,Issy-les-Moulineaux,1.35,Customer Visit
+2024-11-28 11:32:00,2024-11-28 12:04:00,Boulogne-Billancourt,Versailles,12.14,
+2024-08-04 06:33:00,2024-08-04 06:45:00,Salon-de-Provence,Aubagne,0.8,Errand
+2024-02-01 15:13:00,2024-02-01 15:28:00,Paris,Aix123,3.15,Business
+2024-12-22 15:44:00,2024-12-22 16:10:00,Caluire-et-Cuire,Oullins,5.53,Business
+2024-05-08 12:39:00,2024-05-08 12:55:00,Oullins,Vénissieux,7.28,Business
+2024-04-09 15:28:00,2024-04-09 15:52:00,Villeurbanne,Oullins,7.42,Customer Visit
+2024-05-15 10:10:00,2024-05-15 10:36:00,Boulogne-Billancourt,Paris,4.33,Commute
+2024-10-20 23:22:00,2024-10-21 00:07:00,Créteil,Paris,10.76,Commute
+2024-04-23 12:42:00,2024-04-23 13:30:00,Villeurbanne,Saint-Priest,11.77,Business
+2024-06-26 20:15:00,2024-06-26 20:48:00,Issy-les-Moulineaux,Versailles,16.88,Business
+2024-10-03 15:01:00,2024-10-03 15:27:00,Marseille,Aubagne,8.32,Commute
+2024-02-19 11:49:00,2024-02-19 12:58:00,Oullins,Unknown Location,17.76,Business
+2024-12-25 19:41:00,2024-12-25 20:13:00,Créteil,Issy-les-Moulineaux,11.12,Business
+2024-10-21 13:58:00,2024-10-21 14:37:00,Marseille,Aubagne,10.21,Meeting
+2024-11-12 08:48:00,2024-11-12 09:09:00,Aubagne,La Ciotat,8.91,Meeting
+2024-08-12 18:25:00,2024-08-12 18:51:00,Leganés,Par1s,6.8,Customer Visit
+2024-11-27 17:00:00,2024-11-27 17:47:00,Villeurbanne,Saint-Priest,15.13,Commute
+2024-11-26 22:09:00,2024-11-26 22:24:00,Paris,Saint-Denis,0.8,Business
+2024-02-07 15:42:00,2024-02-07 16:05:00,Getafe,Getafe,2.34,Meeting
+2024-11-13 08:57:00,2024-11-13 09:16:00,Aubagne,Vitrolles,3.38,Business
+2024-06-09 13:50:00,2024-06-09 14:29:00,Créteil,Saint-Denis,11.85,Business
+2024-07-02 15:31:00,2024-07-02 16:16:00,Oullins,Saint-Priest,13.26,Commute
+2024-01-10 22:40:00,2024-01-10 23:06:00,Lisb0n,Aix-en-Provence,10.81,Airport
+2024-03-17 17:25:00,2024-03-17 18:00:00,Getafe,Fuenlabrada,6.62,Meeting
+2024-11-10 11:48:00,2024-11-10 11:58:00,Vitrolles,Vitrolles,3.2,Airport
+2024-04-28 08:16:00,2024-04-28 08:45:00,Saint-Denis,Boulogne-Billancourt,8.04,Customer Visit
+2024-11-28 16:06:00,2024-11-28 16:15:00,Issy-les-Moulineaux,Versailles,3.35,Business
+2024-02-09 22:16:00,2024-02-09 22:41:00,Pozuelo de Alarcón,Móstoles,5.83,Meeting
+2024-01-04 22:56:00,2024-01-04 23:31:00,Vénissieux,Bron,7.74,Errand
+2024-07-31 16:46:00,2024-07-31 17:12:00,Créteil,Boulogne-Billancourt,10.15,Airport
+2024-09-19 07:57:00,2024-09-19 08:14:00,Caluire-et-Cuire,Caluire-et-Cuire,3.35,Business
+2024-12-04 15:05:00,2024-12-04 15:24:00,Boulogne-Billancourt,Saint-Denis,7.67,Errand
+2024-09-18 14:10:00,2024-09-18 14:20:00,Bron,Bron,1.54,Meeting
+2024-09-15 19:52:00,2024-09-15 20:22:00,Caluire-et-Cuire,Caluire-et-Cuire,3.72,Errand
+2024-10-03 06:57:00,2024-10-03 07:18:00,Caluire-et-Cuire,Saint-Priest,6.25,Errand
+2024-09-03 18:22:00,2024-09-03 18:55:00,Bron,Lyon,8.45,Business
+2024-10-05 19:16:00,2024-10-05 19:53:00,Fuenlabrada,Alcorcón,11.92,Commute
+2024-06-10 19:23:00,2024-06-10 20:11:00,Móstoles,Fuenlabrada,12.32,Airport
+2024-07-30 23:50:00,2024-07-31 00:09:00,Vitrolles,La Ciotat,2.81,Customer Visit
+2024-12-03 09:47:00,2024-12-03 10:14:00,Bron,Vénissieux,6.05,Airport
+2024-11-21 06:51:00,2024-11-21 07:17:00,Lisbon,Sintra,10.32,Business
+2024-07-24 22:18:00,2024-07-24 22:38:00,Cascais,Cascais,3.09,Shopping
+2024-01-18 22:33:00,2024-01-18 22:56:00,Almada,Almada,2.99,Commute
+2024-07-23 17:42:00,2024-07-23 18:02:00,Vitrolles,Marseille,8.52,
+2024-05-21 13:38:00,2024-05-21 13:54:00,Saint-Priest,Lyon,1.61,Commute
+2024-06-23 09:51:00,2024-06-23 10:10:00,Lyon,Caluire-et-Cuire,6.28,Meeting
+2024-08-22 20:57:00,2024-08-22 21:16:00,Oullins,Unknown Location,4.4,Customer Visit
+2024-07-30 17:33:00,2024-07-30 18:03:00,Versailles,Boulogne-Billancourt,10.04,Customer Visit
+2024-06-30 12:57:00,2024-06-30 13:06:00,Nanterre,Nanterre,0.9,Commute
+2024-05-07 17:09:00,2024-05-07 17:42:00,Aix-en-Provence,Vitrolles,8.82,Business
+2024-07-09 16:31:00,2024-07-09 16:58:00,Créteil,Paris,11.84,Customer Visit
+2024-08-04 21:34:00,2024-08-04 21:55:00,Lyon#,Saint-Priest,7.9,Meeting
+2024-01-05 06:43:00,2024-01-05 07:24:00,Aix-en-Provence,Marseille,11.63,Commute
+2024-09-12 19:13:00,2024-09-12 19:38:00,Saint-Denis,Boulogne-Billancourt,5.34,Commute
+2024-05-18 13:35:00,2024-05-18 14:01:00,Bron,Villeurbanne,7.51,Customer Visit
+2024-06-10 21:19:00,2024-06-10 21:42:00,Créteil,Créteil,2.38,Meeting
+2024-06-20 14:23:00,2024-06-20 14:46:00,Paris,Boulogne-Billancourt,9.24,Commute
+2024-11-28 23:11:00,2024-11-28 23:28:00,Leganés,Leganés,5.24,Meeting
+2024-05-26 20:40:00,2024-05-26 21:20:00,Saint-Denis,Issy-les-Moulineaux,14.74,Commute
+2024-06-09 16:41:00,2024-06-09 16:50:00,Vitrolles,Martigues,0.8,Commute
+2024-07-30 11:11:00,2024-07-30 11:38:00,Vitrolles,Aubagne,4.69,Meal/Entertain
+2024-08-30 23:03:00,2024-08-30 23:29:00,Madri$d,Issy-les-Moulineaux,8.49,Business
+2024-05-06 15:28:00,2024-05-06 15:58:00,Lisbon,Oeiras,5.41,Commute
+2024-10-03 14:35:00,2024-10-03 15:02:00,Madrid,Madrid,5.64,Meal/Entertain
+2024-09-30 15:58:00,2024-09-30 16:25:00,Aix-en-Provence,La Ciotat,4.15,Meeting
+2024-09-24 10:22:00,2024-09-24 10:43:00,Alcorcón,Móstoles,3.81,Business
+2024-10-07 17:12:00,2024-10-07 17:33:00,Aubagne,La Ciotat,6.15,Customer Visit
+2024-02-10 19:40:00,2024-02-10 20:34:00,Villeurbanne,Oullins,15.8,Business
+2024-02-05 11:08:00,2024-02-05 11:37:00,Almada,Oeiras,6.9,Business
+2024-09-30 06:11:00,2024-09-30 06:58:00,Vitrolles,La Ciotat,15.74,Business
+2024-09-12 17:29:00,2024-09-12 18:10:00,Versailles,Unknown Location,9.15,Commute
+2024-05-08 18:53:00,2024-05-08 19:09:00,Aix123,Getafe,3.29,Errand
+2024-04-16 21:24:00,2024-04-16 21:48:00,Bron,Lyon,6.79,Meeting
+2024-01-27 12:07:00,2024-01-27 12:55:00,Créteil,Issy-les-Moulineaux,13.54,Business
+2024-01-22 21:44:00,2024-01-22 22:09:00,Issy-les-Moulineaux,Paris,6.41,Business
+2024-11-26 10:44:00,2024-11-26 10:50:00,Boulogne-Billancourt,Issy-les-Moulineaux,0.86,Business
+2024-01-11 18:22:00,2024-01-11 18:41:00,Vénissieux,Oullins,1.44,Airport
+2024-08-27 14:55:00,2024-08-27 15:16:00,Créteil,Nanterre,3.46,Commute
+2024-08-20 06:49:00,2024-08-20 07:18:00,Lyon,Caluire-et-Cuire,7.11,Meeting
+2024-12-15 21:49:00,2024-12-15 22:22:00,Paris,Versailles,9.04,Business
+2024-03-07 11:55:00,2024-03-07 12:11:00,Unknown Location,Paris,5.22,Business
+2024-04-23 08:00:00,2024-04-23 08:21:00,Saint-Denis,Versailles,5.49,Business
+2024-12-28 07:52:00,2024-12-28 08:14:00,Oullins,Oullins,3.36,Customer Visit
+2024-04-28 23:24:00,2024-04-28 23:42:00,Salon-de-Provence,Aix-en-Provence,6.99,Business
+2024-12-25 19:56:00,2024-12-25 20:35:00,Créteil,Saint-Denis,8.48,Airport
+2024-06-10 23:20:00,2024-06-10 23:45:00,Caluire-et-Cuire,Villeurbanne,3.84,Shopping
+2024-08-19 20:25:00,2024-08-19 20:57:00,Unknown Location,La Ciotat,8.83,Commute
+2024-01-12 14:58:00,2024-01-12 15:12:00,La Ciotat,La Ciotat,3.32,Errand
+2024-06-02 08:36:00,2024-06-02 08:51:00,Amadora,Amadora,2.41,Business
+2024-06-02 07:46:00,2024-06-02 08:17:00,Martigues,Aubagne,9.15,Meeting
+2024-11-04 06:40:00,2024-11-04 06:50:00,Pozuelo de Alarcón,Alcorcón,0.8,Airport
+2024-03-19 07:43:00,2024-03-19 08:39:00,Paris,Créteil,13.03,Airport
+2024-08-31 07:35:00,2024-08-31 08:04:00,Caluire-et-Cuire,Lyon,9.15,Commute
+2024-11-29 12:35:00,2024-11-29 13:12:00,Oullins,Villeurbanne,12.17,Commute
+2024-06-27 12:20:00,2024-06-27 12:47:00,Paris,Saint-Denis,3.95,Commute
+2024-08-13 07:59:00,2024-08-13 08:50:00,Getafe,Fuenlabrada,17.65,Meeting
+2024-05-27 06:21:00,2024-05-27 06:45:00,Oullins,Lyon,9.65,Errand
+2024-05-12 23:30:00,2024-05-13 00:00:00,Lyon,Oullins,9.48,Meeting
+2024-04-12 14:03:00,2024-04-12 14:16:00,Martigues,Martigues,2.17,Business
+2024-07-13 22:45:00,2024-07-13 23:18:00,Créteil,Issy-les-Moulineaux,7.13,Business
+2024-09-28 15:21:00,2024-09-28 15:33:00,Móstoles,Móstoles,4.35,Business
+2024-02-01 14:56:00,2024-02-01 16:07:00,Créteil,Issy-les-Moulineaux,19.64,Commute
+2024-09-23 13:26:00,2024-09-23 14:01:00,Sintra,Amadora,14.06,Airport
+2024-12-16 12:55:00,2024-12-16 13:50:00,Sintra,Loures,16.33,Meeting
+2024-03-01 11:20:00,2024-03-01 11:39:00,Getafe,Leganés,5.27,Meeting
+2024-11-22 14:09:00,2024-11-22 14:27:00,Nanterre,Saint-Denis,3.67,Commute
+2024-01-14 17:05:00,2024-01-14 17:36:00,Issy-les-Moulineaux,Saint-Denis,7.88,Business
+2024-03-11 11:12:00,2024-03-11 12:02:00,Caluire-et-Cuire,Oullins,14.29,Commute
+2024-08-12 21:44:00,2024-08-12 22:04:00,Oeiras,Amadora,7.86,Business
+2024-07-20 23:33:00,2024-07-20 23:48:00,Versailles,Créteil,0.8,Airport
+2024-09-21 07:12:00,2024-09-21 07:40:00,Paris,Boulogne-Billancourt,10.93,Meeting
+2024-03-13 20:53:00,2024-03-13 21:11:00,Issy-les-Moulineaux,Boulogne-Billancourt,6.15,Airport
+2024-10-29 12:56:00,2024-10-29 13:09:00,Villeurbanne,Oullins,4.19,Business
+2024-08-18 17:05:00,2024-08-18 17:24:00,Martigues,Salon-de-Provence,7.21,Business
+2024-12-03 10:10:00,2024-12-03 10:33:00,Móstoles,Getafe,5.31,Meeting
+2024-04-02 09:57:00,2024-04-02 10:37:00,Aubagne,Salon-de-Provence,11.54,Commute
+2024-10-28 21:29:00,2024-10-28 21:52:00,Vitrolles,Vitrolles,3.22,Business
+2024-01-29 17:02:00,2024-01-29 17:13:00,Aix-en-Provence,Lisb0n,4.31,Business
+2024-03-23 15:39:00,2024-03-23 16:08:00,Leganés,Madrid,4.57,
+2024-06-14 17:57:00,2024-06-14 18:08:00,Caluire-et-Cuire,Caluire-et-Cuire,3.71,Customer Visit
+2024-09-25 12:44:00,2024-09-25 13:02:00,Caluire-et-Cuire,Caluire-et-Cuire,3.33,Meeting
+2024-06-11 14:33:00,2024-06-11 14:47:00,Saint-Priest,Lyon,1.66,Commute
+2024-04-02 13:45:00,2024-04-02 14:21:00,Sintra,Loures,9.2,Commute
+2024-06-19 17:35:00,2024-06-19 18:08:00,Versailles,Paris,8.26,Commute
+2024-01-04 09:43:00,2024-01-04 10:15:00,Martigues,Marseille,5.44,Meeting
+2024-11-26 10:30:00,2024-11-26 11:01:00,Lyon,Vénissieux,6.52,Customer Visit
+2024-06-02 16:35:00,2024-06-02 17:01:00,Leganés,Móstoles,12.07,Customer Visit
+2024-11-16 23:53:00,2024-11-17 00:26:00,Salon-de-Provence,Vitrolles,10.84,
+2024-05-19 19:05:00,2024-05-19 19:37:00,Paris,Versailles,9.53,Airport
+2024-08-15 22:01:00,2024-08-15 22:42:00,Vénissieux,Bron,10.48,Shopping
+2024-03-14 09:52:00,2024-03-14 10:27:00,Nanterre,Issy-les-Moulineaux,12.38,Customer Visit
+2024-12-17 08:21:00,2024-12-17 08:37:00,Amadora,Sintra,1.65,Shopping
+2024-04-17 16:12:00,2024-04-17 16:55:00,Saint-Priest,Lyon,14.34,Meeting
+2024-10-04 17:35:00,2024-10-04 18:28:00,Versailles,Nanterre,10.63,Business
+2024-01-26 10:01:00,2024-01-26 10:49:00,Vitrolles,Aix-en-Provence,11.4,Meeting
+2024-06-08 16:52:00,2024-06-08 17:16:00,Paris,Paris,4.57,Meeting
+2024-06-07 20:30:00,2024-06-07 20:59:00,Madrid,Móstoles,6.69,Business
+2024-06-15 20:31:00,2024-06-15 21:02:00,Madri$d,Leganés,7.68,Customer Visit
+2024-02-24 16:35:00,2024-02-24 16:43:00,Oullins,Oullins,1.31,Commute
+2024-04-16 19:50:00,2024-04-16 20:12:00,Bron,Villeurbanne,4.39,Business
+2024-11-01 20:20:00,2024-11-01 20:47:00,Saint-Priest,Oullins,4.6,Business
+2024-11-26 07:05:00,2024-11-26 07:29:00,Versailles,Versailles,4.82,Commute
+2024-10-22 20:12:00,2024-10-22 20:44:00,Salon-de-Provence,Marseille,8.79,Commute
+2024-06-25 08:37:00,2024-06-25 08:55:00,Lisb0n,Nanterre,1.89,Airport
+2024-05-24 06:15:00,2024-05-24 06:31:00,Nanterre,Nanterre,1.06,Business
+2024-07-15 17:53:00,2024-07-15 18:15:00,Martigues,Aubagne,5.65,Business
+2024-03-10 08:08:00,2024-03-10 08:32:00,Getafe,Getafe,3.42,Meeting
+2024-10-09 20:24:00,2024-10-09 20:59:00,Oullins,Bron,8.85,Meeting
+2024-01-20 21:45:00,2024-01-20 22:20:00,La Ciotat,Salon-de-Provence,8.94,Business
+2024-02-10 22:56:00,2024-02-10 23:11:00,Lisbon,Lisbon,2.73,Commute
+2024-06-24 23:49:00,2024-06-25 00:01:00,Madri$d,Marseille,0.8,Meeting
+2024-11-01 15:46:00,2024-11-01 16:33:00,Saint-Priest,Vénissieux,16.31,Airport
+2024-02-12 10:32:00,2024-02-12 10:48:00,La Ciotat,La Ciotat,7.24,Commute
+2024-10-29 10:42:00,2024-10-29 11:29:00,Saint-Denis,Nanterre,12.87,Meeting
+2024-10-31 10:53:00,2024-10-31 11:26:00,Créteil,Boulogne-Billancourt,11.23,Meal/Entertain
+2024-06-25 07:41:00,2024-06-25 07:50:00,Getafe,Pozuelo de Alarcón,0.8,Meeting
+2024-12-27 18:30:00,2024-12-27 18:40:00,Versailles,Nanterre,0.8,Commute
+2024-12-15 07:06:00,2024-12-15 07:44:00,Vénissieux,Caluire-et-Cuire,10.13,Meal/Entertain
+2024-10-26 18:29:00,2024-10-26 19:04:00,Cascais,Almada,11.06,Commute
+2024-01-06 06:53:00,2024-01-06 07:14:00,La Ciotat,Martigues,5.34,Commute
+2024-10-31 12:38:00,2024-10-31 13:07:00,Saint-Priest,Villeurbanne,7.97,Business
+2024-12-22 11:16:00,2024-12-22 11:34:00,Issy-les-Moulineaux,Versailles,5.11,Errand
+2024-02-07 14:49:00,2024-02-07 15:21:00,Versailles,Nanterre,9.34,Commute
+2024-04-12 18:11:00,2024-04-12 18:19:00,Oeiras,Cascais,1.64,Commute
+2024-10-19 14:49:00,2024-10-19 15:26:00,Bron,Oullins,12.31,Business
+2024-10-21 06:32:00,2024-10-21 06:57:00,Créteil,Créteil,4.55,Errand
+2024-12-18 21:07:00,2024-12-18 21:31:00,Bron,Lyon,9.55,Commute
+2024-08-23 15:41:00,2024-08-23 15:55:00,Saint-Priest,Lyon,0.84,Business
+2024-07-02 21:05:00,2024-07-02 21:12:00,Loures,Almada,0.8,Meeting
+2024-08-18 06:02:00,2024-08-18 06:43:00,Paris,Issy-les-Moulineaux,11.82,Commute
+2024-04-29 08:02:00,2024-04-29 08:17:00,Aubagne,Aubagne,3.93,Airport
+2024-02-19 20:39:00,2024-02-19 20:50:00,Saint-Denis,Saint-Denis,2.98,Errand
+2024-12-13 18:20:00,2024-12-13 18:33:00,Madrid,Madrid,1.6,Commute
+2024-03-02 14:09:00,2024-03-02 14:26:00,Vénissieux,Villeurbanne,5.0,Commute
+2024-01-09 21:05:00,2024-01-09 21:40:00,Par1s,Saint-Priest,10.5,Customer Visit
+2024-04-15 10:40:00,2024-04-15 11:16:00,La Ciotat,Aubagne,9.02,Airport
+2024-06-03 17:26:00,2024-06-03 17:35:00,Par1s,Paris,2.62,Meeting
+2024-12-03 12:17:00,2024-12-03 12:43:00,Lisbon,Loures,4.43,Customer Visit
+2024-05-25 12:27:00,2024-05-25 12:41:00,Issy-les-Moulineaux,Versailles,5.85,Meeting
+2024-02-29 08:57:00,2024-02-29 09:07:00,Alcorcón,Alcorcón,3.01,Commute
+2024-06-15 13:06:00,2024-06-15 13:16:00,Bron,Oullins,0.8,Customer Visit
+2024-08-20 11:24:00,2024-08-20 11:39:00,Boulogne-Billancourt,Boulogne-Billancourt,2.96,Shopping
+2024-08-26 20:26:00,2024-08-26 20:54:00,Nanterre,Boulogne-Billancourt,7.91,Business
+2024-09-24 21:55:00,2024-09-24 22:12:00,Móstoles,Móstoles,4.16,Business
+2024-10-29 10:58:00,2024-10-29 11:15:00,Leganés,Unknown Location,0.8,Meeting
+2024-12-22 09:28:00,2024-12-22 10:26:00,Versailles,Créteil,12.49,Commute
+2024-12-08 15:10:00,2024-12-08 15:38:00,Martigues,Aix-en-Provence,11.03,Business
+2024-07-08 20:45:00,2024-07-08 21:22:00,Marseille,La Ciotat,11.29,Business
+2024-02-11 16:47:00,2024-02-11 17:08:00,Créteil,Paris,6.33,Customer Visit
+2024-07-06 17:11:00,2024-07-06 18:07:00,Oeiras,Lisbon,15.7,Meeting
+2024-04-25 16:22:00,2024-04-25 16:51:00,Oullins,Vénissieux,8.66,Customer Visit
+2024-09-29 23:57:00,2024-09-30 00:07:00,Lyon,Lyon,2.29,Commute
+2024-07-19 11:18:00,2024-07-19 12:11:00,Fuenlabrada,Madrid,12.79,Business
+2024-12-15 23:59:00,2024-12-16 00:20:00,Paris,Saint-Denis,10.28,Commute
+2024-07-29 16:41:00,2024-07-29 17:05:00,Saint-Priest,Saint-Priest,3.31,Meeting
+2024-06-05 11:50:00,2024-06-05 12:24:00,Martigues,La Ciotat,9.38,Meeting
+2024-05-26 11:11:00,2024-05-26 11:34:00,Almada,Amadora,5.5,Airport
+2024-04-04 12:35:00,2024-04-04 13:05:00,Aix-en-Provence,Aix-en-Provence,6.51,Commute
+2024-01-13 18:59:00,2024-01-13 19:44:00,Amadora,Loures,18.11,Business
+2024-05-28 10:51:00,2024-05-28 11:08:00,Vénissieux,Vénissieux,2.87,Commute
+2024-07-24 13:28:00,2024-07-24 13:40:00,Saint-Priest,Saint-Priest,3.25,Commute
+2024-08-16 08:32:00,2024-08-16 09:04:00,Aix-en-Provence,Vitrolles,10.0,Meeting
+2024-08-06 17:24:00,2024-08-06 17:32:00,La Ciotat,Salon-de-Provence,0.97,Airport
+2024-05-27 11:51:00,2024-05-27 12:28:00,Bron,Lyon,10.51,Customer Visit
+2024-09-25 16:04:00,2024-09-25 16:28:00,Aubagne,Aubagne,2.69,
+2024-03-11 12:11:00,2024-03-11 12:45:00,Lyon,Bron,7.51,Airport
+2024-03-19 14:19:00,2024-03-19 14:37:00,Oullins,Caluire-et-Cuire,6.59,Customer Visit
+2024-11-26 13:01:00,2024-11-26 13:53:00,Saint-Priest,Vénissieux,13.93,Errand
+2024-03-02 17:32:00,2024-03-02 17:55:00,Lisbon,Lyon#,3.43,Meal/Entertain
+2024-08-02 17:03:00,2024-08-02 17:09:00,Paris,Paris,1.11,Commute
+2024-03-26 23:20:00,2024-03-26 23:54:00,Sintra,Almada,10.18,Meeting
+2024-09-22 15:23:00,2024-09-22 15:46:00,Vitrolles,Salon-de-Provence,7.74,Business
+2024-12-30 23:44:00,2024-12-31 00:12:00,Amadora,Amadora,3.76,Customer Visit
+2024-08-14 22:48:00,2024-08-14 23:09:00,Lyon,Lyon,3.38,Business
+2024-06-06 10:13:00,2024-06-06 10:46:00,Créteil,Boulogne-Billancourt,9.12,Airport
+2024-12-03 22:37:00,2024-12-03 22:53:00,Salon-de-Provence,Salon-de-Provence,3.39,Business
+2024-04-12 11:42:00,2024-04-12 12:06:00,Paris,Boulogne-Billancourt,8.72,Meeting
+2024-11-09 13:32:00,2024-11-09 13:52:00,Leganés,Alcorcón,0.8,Customer Visit
+2024-02-20 12:58:00,2024-02-20 13:19:00,Lyon,Oullins,9.81,Meal/Entertain
+2024-07-13 19:13:00,2024-07-13 19:42:00,Caluire-et-Cuire,Oullins,11.92,Customer Visit
+2024-01-21 08:20:00,2024-01-21 08:38:00,Leganés,Leganés,3.68,Meeting
+2024-02-05 21:43:00,2024-02-05 22:15:00,Saint-Priest,Marse!lle,9.2,Business
+2024-07-21 18:44:00,2024-07-21 19:16:00,Lyon,Saint-Priest,13.05,Business
+2024-08-05 21:17:00,2024-08-05 21:37:00,Amadora,Amadora,3.0,Business
+2024-09-18 14:09:00,2024-09-18 14:50:00,Salon-de-Provence,Martigues,12.46,
+2024-09-12 06:11:00,2024-09-12 06:36:00,Versailles,Boulogne-Billancourt,7.03,Customer Visit
+2024-12-04 21:31:00,2024-12-04 22:00:00,Saint-Denis,Paris,5.61,Business
+2024-06-10 18:28:00,2024-06-10 18:40:00,Móstoles,Lisb0n,3.88,Commute
+2024-02-26 21:42:00,2024-02-26 22:25:00,Salon-de-Provence,Martigues,10.95,Commute
+2024-07-12 17:49:00,2024-07-12 18:39:00,Caluire-et-Cuire,Saint-Priest,12.6,Commute
+2024-08-07 17:22:00,2024-08-07 17:45:00,Paris,Paris,5.1,Commute
+2024-01-11 23:20:00,2024-01-11 23:53:00,Boulogne-Billancourt,Créteil,14.41,Commute
+2024-06-11 18:36:00,2024-06-11 19:32:00,Caluire-et-Cuire,Vénissieux,11.99,Meeting
+2024-06-02 17:27:00,2024-06-02 17:51:00,Madrid,Leganés,5.76,Business
+2024-10-20 18:51:00,2024-10-20 19:38:00,Lisbon,Loures,13.06,Business
+2024-06-26 08:41:00,2024-06-26 09:13:00,Issy-les-Moulineaux,Saint-Denis,7.63,Commute
+2024-08-20 23:11:00,2024-08-20 23:46:00,Créteil,Boulogne-Billancourt,9.94,Meeting
+2024-09-29 19:59:00,2024-09-29 20:16:00,Villeurbanne,Vénissieux,4.04,Shopping
+2024-07-29 16:55:00,2024-07-29 17:10:00,Vénissieux,Villeurbanne,1.4,Customer Visit
+2024-03-17 12:01:00,2024-03-17 12:29:00,Versailles,Nanterre,6.39,Business
+2024-05-19 10:01:00,2024-05-19 10:16:00,Caluire-et-Cuire,Bron,5.75,Business
+2024-06-01 08:57:00,2024-06-01 09:45:00,Aix-en-Provence,Marseille,13.56,Commute
+2024-09-13 09:33:00,2024-09-13 09:56:00,Marseille,Salon-de-Provence,7.33,Business
+2024-07-18 13:59:00,2024-07-18 14:28:00,Móstoles,Madrid,8.67,Customer Visit
+2024-07-10 09:20:00,2024-07-10 09:44:00,Nanterre,Versailles,10.79,Commute
+2024-11-06 07:53:00,2024-11-06 08:02:00,Nanterre,Boulogne-Billancourt,3.85,Meeting
+2024-12-24 17:57:00,2024-12-24 18:40:00,Issy-les-Moulineaux,Nanterre,13.91,Meeting
+2024-04-30 15:13:00,2024-04-30 15:46:00,Pozuelo de Alarcón,Madrid,12.29,Commute
+2024-02-11 21:30:00,2024-02-11 21:48:00,Vénissieux,Oullins,6.09,Commute
+2024-10-07 16:29:00,2024-10-07 17:09:00,Versailles,Paris,11.64,Commute
+2024-06-05 16:36:00,2024-06-05 16:56:00,Aix-en-Provence,Salon-de-Provence,2.28,Business
+2024-03-09 14:11:00,2024-03-09 14:48:00,Oullins,Villeurbanne,12.42,Commute
+2024-01-12 23:41:00,2024-01-12 23:55:00,Getafe,Getafe,2.26,Business
+2024-08-07 14:09:00,2024-08-07 14:35:00,Versailles,Issy-les-Moulineaux,11.83,Commute
+2024-04-14 12:55:00,2024-04-14 13:17:00,Lisbon,Lisbon,2.81,Business
+2024-04-06 19:11:00,2024-04-06 19:25:00,Aubagne,Aubagne,1.71,Airport
+2024-08-28 10:55:00,2024-08-28 11:37:00,Nanterre,Saint-Denis,12.11,Business
+2024-10-12 07:03:00,2024-10-12 07:25:00,Martigues,Aubagne,6.12,Business
+2024-06-03 18:42:00,2024-06-03 19:21:00,Sintra,Loures,6.44,Meeting
+2024-06-11 22:27:00,2024-06-11 22:53:00,Caluire-et-Cuire,Caluire-et-Cuire,3.99,Business
+2024-05-14 14:33:00,2024-05-14 15:15:00,Boulogne-Billancourt,Versailles,13.09,Commute
+2024-03-17 07:14:00,2024-03-17 07:31:00,Versailles,Boulogne-Billancourt,0.8,Business
+2024-10-14 21:29:00,2024-10-14 21:58:00,Versailles,Saint-Denis,5.01,
+2024-10-15 12:37:00,2024-10-15 13:25:00,Madrid,Aix123,10.42,Customer Visit
+2024-01-14 15:43:00,2024-01-14 16:01:00,Bron,Villeurbanne,6.41,Errand
+2024-05-17 06:21:00,2024-05-17 07:06:00,Lyon,Vénissieux,13.42,Commute
+2024-01-25 15:20:00,2024-01-25 15:44:00,Oeiras,Almada,9.4,Business
+2024-04-16 11:24:00,2024-04-16 11:55:00,Caluire-et-Cuire,Bron,8.39,Business
+2024-11-04 10:22:00,2024-11-04 10:38:00,Martigues,Martigues,2.44,Errand
+2024-08-04 17:39:00,2024-08-04 18:33:00,Bron,Caluire-et-Cuire,16.21,Business
+2024-11-27 22:05:00,2024-11-27 22:34:00,Saint-Denis,Versailles,5.6,Meeting
+2024-09-24 19:18:00,2024-09-24 19:34:00,Cascais,Amadora,2.68,Customer Visit
+2024-10-26 08:49:00,2024-10-26 09:06:00,Sintra,Sintra,3.48,Commute
+2024-08-20 20:39:00,2024-08-20 21:18:00,Aix-en-Provence,La Ciotat,12.98,Meeting
+2024-02-24 19:34:00,2024-02-24 20:14:00,Madri$d,Amadora,9.81,Errand
+2024-11-11 17:44:00,2024-11-11 18:38:00,Versailles,Saint-Denis,16.44,Commute
+2024-04-17 21:41:00,2024-04-17 21:56:00,Vénissieux,Vénissieux,3.8,Errand
+2024-08-04 06:07:00,2024-08-04 06:56:00,Pozuelo de Alarcón,Getafe,10.7,Business
+2024-01-05 09:40:00,2024-01-05 10:07:00,Aubagne,La Ciotat,5.9,Business
+2024-07-23 21:32:00,2024-07-23 21:57:00,Bron,Saint-Priest,6.96,Business
+2024-05-17 19:56:00,2024-05-17 20:26:00,Salon-de-Provence,Aix-en-Provence,7.27,Meeting
+2024-08-28 17:28:00,2024-08-28 17:49:00,Oeiras,Sintra,3.12,Airport
+2024-12-10 17:50:00,2024-12-10 18:23:00,Oeiras,Almada,7.18,Meal/Entertain
+2024-04-12 11:38:00,2024-04-12 12:15:00,Boulogne-Billancourt,Issy-les-Moulineaux,6.51,Business
+2024-03-22 11:52:00,2024-03-22 12:04:00,Cascais,Amadora,0.8,Commute
+2024-06-23 17:49:00,2024-06-23 18:05:00,Leganés,Fuenlabrada,2.53,Commute
+2024-02-26 09:50:00,2024-02-26 10:27:00,Boulogne-Billancourt,Créteil,6.83,Customer Visit
+2024-07-04 11:46:00,2024-07-04 12:13:00,Almada,Sintra,7.21,Errand
+2024-07-31 06:15:00,2024-07-31 06:41:00,Saint-Priest,Villeurbanne,6.05,Commute
+2024-09-28 19:50:00,2024-09-28 20:03:00,Boulogne-Billancourt,Boulogne-Billancourt,1.57,Business
+2024-08-14 10:49:00,2024-08-14 11:30:00,Aix123,Saint-Priest,13.92,Shopping
+2024-01-30 22:18:00,2024-01-30 22:38:00,Nanterre,Boulogne-Billancourt,4.38,Errand
+2024-05-23 22:39:00,2024-05-23 23:19:00,Salon-de-Provence,Martigues,10.31,Business
+2024-06-03 08:02:00,2024-06-03 08:37:00,Villeurbanne,Saint-Priest,10.06,Customer Visit
+2024-06-08 22:21:00,2024-06-08 22:30:00,Aix-en-Provence,Martigues,2.15,Meeting
+2024-01-31 17:16:00,2024-01-31 17:52:00,Issy-les-Moulineaux,Nanterre,8.92,Business
+2024-04-30 23:54:00,2024-05-01 00:39:00,Créteil,Versailles,16.25,Commute
+2024-09-21 12:52:00,2024-09-21 13:13:00,Issy-les-Moulineaux,Saint-Denis,5.16,Business
+2024-08-31 12:28:00,2024-08-31 12:49:00,Versailles,Paris,2.21,Errand
+2024-09-07 19:52:00,2024-09-07 20:36:00,Caluire-et-Cuire,Bron,12.64,Airport
+2024-01-17 11:35:00,2024-01-17 11:50:00,Bron,Bron,2.41,Commute
+2024-07-10 15:18:00,2024-07-10 15:28:00,Aubagne,Aubagne,2.41,Commute
+2024-09-07 06:07:00,2024-09-07 06:37:00,Saint-Denis,Nanterre,11.22,Business
+2024-09-15 20:48:00,2024-09-15 21:05:00,Versailles,Créteil,4.6,Customer Visit
+2024-01-24 20:47:00,2024-01-24 21:05:00,Leganés,Leganés,1.81,Commute
+2024-02-13 12:39:00,2024-02-13 12:54:00,Paris,Issy-les-Moulineaux,4.06,Meeting
+2024-05-20 12:15:00,2024-05-20 12:38:00,Sintra,Cascais,7.63,Meal/Entertain
+2024-01-12 16:27:00,2024-01-12 16:52:00,Lyon,Lisb0n,8.49,Commute
+2024-02-15 10:19:00,2024-02-15 10:34:00,Nanterre,Nanterre,2.98,Commute
+2024-05-12 18:52:00,2024-05-12 19:40:00,Nanterre,Issy-les-Moulineaux,12.67,Errand
+2024-02-28 14:03:00,2024-02-28 14:45:00,Saint-Denis,Versailles,10.11,Commute
+2024-10-11 10:19:00,2024-10-11 10:45:00,Paris,Nanterre,9.25,Commute
+2024-10-02 19:58:00,2024-10-02 20:25:00,Móstoles,Getafe,8.05,Customer Visit
+2024-05-08 18:22:00,2024-05-08 18:55:00,Pozuelo de Alarcón,Fuenlabrada,8.65,Commute
+2024-03-12 23:17:00,2024-03-12 23:39:00,Leganés,Leganés,3.08,Airport
+2024-12-28 20:17:00,2024-12-28 20:32:00,Oullins,Saint-Priest,2.72,Meal/Entertain
+2024-01-03 06:43:00,2024-01-03 07:19:00,Bron,Vénissieux,15.37,Meeting
+2024-12-09 20:43:00,2024-12-09 21:15:00,Aubagne,Martigues,9.19,Meeting
+2024-04-08 20:00:00,2024-04-08 20:29:00,Caluire-et-Cuire,Lyon#,12.87,Commute
+2024-04-23 13:31:00,2024-04-23 13:45:00,Martigues,Marseille,1.53,Customer Visit
+2024-10-18 22:31:00,2024-10-18 23:23:00,Saint-Priest,Villeurbanne,21.45,Errand
+2024-03-06 14:59:00,2024-03-06 15:31:00,Martigues,La Ciotat,9.08,Airport
+2024-08-20 06:27:00,2024-08-20 07:21:00,Oullins,Saint-Priest,20.28,Airport
+2024-07-04 22:48:00,2024-07-04 23:34:00,Nanterre,Saint-Denis,10.22,Commute
+2024-04-25 19:04:00,2024-04-25 19:41:00,Versailles,Nanterre,11.46,
+2024-10-30 16:53:00,2024-10-30 17:36:00,Paris,Boulogne-Billancourt,8.6,Customer Visit
+2024-11-16 20:37:00,2024-11-16 21:09:00,Nanterre,Versailles,5.22,Customer Visit
+2024-08-14 07:19:00,2024-08-14 07:50:00,Cascais,Almada,8.09,Business
+2024-11-02 06:29:00,2024-11-02 07:09:00,Paris,Versailles,11.18,Business
+2024-04-08 09:06:00,2024-04-08 09:30:00,Marse!lle,Móstoles,1.97,Commute
+2024-09-03 20:11:00,2024-09-03 20:27:00,Getafe,Leganés,3.01,Commute
+2024-06-07 16:18:00,2024-06-07 17:06:00,Nanterre,Lisb0n,15.8,Business
+2024-04-12 12:50:00,2024-04-12 13:06:00,Aix-en-Provence,Aix-en-Provence,0.8,Commute
+2024-08-02 16:10:00,2024-08-02 16:39:00,Saint-Priest,Caluire-et-Cuire,8.12,Meeting
+2024-06-18 18:13:00,2024-06-18 18:30:00,Cascais,Lisbon,4.05,Business
+2024-07-03 07:01:00,2024-07-03 07:19:00,Paris,Paris,3.88,Meeting
+2024-01-12 11:53:00,2024-01-12 12:19:00,Nanterre,Versailles,8.92,Business
+2024-12-04 11:33:00,2024-12-04 12:02:00,Getafe,Madrid,6.87,Customer Visit
+2024-12-21 17:20:00,2024-12-21 17:38:00,Fuenlabrada,Fuenlabrada,5.16,Meeting
+2024-06-16 13:03:00,2024-06-16 14:02:00,Paris,Créteil,16.55,Customer Visit
+2024-07-17 22:23:00,2024-07-17 22:48:00,Saint-Denis,Versailles,8.97,Business
+2024-10-24 18:40:00,2024-10-24 19:19:00,Nanterre,Saint-Denis,10.29,Commute
+2024-07-10 14:35:00,2024-07-10 15:19:00,Boulogne-Billancourt,Saint-Denis,11.45,Meeting
+2024-08-06 20:29:00,2024-08-06 21:03:00,Saint-Denis,Créteil,5.08,Meeting
+2024-09-13 22:34:00,2024-09-13 22:54:00,Vénissieux,Villeurbanne,5.2,Commute
+2024-12-15 14:12:00,2024-12-15 14:29:00,Lisbon,Lisbon,2.08,Commute
+2024-05-24 17:50:00,2024-05-24 18:17:00,Almada,Sintra,12.85,Customer Visit
+2024-04-17 21:14:00,2024-04-17 21:29:00,Pozuelo de Alarcón,Alcorcón,0.82,Business
+2024-08-07 19:13:00,2024-08-07 19:26:00,Martigues,Vitrolles,0.8,Customer Visit
+2024-08-02 19:43:00,2024-08-02 20:10:00,Boulogne-Billancourt,Nanterre,5.98,Commute
+2024-03-19 16:36:00,2024-03-19 17:14:00,Vitrolles,Marseille,15.42,Shopping
+2024-06-17 20:40:00,2024-06-17 21:11:00,Salon-de-Provence,Aubagne,9.77,Commute
+2024-07-16 15:13:00,2024-07-16 15:34:00,Saint-Denis,Saint-Denis,4.08,Business
+2024-02-26 10:34:00,2024-02-26 10:58:00,Paris,Boulogne-Billancourt,3.07,Commute
+2024-06-07 12:32:00,2024-06-07 12:50:00,Oullins,Villeurbanne,5.45,Meeting
+2024-10-18 21:29:00,2024-10-18 22:14:00,Boulogne-Billancourt,Saint-Denis,16.23,Meeting
+2024-03-30 19:15:00,2024-03-30 19:36:00,Créteil,Versailles,3.56,Meeting
+2024-01-23 13:56:00,2024-01-23 14:34:00,Bron,Villeurbanne,15.6,Commute
+2024-10-10 09:23:00,2024-10-10 09:57:00,Vitrolles,Marseille,6.19,Commute
+2024-01-14 08:40:00,2024-01-14 09:02:00,Leganés,Getafe,1.68,Business
+2024-08-25 21:29:00,2024-08-25 21:59:00,Saint-Priest,Villeurbanne,7.97,Commute
+2024-03-31 15:07:00,2024-03-31 15:21:00,Versailles,Versailles,4.35,Meeting
+2024-09-29 12:28:00,2024-09-29 12:39:00,Issy-les-Moulineaux,Issy-les-Moulineaux,2.98,Errand
+2024-08-15 07:38:00,2024-08-15 08:18:00,Aix123,Pozuelo de Alarcón,13.3,Airport
+2024-04-08 08:14:00,2024-04-08 08:44:00,Boulogne-Billancourt,Nanterre,8.75,Commute
+2024-11-16 12:39:00,2024-11-16 13:03:00,Fuenlabrada,Fuenlabrada,3.92,Commute
+2024-11-30 16:00:00,2024-11-30 16:39:00,Lisbon,Amadora,12.55,Business
+2024-09-12 09:45:00,2024-09-12 10:16:00,Issy-les-Moulineaux,Saint-Denis,7.36,Customer Visit
+2024-12-21 10:21:00,2024-12-21 10:57:00,Getafe,Madrid,9.73,Airport
+2024-04-29 22:37:00,2024-04-29 23:03:00,Salon-de-Provence,Unknown Location,5.36,Meeting
+2024-01-31 10:23:00,2024-01-31 11:06:00,Marseille,Salon-de-Provence,13.8,Meeting
+2024-06-11 07:33:00,2024-06-11 07:49:00,Saint-Priest,Saint-Priest,2.33,Business
+2024-12-06 13:51:00,2024-12-06 14:00:00,Pozuelo de Alarcón,Pozuelo de Alarcón,2.17,Errand
+2024-01-27 10:13:00,2024-01-27 10:32:00,Aubagne,Aix-en-Provence,8.04,Meal/Entertain
+2024-06-08 11:46:00,2024-06-08 12:21:00,Oullins,Villeurbanne,8.68,Airport
+2024-07-03 18:24:00,2024-07-03 19:03:00,Vitrolles,La Ciotat,11.46,Business
+2024-07-14 19:54:00,2024-07-14 20:27:00,Saint-Priest,Villeurbanne,7.89,Business
+2024-10-14 21:04:00,2024-10-14 21:25:00,Saint-Denis,Saint-Denis,2.13,Commute
+2024-07-21 17:24:00,2024-07-21 17:41:00,Boulogne-Billancourt,Boulogne-Billancourt,1.47,Shopping
+2024-06-27 22:45:00,2024-06-27 23:12:00,Aubagne,Marseille,4.15,Meal/Entertain
+2024-07-04 06:44:00,2024-07-04 07:19:00,Martigues,Aubagne,12.35,Commute
+2024-02-17 18:25:00,2024-02-17 18:43:00,Martigues,Martigues,5.04,Business
+2024-07-29 08:06:00,2024-07-29 08:47:00,Boulogne-Billancourt,Nanterre,10.15,Meeting
+2024-01-04 11:52:00,2024-01-04 12:16:00,Villeurbanne,Vénissieux,5.49,Airport
+2024-04-11 21:11:00,2024-04-11 21:39:00,Alcorcón,Pozuelo de Alarcón,7.36,Airport
+2024-07-28 20:40:00,2024-07-28 21:15:00,Villeurbanne,Lyon,13.14,Commute
+2024-12-10 09:00:00,2024-12-10 09:40:00,Marseille,La Ciotat,9.66,Commute
+2024-07-11 22:48:00,2024-07-11 23:35:00,Saint-Denis,Paris,9.66,Customer Visit
+2024-12-06 18:24:00,2024-12-06 18:51:00,La Ciotat,Vitrolles,6.79,Shopping
+2024-03-03 22:17:00,2024-03-03 22:25:00,Pozuelo de Alarcón,Pozuelo de Alarcón,1.11,Business
+2024-04-06 06:40:00,2024-04-06 07:18:00,Versailles,Issy-les-Moulineaux,10.36,Commute
+2024-02-11 17:27:00,2024-02-11 17:55:00,Nanterre,Issy-les-Moulineaux,6.27,Airport
+2024-12-30 10:55:00,2024-12-30 11:33:00,Saint-Priest,Lyon,12.84,Meeting
+2024-08-16 09:30:00,2024-08-16 09:52:00,Móstoles,Móstoles,3.21,Business
+2024-06-16 18:49:00,2024-06-16 19:22:00,Issy-les-Moulineaux,Créteil,12.57,Shopping
+2024-06-19 13:59:00,2024-06-19 14:12:00,Martigues,Martigues,4.34,Customer Visit
+2024-10-14 19:51:00,2024-10-14 20:31:00,Nanterre,Issy-les-Moulineaux,12.69,Meeting
+2024-03-06 16:24:00,2024-03-06 16:30:00,Paris,Unknown Location,0.8,Meeting
+2024-11-04 13:06:00,2024-11-04 13:26:00,Aix-en-Provence,La Ciotat,6.68,Meeting
+2024-03-16 15:09:00,2024-03-16 15:50:00,Villeurbanne,Bron,12.38,Airport
+2024-04-20 21:18:00,2024-04-20 21:39:00,Madrid,Alcorcón,1.63,Meeting
+2024-01-27 11:54:00,2024-01-27 12:08:00,Oeiras,Oeiras,2.64,Airport
+2024-12-13 21:22:00,2024-12-13 21:37:00,Loures,Amadora,0.8,Commute
+2024-10-24 07:54:00,2024-10-24 08:27:00,Vénissieux,Villeurbanne,6.79,Customer Visit
+2024-04-10 06:23:00,2024-04-10 06:39:00,La Ciotat,La Ciotat,2.81,Customer Visit
+2024-08-30 11:03:00,2024-08-30 11:15:00,Salon-de-Provence,Salon-de-Provence,4.61,Business
+2024-05-03 18:31:00,2024-05-03 18:55:00,Versailles,Issy-les-Moulineaux,7.04,Business
+2024-11-28 18:17:00,2024-11-28 19:20:00,Créteil,Issy-les-Moulineaux,15.2,Errand
+2024-10-20 21:17:00,2024-10-20 21:23:00,Paris,Paris,1.12,Meeting
+2024-02-20 16:04:00,2024-02-20 16:34:00,Aubagne,Salon-de-Provence,8.95,Meeting
+2024-09-22 23:45:00,2024-09-23 00:07:00,Bron,Lyon,1.98,Commute
+2024-08-16 16:07:00,2024-08-16 16:53:00,Aix-en-Provence,Marseille,13.64,Business
+2024-12-02 06:15:00,2024-12-02 06:50:00,Marseille,Aix-en-Provence,10.5,Commute
+2024-09-24 17:38:00,2024-09-24 18:18:00,Oullins,Caluire-et-Cuire,9.68,Airport
+2024-11-04 23:13:00,2024-11-04 23:27:00,Issy-les-Moulineaux,Issy-les-Moulineaux,3.38,Meal/Entertain
+2024-05-10 19:44:00,2024-05-10 20:06:00,Aubagne,Aubagne,4.57,Commute
+2024-08-02 10:20:00,2024-08-02 10:47:00,Vitrolles,Salon-de-Provence,4.15,Meeting
+2024-07-27 08:21:00,2024-07-27 08:34:00,Saint-Denis,Nanterre,2.85,Airport
+2024-02-23 09:11:00,2024-02-23 09:26:00,Nanterre,Nanterre,2.13,Commute
+2024-01-25 11:20:00,2024-01-25 11:43:00,Salon-de-Provence,La Ciotat,5.09,Meeting
+2024-03-06 14:00:00,2024-03-06 14:44:00,Saint-Priest,Caluire-et-Cuire,13.27,Commute
+2024-05-07 19:45:00,2024-05-07 20:14:00,Aix-en-Provence,Salon-de-Provence,7.4,Airport
+2024-04-27 15:40:00,2024-04-27 16:33:00,Bron,Vénissieux,18.52,Shopping
+2024-02-13 15:35:00,2024-02-13 16:10:00,Vénissieux,Oullins,14.89,Meeting
+2024-12-12 23:44:00,2024-12-13 00:37:00,Versailles,Par1s,11.99,Meeting
+2024-01-22 20:10:00,2024-01-22 20:38:00,Loures,Loures,3.99,Airport
+2024-07-13 11:23:00,2024-07-13 11:35:00,Villeurbanne,Villeurbanne,3.76,Commute
+2024-10-18 18:13:00,2024-10-18 18:34:00,Salon-de-Provence,Marseille,7.21,Airport
+2024-01-04 20:21:00,2024-01-04 21:04:00,Sintra,Lisbon,13.51,Business
+2024-03-19 19:07:00,2024-03-19 20:03:00,Saint-Priest,Aix123,13.27,Meeting
+2024-10-01 14:06:00,2024-10-01 14:44:00,Aix-en-Provence,Aubagne,8.77,Errand
+2024-01-21 10:25:00,2024-01-21 11:08:00,Villeurbanne,Caluire-et-Cuire,17.83,Business
+2024-09-07 23:31:00,2024-09-07 23:57:00,Créteil,Versailles,8.84,Business
+2024-02-25 06:08:00,2024-02-25 06:23:00,Issy-les-Moulineaux,Versailles,0.8,Business
+2024-05-28 15:31:00,2024-05-28 15:41:00,Getafe,Getafe,3.91,Commute
+2024-12-24 13:42:00,2024-12-24 13:58:00,Martigues,Aix-en-Provence,4.32,Errand
+2024-03-08 18:02:00,2024-03-08 18:11:00,Salon-de-Provence,Salon-de-Provence,1.29,Business
+2024-08-06 21:03:00,2024-08-06 21:38:00,Paris,Boulogne-Billancourt,11.4,Business
+2024-01-25 11:02:00,2024-01-25 11:22:00,Marse!lle,Versailles,5.19,Commute
+2024-02-27 09:42:00,2024-02-27 10:15:00,Lisb0n,Créteil,10.82,Commute
+2024-05-01 14:13:00,2024-05-01 14:52:00,Nanterre,Versailles,10.2,Meeting
+2024-08-16 09:04:00,2024-08-16 09:51:00,Créteil,Paris,19.93,Business
+2024-04-08 19:35:00,2024-04-08 20:08:00,Versailles,Boulogne-Billancourt,11.52,Business
+2024-08-02 22:59:00,2024-08-02 23:40:00,Salon-de-Provence,Vitrolles,12.38,Business
+2024-12-21 12:47:00,2024-12-21 13:04:00,Nanterre,Boulogne-Billancourt,5.49,Customer Visit
+2024-05-19 12:11:00,2024-05-19 12:33:00,Lisb0n,Villeurbanne,3.54,Commute
+2024-04-22 15:45:00,2024-04-22 16:25:00,Salon-de-Provence,La Ciotat,10.55,Commute
+2024-01-27 13:52:00,2024-01-27 14:02:00,Saint-Denis,Paris,1.63,Commute
+2024-07-28 15:20:00,2024-07-28 15:32:00,Martigues,Vitrolles,0.8,Airport
+2024-12-18 18:41:00,2024-12-18 19:18:00,Nanterre,Versailles,13.84,Airport
+2024-07-21 10:28:00,2024-07-21 11:27:00,Aix-en-Provence,Vitrolles,19.26,Meeting
+2024-04-02 15:01:00,2024-04-02 15:17:00,Bron,Bron,4.01,Meeting
+2024-09-26 10:46:00,2024-09-26 11:28:00,Fuenlabrada,Unknown Location,11.44,Business
+2024-02-12 14:09:00,2024-02-12 14:26:00,Lyon,Lyon,5.83,Commute
+2024-02-13 12:08:00,2024-02-13 12:41:00,Madrid,Getafe,9.22,Errand
+2024-01-23 09:34:00,2024-01-23 09:59:00,Villeurbanne,Caluire-et-Cuire,9.36,Business
+2024-04-25 18:43:00,2024-04-25 19:04:00,Getafe,Getafe,3.36,Meeting
+2024-11-11 16:07:00,2024-11-11 16:54:00,Boulogne-Billancourt,Nanterre,11.68,Commute
+2024-12-07 15:39:00,2024-12-07 16:08:00,Paris,Nanterre,4.84,Business
+2024-03-17 10:20:00,2024-03-17 10:44:00,Versailles,Nanterre,10.26,Customer Visit
+2024-03-06 11:49:00,2024-03-06 11:55:00,Alcorcón,Madrid,0.8,Commute
+2024-11-30 13:24:00,2024-11-30 13:42:00,Saint-Priest,Caluire-et-Cuire,3.14,Business
+2024-04-30 17:00:00,2024-04-30 17:19:00,Caluire-et-Cuire,Villeurbanne,4.06,Airport
+2024-03-12 15:29:00,2024-03-12 16:21:00,Bron,Lyon,12.44,Commute
+2024-01-14 19:23:00,2024-01-14 19:49:00,Cascais,Amadora,10.8,Commute
+2024-05-05 08:00:00,2024-05-05 08:43:00,Aubagne,Aix-en-Provence,9.34,Business
+2024-08-15 06:18:00,2024-08-15 06:55:00,Boulogne-Billancourt,Nanterre,8.42,Airport
+2024-12-14 20:35:00,2024-12-14 20:53:00,La Ciotat,Martigues,1.53,Customer Visit
+2024-03-05 12:25:00,2024-03-05 13:15:00,Vénissieux,Caluire-et-Cuire,11.76,Meal/Entertain
+2024-11-30 18:52:00,2024-11-30 19:22:00,Créteil,Saint-Denis,7.0,Commute
+2024-05-24 11:34:00,2024-05-24 12:10:00,Bron,Lyon,11.89,Business
+2024-02-13 07:36:00,2024-02-13 08:03:00,Nanterre,Boulogne-Billancourt,11.11,Commute
+2024-07-19 17:08:00,2024-07-19 17:56:00,Paris,Boulogne-Billancourt,15.96,Business
+2024-07-14 21:37:00,2024-07-14 21:58:00,Saint-Priest,Caluire-et-Cuire,7.58,Business
+2024-03-23 22:33:00,2024-03-23 23:07:00,Créteil,Issy-les-Moulineaux,14.47,Customer Visit
+2024-08-08 07:57:00,2024-08-08 08:42:00,Oullins,Villeurbanne,12.46,Meeting
+2024-06-07 23:55:00,2024-06-08 00:01:00,Saint-Denis,Boulogne-Billancourt,0.8,Business
+2024-10-22 17:22:00,2024-10-22 17:34:00,Paris,Nanterre,2.59,Business
+2024-09-06 07:23:00,2024-09-06 07:45:00,Leganés,Alcorcón,8.9,Meal/Entertain
+2024-07-30 22:28:00,2024-07-30 22:43:00,Fuenlabrada,Fuenlabrada,1.39,Business
+2024-10-14 06:09:00,2024-10-14 06:49:00,La Ciotat,Marseille,14.95,Airport
+2024-09-30 20:06:00,2024-09-30 20:36:00,Versailles,Boulogne-Billancourt,4.67,Commute
+2024-11-05 21:13:00,2024-11-05 21:46:00,Cascais,Amadora,11.74,Commute
+2024-07-04 19:30:00,2024-07-04 20:08:00,Paris,Saint-Denis,10.4,Business
+2024-02-05 14:25:00,2024-02-05 15:02:00,Issy-les-Moulineaux,Nanterre,10.97,Business
+2024-06-01 11:12:00,2024-06-01 12:01:00,Bron,Oullins,10.75,Commute
+2024-10-14 12:04:00,2024-10-14 12:34:00,Saint-Priest,Oullins,6.71,Customer Visit
+2024-03-16 21:55:00,2024-03-16 22:22:00,Créteil,Issy-les-Moulineaux,8.17,Errand
+2024-11-23 09:02:00,2024-11-23 09:10:00,Vitrolles,Marseille,1.16,Meeting
+2024-07-05 06:19:00,2024-07-05 06:31:00,Caluire-et-Cuire,Saint-Priest,5.51,Commute
+2024-10-04 19:33:00,2024-10-04 20:14:00,Fuenlabrada,Alcorcón,11.4,Commute
+2024-12-18 19:40:00,2024-12-18 20:05:00,Cascais,Amadora,5.96,Customer Visit
+2024-07-29 09:31:00,2024-07-29 09:50:00,Almada,Almada,5.47,Meeting
+2024-04-18 13:49:00,2024-04-18 14:26:00,Saint-Priest,Caluire-et-Cuire,12.99,Errand
+2024-07-10 13:32:00,2024-07-10 14:32:00,Versailles,Nanterre,18.26,Business
+2024-07-31 07:00:00,2024-07-31 07:16:00,Aix123,Versailles,6.49,Errand
+2024-07-19 12:39:00,2024-07-19 12:53:00,Pozuelo de Alarcón,Leganés,2.7,Meeting
+2024-06-11 22:10:00,2024-06-11 23:03:00,Móstoles,Pozuelo de Alarcón,18.29,Commute
+2024-03-22 16:13:00,2024-03-22 16:28:00,Móstoles,Unknown Location,2.55,Customer Visit
+2024-03-07 20:40:00,2024-03-07 20:57:00,La Ciotat,La Ciotat,2.01,Business
+2024-12-03 07:17:00,2024-12-03 07:56:00,Boulogne-Billancourt,Créteil,12.4,Customer Visit
+2024-05-24 14:57:00,2024-05-24 15:07:00,Saint-Denis,Paris,2.39,Business
+2024-08-02 18:56:00,2024-08-02 19:23:00,Pozuelo de Alarcón,Madrid,7.55,Business
+2024-06-24 17:30:00,2024-06-24 17:51:00,Getafe,Leganés,8.55,Business
+2024-04-20 17:07:00,2024-04-20 17:54:00,Saint-Denis,Par1s,8.89,Customer Visit
+2024-02-17 17:45:00,2024-02-17 18:28:00,Créteil,Boulogne-Billancourt,9.53,Business
+2024-02-22 15:10:00,2024-02-22 15:53:00,Aubagne,La Ciotat,11.52,Meal/Entertain
+2024-11-06 18:27:00,2024-11-06 18:57:00,Bron,Oullins,6.9,Meeting
+2024-11-26 22:22:00,2024-11-26 22:45:00,Pozuelo de Alarcón,Pozuelo de Alarcón,3.52,Commute
+2024-03-03 06:20:00,2024-03-03 06:48:00,Alcorcón,Leganés,8.59,Customer Visit
+2024-04-18 22:13:00,2024-04-18 22:53:00,Saint-Denis,Boulogne-Billancourt,11.63,Commute
+2024-06-12 12:12:00,2024-06-12 12:32:00,Salon-de-Provence,Marseille,2.7,Commute
+2024-05-01 06:18:00,2024-05-01 06:43:00,Aix123,Paris,5.59,Meeting
+2024-02-05 21:06:00,2024-02-05 21:50:00,Cascais,Sintra,13.91,Meeting
+2024-01-25 18:19:00,2024-01-25 19:01:00,Nanterre,Saint-Denis,9.78,Commute
+2024-06-14 19:14:00,2024-06-14 19:42:00,Madrid,Fuenlabrada,11.06,Business
+2024-01-23 09:03:00,2024-01-23 09:25:00,Oeiras,Loures,10.43,Commute
+2024-06-12 10:48:00,2024-06-12 11:28:00,Saint-Denis,Versailles,8.16,Business
+2024-12-04 21:17:00,2024-12-04 21:52:00,Fuenlabrada,Madrid,11.23,Meeting
+2024-02-08 21:03:00,2024-02-08 21:37:00,Nanterre,Issy-les-Moulineaux,13.49,Airport
+2024-06-09 15:45:00,2024-06-09 16:32:00,Bron,Lyon,11.36,Meeting
+2024-04-06 08:17:00,2024-04-06 08:35:00,Villeurbanne,Bron,4.78,Customer Visit
+2024-05-03 06:57:00,2024-05-03 07:30:00,Sintra,Amadora,11.75,Airport
+2024-09-14 19:32:00,2024-09-14 20:13:00,Caluire-et-Cuire,Vénissieux,12.69,Business
+2024-07-25 11:38:00,2024-07-25 12:09:00,Lyon,Oullins,12.35,Commute
+2024-05-02 08:34:00,2024-05-02 09:03:00,Lyon,Oullins,8.51,Meeting
+2024-03-28 12:22:00,2024-03-28 13:04:00,Martigues,Aubagne,10.68,Commute
+2024-12-18 13:10:00,2024-12-18 13:28:00,Paris,Paris,3.16,Errand
+2024-02-09 11:43:00,2024-02-09 11:58:00,Versailles,Lyon#,3.33,Meal/Entertain
+2024-05-28 13:33:00,2024-05-28 13:41:00,Sintra,Sintra,2.07,Meeting
+2024-05-09 17:29:00,2024-05-09 17:54:00,Lyon#,Pozuelo de Alarcón,5.82,Airport
+2024-11-23 06:09:00,2024-11-23 06:50:00,Saint-Denis,Créteil,12.99,Airport
+2024-02-15 12:58:00,2024-02-15 13:27:00,Aix-en-Provence,Marseille,8.76,Business
+2024-12-13 17:56:00,2024-12-13 18:43:00,Loures,Cascais,15.89,Business
+2024-08-20 17:18:00,2024-08-20 17:27:00,Oeiras,Marse!lle,2.36,Commute
+2024-02-03 15:00:00,2024-02-03 15:22:00,Créteil,Créteil,5.11,Commute
+2024-03-11 17:56:00,2024-03-11 18:03:00,Madrid,Madrid,2.69,Business
+2024-04-10 19:37:00,2024-04-10 20:10:00,Salon-de-Provence,Marseille,12.98,
+2024-06-03 15:11:00,2024-06-03 15:26:00,Nanterre,Issy-les-Moulineaux,5.43,Errand
+2024-02-13 15:36:00,2024-02-13 15:52:00,Saint-Denis,Saint-Denis,3.32,Commute
+2024-06-09 22:59:00,2024-06-09 23:32:00,Issy-les-Moulineaux,Versailles,5.11,Commute
+2024-03-12 15:50:00,2024-03-12 16:07:00,Bron,Caluire-et-Cuire,0.8,Business
+2024-12-09 06:29:00,2024-12-09 07:17:00,Saint-Denis,Nanterre,10.89,Business
+2024-10-16 21:44:00,2024-10-16 22:11:00,Lyon,Lyon,7.26,Customer Visit
+2024-12-11 10:19:00,2024-12-11 11:10:00,Martigues,Salon-de-Provence,11.38,Business
+2024-11-05 09:33:00,2024-11-05 10:04:00,Almada,Loures,9.5,Business
+2024-10-06 14:52:00,2024-10-06 15:26:00,Oullins,Bron,10.65,Customer Visit
+2024-12-02 13:10:00,2024-12-02 13:46:00,Marseille,Salon-de-Provence,9.29,Customer Visit
+2024-12-23 09:29:00,2024-12-23 10:13:00,Versailles,Issy-les-Moulineaux,13.35,Commute
+2024-06-30 10:29:00,2024-06-30 10:50:00,Versailles,Versailles,1.78,Business
+2024-02-02 11:41:00,2024-02-02 12:34:00,Boulogne-Billancourt,Créteil,12.3,Commute
+2024-11-26 21:24:00,2024-11-26 21:57:00,Bron,Villeurbanne,7.15,Business
+2024-10-28 17:37:00,2024-10-28 18:20:00,Créteil,Issy-les-Moulineaux,16.01,Airport
+2024-04-28 13:06:00,2024-04-28 13:42:00,Issy-les-Moulineaux,Boulogne-Billancourt,10.25,Commute
+2024-02-07 20:48:00,2024-02-07 21:28:00,Pozuelo de Alarcón,Madrid,9.72,Business
+2024-09-08 20:43:00,2024-09-08 21:04:00,Boulogne-Billancourt,Issy-les-Moulineaux,6.21,Business
+2024-12-08 09:13:00,2024-12-08 09:43:00,Par1s,Boulogne-Billancourt,9.25,Meeting
+2024-04-16 21:32:00,2024-04-16 21:59:00,Bron,Lyon,4.82,Commute
+2024-10-18 08:08:00,2024-10-18 08:57:00,Villeurbanne,Caluire-et-Cuire,14.24,Errand
+2024-05-08 18:45:00,2024-05-08 19:02:00,Boulogne-Billancourt,Boulogne-Billancourt,3.12,Shopping
+2024-11-12 07:34:00,2024-11-12 07:55:00,Nanterre,Nanterre,1.95,Commute
+2024-10-07 16:59:00,2024-10-07 17:19:00,Vénissieux,Lyon,6.66,Business
+2024-02-06 19:38:00,2024-02-06 19:54:00,Versailles,Versailles,6.07,Commute
+2024-09-16 13:41:00,2024-09-16 13:57:00,Alcorcón,Leganés,5.37,Business
+2024-01-10 23:30:00,2024-01-10 23:52:00,Getafe,Getafe,4.02,Airport
+2024-06-24 19:58:00,2024-06-24 20:33:00,Aubagne,Martigues,11.63,Commute
+2024-05-07 07:04:00,2024-05-07 07:34:00,Aix-en-Provence,Martigues,12.18,Errand
+2024-03-03 08:04:00,2024-03-03 09:20:00,Nanterre,Issy-les-Moulineaux,20.8,Commute
+2024-10-09 15:55:00,2024-10-09 16:07:00,Saint-Priest,Villeurbanne,0.8,Shopping
+2024-04-14 10:53:00,2024-04-14 11:47:00,Créteil,Paris,17.61,Commute
+2024-11-28 20:07:00,2024-11-28 20:25:00,Aix123,Lyon#,2.81,Airport
+2024-07-14 18:28:00,2024-07-14 18:44:00,Vitrolles,Marseille,0.8,Commute
+2024-06-21 14:51:00,2024-06-21 15:10:00,Versailles,Issy-les-Moulineaux,6.59,Shopping
+2024-10-10 18:46:00,2024-10-10 19:16:00,Créteil,Versailles,13.79,Customer Visit
+2024-05-01 10:58:00,2024-05-01 11:31:00,Aix123,Loures,7.02,Commute
+2024-05-20 17:17:00,2024-05-20 17:33:00,Boulogne-Billancourt,Versailles,0.94,Business
+2024-01-09 20:00:00,2024-01-09 20:17:00,Móstoles,Móstoles,5.13,Commute
+2024-08-13 11:16:00,2024-08-13 12:18:00,Oullins,Bron,18.43,Meal/Entertain
+2024-12-01 07:11:00,2024-12-01 07:50:00,Getafe,Leganés,12.33,Business
+2024-06-29 23:45:00,2024-06-30 00:36:00,Lyon,Vénissieux,15.11,Business
+2024-07-09 19:04:00,2024-07-09 19:47:00,Saint-Denis,Créteil,11.16,Commute
+2024-05-30 06:10:00,2024-05-30 06:40:00,Nanterre,Versailles,6.15,Shopping
+2024-12-30 17:13:00,2024-12-30 17:33:00,Saint-Denis,Saint-Denis,1.23,Customer Visit
+2024-04-24 22:36:00,2024-04-24 22:50:00,Aix-en-Provence,Salon-de-Provence,3.33,Meal/Entertain
+2024-05-17 12:53:00,2024-05-17 13:33:00,Lyon,Saint-Priest,10.33,Commute
+2024-02-29 13:28:00,2024-02-29 13:47:00,Issy-les-Moulineaux,Nanterre,2.63,Airport
+2024-04-27 10:59:00,2024-04-27 11:47:00,Vénissieux,Lyon,14.13,Customer Visit
+2024-03-01 08:26:00,2024-03-01 08:51:00,Caluire-et-Cuire,Saint-Priest,5.15,Commute
+2024-10-10 21:47:00,2024-10-10 22:44:00,Saint-Priest,Villeurbanne,15.94,Commute
+2024-08-04 17:08:00,2024-08-04 17:35:00,Madrid,Getafe,3.09,Shopping
+2024-06-30 20:58:00,2024-06-30 21:07:00,Marseille,Aubagne,3.27,Business
+2024-10-28 22:05:00,2024-10-28 22:27:00,Leganés,Lisb0n,5.11,Airport
+2024-09-09 16:03:00,2024-09-09 16:16:00,Saint-Priest,Vénissieux,3.53,Business
+2024-03-14 07:52:00,2024-03-14 08:32:00,Oullins,Vénissieux,10.52,Customer Visit
+2024-05-20 21:28:00,2024-05-20 22:04:00,Aubagne,Martigues,11.34,Business
+2024-04-15 23:53:00,2024-04-16 00:14:00,Oeiras,Lisbon,5.82,Business
+2024-05-24 19:46:00,2024-05-24 20:01:00,Marseille,Martigues,5.62,Commute
+2024-02-14 10:17:00,2024-02-14 10:51:00,Lyon,Villeurbanne,7.8,Commute
+2024-09-19 08:45:00,2024-09-19 09:13:00,Lyon,Vénissieux,7.93,Commute
+2024-11-17 06:15:00,2024-11-17 06:30:00,Paris,Créteil,4.53,Shopping
+2024-11-21 08:33:00,2024-11-21 09:12:00,Loures,Cascais,13.29,Business
+2024-12-18 14:39:00,2024-12-18 15:29:00,Paris,Créteil,15.22,Business
+2024-11-18 18:38:00,2024-11-18 19:24:00,Aubagne,Aix-en-Provence,14.71,Commute
+2024-12-05 19:07:00,2024-12-05 19:29:00,Paris,Versailles,2.51,Commute
+2024-12-17 13:01:00,2024-12-17 13:48:00,Vitrolles,Salon-de-Provence,14.95,Meeting
+2024-07-29 18:51:00,2024-07-29 19:32:00,Pozuelo de Alarcón,Móstoles,15.21,Airport
+2024-03-26 23:13:00,2024-03-26 23:38:00,Oeiras,Amadora,4.05,Business
+2024-02-16 16:58:00,2024-02-16 17:36:00,Sintra,Loures,15.52,Customer Visit
+2024-04-27 15:51:00,2024-04-27 16:06:00,Paris,Versailles,0.8,Errand
+2024-09-26 09:32:00,2024-09-26 09:52:00,Caluire-et-Cuire,Lyon,5.61,Customer Visit
+2024-07-12 18:08:00,2024-07-12 18:18:00,Nanterre,Nanterre,1.63,Customer Visit
+2024-10-04 10:06:00,2024-10-04 10:12:00,Madrid,Madrid,0.86,Airport
+2024-05-15 21:24:00,2024-05-15 21:45:00,Saint-Denis,Nanterre,1.88,Business
+2024-01-09 21:46:00,2024-01-09 22:27:00,Sintra,Oeiras,11.86,Commute
+2024-02-25 15:21:00,2024-02-25 16:10:00,Lyon,Saint-Priest,12.97,Commute
+2024-08-30 22:46:00,2024-08-30 23:03:00,Saint-Denis,Saint-Denis,4.27,Commute
+2024-12-18 19:55:00,2024-12-18 20:10:00,Marse!lle,Nanterre,4.58,Business
+2024-02-11 09:27:00,2024-02-11 10:12:00,Bron,Vénissieux,11.69,Meeting
+2024-02-28 07:56:00,2024-02-28 08:34:00,Aix-en-Provence,Marseille,7.67,Errand
+2024-05-30 14:33:00,2024-05-30 14:45:00,Alcorcón,Alcorcón,2.16,Commute
+2024-05-08 21:29:00,2024-05-08 21:48:00,Villeurbanne,Villeurbanne,3.06,Meeting
+2024-08-28 08:00:00,2024-08-28 08:17:00,Salon-de-Provence,Aix-en-Provence,0.8,Business
+2024-02-04 17:40:00,2024-02-04 18:18:00,La Ciotat,Marseille,7.21,Meeting
+2024-10-14 23:41:00,2024-10-15 00:06:00,Aix-en-Provence,La Ciotat,5.18,Shopping
+2024-09-24 18:21:00,2024-09-24 18:44:00,Créteil,Boulogne-Billancourt,6.55,Business
+2024-02-16 10:09:00,2024-02-16 10:35:00,Salon-de-Provence,La Ciotat,6.0,
+2024-03-01 13:35:00,2024-03-01 13:55:00,Paris,Paris,3.72,Meeting
+2024-04-19 11:40:00,2024-04-19 11:54:00,Vitrolles,Martigues,4.07,Errand
+2024-04-01 06:55:00,2024-04-01 07:33:00,Móstoles,Pozuelo de Alarcón,10.16,Meeting
+2024-04-01 06:12:00,2024-04-01 06:24:00,Martigues,La Ciotat,1.86,Commute
+2024-05-20 21:25:00,2024-05-20 22:18:00,Nanterre,Versailles,13.09,Business
+2024-11-19 20:31:00,2024-11-19 20:54:00,Créteil,Créteil,2.89,
+2024-03-31 10:05:00,2024-03-31 10:31:00,La Ciotat,Marseille,8.01,Airport
+2024-01-09 16:53:00,2024-01-09 17:25:00,Créteil,Nanterre,13.11,Meeting
+2024-12-06 18:26:00,2024-12-06 19:04:00,Getafe,Fuenlabrada,11.74,Meeting
+2024-12-18 22:26:00,2024-12-18 22:56:00,Issy-les-Moulineaux,Boulogne-Billancourt,8.25,Meeting
+2024-12-22 08:36:00,2024-12-22 09:05:00,Madrid,Fuenlabrada,6.63,Commute
+2024-04-21 17:29:00,2024-04-21 17:55:00,Amadora,Oeiras,5.9,Customer Visit
+2024-07-13 15:11:00,2024-07-13 15:47:00,Issy-les-Moulineaux,Boulogne-Billancourt,14.26,Commute
+2024-06-30 17:22:00,2024-06-30 17:53:00,Oullins,Villeurbanne,10.16,Business
+2024-10-18 12:44:00,2024-10-18 13:20:00,Fuenlabrada,Madrid,11.87,Business
+2024-04-17 14:13:00,2024-04-17 14:52:00,Vitrolles,Unknown Location,14.09,Business
+2024-07-12 07:20:00,2024-07-12 07:50:00,Saint-Priest,Villeurbanne,7.38,Commute
+2024-06-05 11:29:00,2024-06-05 11:42:00,Madrid,Madrid,3.39,Shopping
+2024-07-10 16:30:00,2024-07-10 16:53:00,Caluire-et-Cuire,Saint-Priest,6.01,Commute
+2024-10-22 18:37:00,2024-10-22 18:57:00,Lisb0n,Loures,1.65,Customer Visit
+2024-01-28 08:19:00,2024-01-28 08:50:00,Saint-Denis,Créteil,12.34,Airport
+2024-04-04 13:54:00,2024-04-04 14:12:00,Bron,Bron,3.99,Commute
+2024-08-29 23:43:00,2024-08-30 00:18:00,Créteil,Nanterre,8.51,Commute
+2024-03-09 18:49:00,2024-03-09 19:23:00,Bron,Oullins,8.96,Customer Visit
+2024-10-27 06:14:00,2024-10-27 07:10:00,Salon-de-Provence,Aubagne,18.53,Commute
+2024-04-06 07:13:00,2024-04-06 07:27:00,Nanterre,Paris,2.73,Business
+2024-08-03 11:10:00,2024-08-03 11:36:00,Villeurbanne,Bron,3.69,Business
+2024-03-06 22:24:00,2024-03-06 22:31:00,Issy-les-Moulineaux,Marse!lle,2.6,Business
+2024-08-30 16:54:00,2024-08-30 17:26:00,Cascais,Lisbon,7.36,Meeting
+2024-06-21 14:12:00,2024-06-21 14:39:00,Alcorcón,Móstoles,11.79,Business
+2024-11-02 17:16:00,2024-11-02 17:38:00,Alcorcón,Alcorcón,3.9,Business
+2024-11-01 09:22:00,2024-11-01 09:50:00,Madrid,Leganés,7.25,Meeting
+2024-06-25 20:44:00,2024-06-25 21:10:00,Villeurbanne,Villeurbanne,5.07,Errand
+2024-01-20 10:38:00,2024-01-20 11:12:00,Loures,Sintra,12.56,Commute
+2024-04-04 14:46:00,2024-04-04 15:38:00,Alcorcón,Pozuelo de Alarcón,17.57,Commute
+2024-10-03 13:44:00,2024-10-03 14:25:00,Alcorcón,Getafe,13.4,Meeting
+2024-04-02 15:17:00,2024-04-02 15:42:00,Par1s,Madri$d,8.35,Meeting
+2024-04-25 06:45:00,2024-04-25 06:58:00,Vitrolles,Martigues,0.8,Business
+2024-10-12 06:21:00,2024-10-12 06:43:00,Créteil,Versailles,3.06,Commute
+2024-05-10 18:02:00,2024-05-10 18:23:00,Bron,Caluire-et-Cuire,5.15,Airport
+2024-06-10 20:43:00,2024-06-10 21:29:00,Versailles,Nanterre,14.98,Commute
+2024-05-25 23:47:00,2024-05-26 00:19:00,La Ciotat,Aubagne,12.23,Customer Visit
+2024-03-22 18:35:00,2024-03-22 19:06:00,Amadora,Lisbon,11.09,Business
+2024-09-29 18:14:00,2024-09-29 18:49:00,Caluire-et-Cuire,Vénissieux,10.31,Meeting
+2024-12-01 11:43:00,2024-12-01 12:24:00,Oullins,Villeurbanne,11.0,Customer Visit
+2024-11-13 22:05:00,2024-11-13 22:37:00,Aubagne,Salon-de-Provence,7.21,Business
+2024-11-03 18:35:00,2024-11-03 19:00:00,Oeiras,Amadora,3.89,Business
+2024-05-30 08:57:00,2024-05-30 09:23:00,Lisb0n,Amadora,6.35,Commute
+2024-06-18 11:15:00,2024-06-18 11:48:00,Saint-Denis,Boulogne-Billancourt,12.0,Customer Visit
+2024-02-06 19:16:00,2024-02-06 19:34:00,Paris,Saint-Denis,0.8,Errand
+2024-07-22 07:23:00,2024-07-22 07:41:00,La Ciotat,Martigues,7.44,Commute
+2024-10-23 09:46:00,2024-10-23 10:07:00,Aubagne,Marseille,3.78,Customer Visit
+2024-09-08 13:48:00,2024-09-08 14:21:00,Boulogne-Billancourt,Nanterre,8.13,Errand
+2024-03-16 22:18:00,2024-03-16 22:49:00,Lyon#,Vénissieux,12.51,Customer Visit
+2024-12-21 10:09:00,2024-12-21 10:30:00,Vitrolles,Aix-en-Provence,5.0,Business
+2024-09-17 22:25:00,2024-09-17 22:42:00,Boulogne-Billancourt,Boulogne-Billancourt,3.48,Commute
+2024-09-25 21:11:00,2024-09-25 21:38:00,Loures,Loures,3.93,Meeting
+2024-03-02 12:22:00,2024-03-02 12:43:00,Marseille,Aubagne,5.38,Commute
+2024-02-20 16:32:00,2024-02-20 17:12:00,Marseille,Martigues,14.44,Commute
+2024-09-24 13:15:00,2024-09-24 13:25:00,Saint-Priest,Lyon,4.08,Commute
+2024-02-16 12:46:00,2024-02-16 13:17:00,Martigues,Aix-en-Provence,6.66,Meeting
+2024-10-01 07:20:00,2024-10-01 07:48:00,Sintra,Amadora,3.89,Commute
+2024-01-05 19:55:00,2024-01-05 20:25:00,Bron,Bron,4.86,Commute
+2024-09-09 11:21:00,2024-09-09 11:51:00,Saint-Priest,Oullins,4.76,Meeting
+2024-09-14 15:40:00,2024-09-14 16:04:00,Oeiras,Loures,5.23,Airport
+2024-08-09 15:06:00,2024-08-09 15:18:00,Cascais,Cascais,2.16,Business
+2024-09-28 21:06:00,2024-09-28 21:52:00,La Ciotat,Aix-en-Provence,9.87,Commute
+2024-03-21 16:33:00,2024-03-21 16:49:00,Créteil,Créteil,4.52,Meeting
+2024-06-04 17:09:00,2024-06-04 17:54:00,Pozuelo de Alarcón,Getafe,14.88,Shopping
+2024-07-28 17:41:00,2024-07-28 17:59:00,Leganés,Móstoles,1.46,Business
+2024-07-10 06:20:00,2024-07-10 06:45:00,Madrid,Leganés,5.54,Commute
+2024-06-15 21:46:00,2024-06-15 22:03:00,Saint-Priest,Villeurbanne,4.92,Commute
+2024-11-06 18:03:00,2024-11-06 18:30:00,Almada,Loures,5.24,Commute
+2024-07-30 10:55:00,2024-07-30 11:28:00,Nanterre,Versailles,10.35,Meal/Entertain
+2024-05-29 06:08:00,2024-05-29 06:41:00,Paris,Versailles,10.05,Meeting
+2024-04-26 20:23:00,2024-04-26 20:54:00,Fuenlabrada,Leganés,12.55,Commute
+2024-09-06 07:53:00,2024-09-06 08:25:00,Vitrolles,Marseille,5.75,Commute
+2024-06-19 08:47:00,2024-06-19 09:50:00,Lyon,Villeurbanne,17.35,Commute
+2024-08-27 12:48:00,2024-08-27 13:04:00,Lyon,Saint-Priest,6.21,Meeting
+2024-12-20 19:56:00,2024-12-20 20:39:00,Lisb0n,Pozuelo de Alarcón,10.82,Commute
+2024-06-16 23:29:00,2024-06-16 23:47:00,Aubagne,Aubagne,3.43,Meeting
+2024-03-16 12:19:00,2024-03-16 12:51:00,Leganés,Lisb0n,13.19,Business
+2024-04-13 15:10:00,2024-04-13 15:33:00,Lisbon,Loures,7.51,Meeting
+2024-07-11 06:28:00,2024-07-11 07:13:00,Amadora,Lisbon,9.89,Business
+2024-03-30 22:58:00,2024-03-30 23:28:00,Paris,Saint-Denis,10.95,Business
+2024-04-17 08:51:00,2024-04-17 09:05:00,Boulogne-Billancourt,Boulogne-Billancourt,1.3,Commute
+2024-06-07 08:27:00,2024-06-07 08:36:00,Bron,Bron,2.13,Commute
+2024-06-14 07:09:00,2024-06-14 07:24:00,Créteil,Créteil,2.34,Airport
+2024-12-04 15:23:00,2024-12-04 15:38:00,Saint-Denis,Saint-Denis,2.4,Errand
+2024-02-26 11:01:00,2024-02-26 11:10:00,Villeurbanne,Vénissieux,1.32,Commute
+2024-03-14 19:02:00,2024-03-14 19:50:00,Salon-de-Provence,Vitrolles,9.51,Business
+2024-08-31 20:26:00,2024-08-31 20:49:00,Aix-en-Provence,Aix-en-Provence,6.17,Business
+2024-05-11 10:20:00,2024-05-11 11:02:00,Saint-Denis,Paris,9.4,Errand
+2024-03-07 10:14:00,2024-03-07 10:27:00,Martigues,Martigues,3.32,Business
+2024-08-24 22:33:00,2024-08-24 23:02:00,Vitrolles,Marseille,8.5,Commute
+2024-07-16 07:50:00,2024-07-16 08:19:00,Aix-en-Provence,Aubagne,11.92,Airport
+2024-04-06 18:28:00,2024-04-06 19:09:00,Paris,Nanterre,10.59,Errand
+2024-04-05 14:21:00,2024-04-05 14:38:00,Versailles,Versailles,2.76,
+2024-01-14 23:08:00,2024-01-14 23:33:00,Saint-Priest,Saint-Priest,4.67,Commute
+2024-08-11 23:05:00,2024-08-11 23:25:00,Madrid,Alcorcón,2.5,Commute
+2024-06-30 22:38:00,2024-06-30 23:12:00,Issy-les-Moulineaux,Saint-Denis,11.42,Business
+2024-03-22 09:43:00,2024-03-22 10:39:00,Lyon,Bron,16.6,Business
+2024-07-24 15:24:00,2024-07-24 16:05:00,Salon-de-Provence,Martigues,14.7,Commute
+2024-12-28 23:42:00,2024-12-29 00:17:00,Alcorcón,Pozuelo de Alarcón,17.27,Business
+2024-03-22 19:25:00,2024-03-22 19:41:00,Marseille,Marseille,3.62,Commute
+2024-03-13 14:48:00,2024-03-13 15:18:00,Villeurbanne,Bron,11.4,Business
+2024-10-04 20:09:00,2024-10-04 20:24:00,Caluire-et-Cuire,Caluire-et-Cuire,2.11,Customer Visit
+2024-08-26 19:37:00,2024-08-26 19:59:00,Oeiras,Lisbon,4.83,Business
+2024-12-06 21:53:00,2024-12-06 22:19:00,Alcorcón,Getafe,6.58,Commute
+2024-11-23 22:21:00,2024-11-23 22:47:00,Paris,Versailles,8.22,Errand
+2024-12-06 14:06:00,2024-12-06 14:18:00,Lisbon,Lisbon,1.63,Meeting
+2024-10-29 09:36:00,2024-10-29 09:42:00,Caluire-et-Cuire,Bron,1.37,Meeting
+2024-01-21 17:41:00,2024-01-21 18:02:00,Saint-Denis,Créteil,2.85,Airport
+2024-01-14 12:36:00,2024-01-14 13:00:00,Caluire-et-Cuire,Caluire-et-Cuire,4.71,Airport
+2024-05-07 14:28:00,2024-05-07 15:01:00,Nanterre,Paris,7.35,Commute
+2024-06-27 11:54:00,2024-06-27 12:08:00,Martigues,Aix-en-Provence,0.8,Airport
+2024-06-09 21:40:00,2024-06-09 21:57:00,Caluire-et-Cuire,Villeurbanne,6.94,Meeting
+2024-03-27 16:01:00,2024-03-27 16:38:00,Créteil,Nanterre,12.01,Customer Visit
+2024-02-16 18:54:00,2024-02-16 19:20:00,Loures,Oeiras,8.74,Business
+2024-02-12 16:14:00,2024-02-12 16:27:00,Bron,Bron,1.17,Meeting
+2024-04-25 20:41:00,2024-04-25 21:24:00,Saint-Priest,Lyon,14.24,Commute
+2024-09-22 18:40:00,2024-09-22 19:13:00,Paris,Saint-Denis,10.94,Commute
+2024-07-05 13:20:00,2024-07-05 13:39:00,Vénissieux,Bron,4.54,Commute
+2024-10-01 16:06:00,2024-10-01 16:50:00,Vitrolles,Salon-de-Provence,8.61,Airport
+2024-10-21 07:29:00,2024-10-21 08:06:00,Martigues,La Ciotat,14.09,Commute
+2024-03-16 08:43:00,2024-03-16 09:07:00,Villeurbanne,Villeurbanne,3.85,Errand
+2024-04-20 20:19:00,2024-04-20 21:01:00,Nanterre,Issy-les-Moulineaux,14.48,
+2024-12-14 16:55:00,2024-12-14 17:19:00,Lisb0n,Créteil,9.55,Customer Visit
+2024-05-07 11:53:00,2024-05-07 12:06:00,La Ciotat,La Ciotat,2.93,Airport
+2024-07-14 21:08:00,2024-07-14 21:48:00,Lyon,Villeurbanne,14.05,Customer Visit
+2024-04-12 13:22:00,2024-04-12 13:44:00,Boulogne-Billancourt,Versailles,6.55,Commute
+2024-02-18 11:00:00,2024-02-18 11:22:00,Issy-les-Moulineaux,Issy-les-Moulineaux,6.08,Airport
+2024-09-12 11:34:00,2024-09-12 11:43:00,Versailles,Créteil,0.8,Meeting
+2024-03-31 22:09:00,2024-03-31 22:39:00,Getafe,Fuenlabrada,5.04,Airport
+2024-10-29 22:10:00,2024-10-29 22:49:00,La Ciotat,Marseille,9.87,Airport
+2024-02-29 23:04:00,2024-02-29 23:27:00,La Ciotat,Aubagne,4.86,Customer Visit
+2024-12-03 09:54:00,2024-12-03 10:29:00,Issy-les-Moulineaux,Versailles,10.01,Customer Visit
+2024-11-25 12:18:00,2024-11-25 12:52:00,Saint-Denis,Issy-les-Moulineaux,8.9,Customer Visit
+2024-11-08 18:19:00,2024-11-08 18:42:00,Créteil,Versailles,4.76,Meeting
+2024-06-06 23:11:00,2024-06-06 23:43:00,Créteil,Saint-Denis,12.15,Shopping
+2024-09-25 11:32:00,2024-09-25 12:28:00,Lyon,Caluire-et-Cuire,12.89,Airport
+2024-04-14 21:13:00,2024-04-14 22:02:00,Lisbon,Oeiras,19.25,Business
+2024-07-18 13:23:00,2024-07-18 13:57:00,Versailles,Issy-les-Moulineaux,11.28,
+2024-12-29 15:13:00,2024-12-29 15:58:00,Saint-Denis,Issy-les-Moulineaux,10.99,Airport
+2024-09-06 14:38:00,2024-09-06 15:07:00,Marse!lle,Sintra,10.45,Customer Visit
+2024-09-07 08:11:00,2024-09-07 08:27:00,Aubagne,Aubagne,3.0,Errand
+2024-10-18 14:06:00,2024-10-18 14:34:00,Martigues,Salon-de-Provence,6.9,Commute
+2024-02-25 09:14:00,2024-02-25 09:41:00,Getafe,Fuenlabrada,10.22,Commute
+2024-03-14 20:38:00,2024-03-14 21:05:00,Créteil,Boulogne-Billancourt,6.02,Commute
+2024-05-08 11:22:00,2024-05-08 11:45:00,Villeurbanne,Oullins,6.08,Errand
+2024-08-12 06:55:00,2024-08-12 07:11:00,Versailles,Versailles,3.07,Commute
+2024-12-16 08:26:00,2024-12-16 09:01:00,Vitrolles,Marse!lle,10.08,Business
+2024-07-17 09:54:00,2024-07-17 10:42:00,Nanterre,Boulogne-Billancourt,14.07,Meeting
+2024-11-11 18:28:00,2024-11-11 18:51:00,Lyon,Lyon,3.91,Commute
+2024-07-03 13:09:00,2024-07-03 13:24:00,Vénissieux,Oullins,3.92,Commute
+2024-07-29 23:54:00,2024-07-30 00:16:00,Cascais,Amadora,7.87,Business
+2024-08-19 20:24:00,2024-08-19 21:02:00,Leganés,Móstoles,9.18,Commute
+2024-10-07 19:23:00,2024-10-07 19:56:00,Aix-en-Provence,Vitrolles,8.68,Errand
+2024-04-21 16:35:00,2024-04-21 17:32:00,Paris,Saint-Denis,15.6,Business
+2024-12-14 10:41:00,2024-12-14 11:14:00,Cascais,Sintra,11.53,Commute
+2024-09-06 16:39:00,2024-09-06 17:02:00,Versailles,Boulogne-Billancourt,8.96,Customer Visit
+2024-02-16 16:59:00,2024-02-16 17:19:00,Marseille,Aix-en-Provence,9.01,Commute
+2024-08-16 21:21:00,2024-08-16 21:55:00,Boulogne-Billancourt,Paris,8.8,Meeting
+2024-10-09 21:44:00,2024-10-09 22:07:00,Saint-Denis,Saint-Denis,2.63,Business
+2024-09-01 11:49:00,2024-09-01 12:36:00,Marse!lle,Oeiras,10.21,Commute
+2024-12-09 17:56:00,2024-12-09 18:16:00,Bron,Villeurbanne,7.4,Meal/Entertain
+2024-06-13 15:45:00,2024-06-13 16:06:00,Villeurbanne,Villeurbanne,4.53,Meal/Entertain
+2024-05-23 22:57:00,2024-05-23 23:42:00,Oullins,Caluire-et-Cuire,12.13,Business
+2024-06-21 07:17:00,2024-06-21 07:47:00,Lisbon,Almada,5.54,
+2024-04-12 21:24:00,2024-04-12 22:04:00,Lyon,Villeurbanne,16.99,Commute
+2024-06-24 10:22:00,2024-06-24 11:12:00,Versailles,Créteil,17.61,Commute
+2024-02-28 06:51:00,2024-02-28 07:10:00,Vénissieux,Vénissieux,3.85,Errand
+2024-01-07 16:55:00,2024-01-07 17:16:00,Boulogne-Billancourt,Nanterre,5.52,Business
+2024-01-29 10:12:00,2024-01-29 10:31:00,Salon-de-Provence,Martigues,7.06,Meeting
+2024-11-16 22:12:00,2024-11-16 22:22:00,Créteil,Paris,2.25,Commute
+2024-09-16 06:05:00,2024-09-16 06:38:00,Sintra,Cascais,11.3,Commute
+2024-04-26 11:25:00,2024-04-26 11:51:00,Saint-Denis,Boulogne-Billancourt,6.33,Customer Visit
+2024-09-28 06:41:00,2024-09-28 06:58:00,La Ciotat,Aix-en-Provence,1.83,Airport
+2024-08-16 06:47:00,2024-08-16 07:09:00,Boulogne-Billancourt,Boulogne-Billancourt,3.69,Business
+2024-09-02 17:31:00,2024-09-02 18:04:00,Leganés,Fuenlabrada,7.78,Commute
+2024-08-24 16:59:00,2024-08-24 17:32:00,Saint-Priest,Caluire-et-Cuire,7.0,Commute
+2024-06-11 18:55:00,2024-06-11 19:29:00,Oullins,Bron,12.73,Errand
+2024-01-09 18:30:00,2024-01-09 19:20:00,Issy-les-Moulineaux,Boulogne-Billancourt,14.53,Business
+2024-09-12 19:27:00,2024-09-12 19:37:00,Versailles,Versailles,0.8,Commute
+2024-09-22 21:51:00,2024-09-22 22:31:00,Lisbon,Amadora,12.13,Business
+2024-09-28 15:21:00,2024-09-28 15:30:00,Loures,Loures,1.75,Meeting
+2024-05-06 12:20:00,2024-05-06 12:47:00,Leganés,Móstoles,3.51,Commute
+2024-03-06 16:50:00,2024-03-06 17:24:00,Loures,Cascais,9.81,Airport
+2024-06-09 22:56:00,2024-06-09 23:20:00,Saint-Denis,Boulogne-Billancourt,2.93,Errand
+2024-07-18 12:50:00,2024-07-18 13:01:00,Marseille,La Ciotat,0.93,Business
+2024-05-19 16:31:00,2024-05-19 16:56:00,Oullins,Oullins,3.24,Meeting
+2024-02-01 12:33:00,2024-02-01 13:06:00,Oullins,Villeurbanne,14.87,Commute
+2024-08-03 08:23:00,2024-08-03 08:45:00,Alcorcón,Madrid,7.59,Meeting
+2024-05-20 20:17:00,2024-05-20 20:54:00,Créteil,Boulogne-Billancourt,11.4,Business
+2024-06-10 18:35:00,2024-06-10 18:57:00,Madri$d,Saint-Denis,3.0,Commute
+2024-01-29 10:31:00,2024-01-29 10:46:00,Vénissieux,Lyon,6.03,Errand
+2024-07-30 16:48:00,2024-07-30 17:08:00,Saint-Denis,Saint-Denis,3.06,Commute
+2024-08-17 11:07:00,2024-08-17 11:25:00,Versailles,Saint-Denis,6.58,Customer Visit
+2024-04-22 13:09:00,2024-04-22 13:58:00,Paris,Créteil,14.88,Business
+2024-09-09 06:42:00,2024-09-09 07:24:00,Versailles,Issy-les-Moulineaux,9.48,Customer Visit
+2024-07-07 22:57:00,2024-07-07 23:25:00,Boulogne-Billancourt,Nanterre,9.17,Meeting
+2024-09-18 18:10:00,2024-09-18 18:50:00,Paris,Issy-les-Moulineaux,13.69,Meeting
+2024-11-29 22:49:00,2024-11-29 23:13:00,Boulogne-Billancourt,Versailles,3.4,Meeting
+2024-12-11 12:56:00,2024-12-11 13:15:00,Issy-les-Moulineaux,Issy-les-Moulineaux,4.07,Customer Visit
+2024-01-13 15:00:00,2024-01-13 15:24:00,Saint-Priest,Caluire-et-Cuire,7.25,Business
+2024-09-02 23:38:00,2024-09-03 00:04:00,Versailles,Saint-Denis,7.57,Shopping
+2024-05-20 06:19:00,2024-05-20 06:32:00,Getafe,Getafe,3.23,Errand
+2024-08-01 06:19:00,2024-08-01 06:40:00,Lisbon,Lisbon,3.4,Business
+2024-08-31 11:00:00,2024-08-31 11:36:00,Nanterre,Boulogne-Billancourt,11.36,Errand
+2024-07-22 18:01:00,2024-07-22 18:25:00,Caluire-et-Cuire,Vénissieux,7.62,Business
+2024-05-23 15:46:00,2024-05-23 16:20:00,Villeurbanne,Saint-Priest,15.46,Meal/Entertain
+2024-08-10 23:44:00,2024-08-11 00:16:00,Nanterre,Boulogne-Billancourt,8.97,Errand
+2024-10-05 11:23:00,2024-10-05 12:09:00,Madrid,Getafe,13.38,Customer Visit
+2024-05-29 10:52:00,2024-05-29 11:25:00,Villeurbanne,Oullins,6.91,
+2024-06-19 17:41:00,2024-06-19 18:24:00,Aubagne,La Ciotat,10.78,Errand
+2024-03-22 10:52:00,2024-03-22 11:05:00,Getafe,Alcorcón,0.8,Meeting
+2024-10-21 06:16:00,2024-10-21 06:34:00,Oullins,Lyon,8.14,Meeting
+2024-07-21 22:42:00,2024-07-21 23:04:00,Boulogne-Billancourt,Versailles,4.52,Meeting
+2024-12-21 12:45:00,2024-12-21 13:25:00,Aix123,Lyon,8.77,Business
+2024-04-17 23:40:00,2024-04-18 00:07:00,Alcorcón,Alcorcón,4.7,Commute
+2024-03-01 19:22:00,2024-03-01 20:08:00,Paris,Lisb0n,11.56,Commute
+2024-10-30 07:43:00,2024-10-30 08:39:00,Versailles,Lyon#,15.66,Meeting
+2024-12-16 21:01:00,2024-12-16 21:35:00,Vénissieux,Caluire-et-Cuire,8.64,Shopping
+2024-11-19 09:29:00,2024-11-19 09:40:00,Marseille,Martigues,0.8,Airport
+2024-02-18 06:43:00,2024-02-18 07:01:00,Aubagne,Aubagne,5.46,Meeting
+2024-03-01 22:31:00,2024-03-01 22:57:00,Móstoles,Fuenlabrada,10.01,Commute
+2024-02-09 12:30:00,2024-02-09 13:05:00,Madrid,Aix123,11.78,Meal/Entertain
+2024-08-15 09:06:00,2024-08-15 09:52:00,Martigues,Aubagne,11.25,Business
+2024-09-25 17:40:00,2024-09-25 18:17:00,Sintra,Cascais,9.28,Business
+2024-09-16 13:58:00,2024-09-16 14:31:00,Versailles,Saint-Denis,10.26,Commute
+2024-09-01 08:50:00,2024-09-01 09:29:00,Paris,Issy-les-Moulineaux,9.29,Meeting
+2024-01-07 09:33:00,2024-01-07 10:01:00,Paris,Nanterre,6.18,Business
+2024-09-01 21:13:00,2024-09-01 21:32:00,Issy-les-Moulineaux,Issy-les-Moulineaux,5.64,Airport
+2024-03-15 08:30:00,2024-03-15 08:48:00,La Ciotat,Marseille,4.23,Errand
+2024-08-09 07:55:00,2024-08-09 08:35:00,Villeurbanne,Caluire-et-Cuire,10.78,Commute
+2024-03-06 21:39:00,2024-03-06 22:00:00,Créteil,Versailles,4.9,Airport
+2024-01-16 19:04:00,2024-01-16 19:29:00,Oullins,Villeurbanne,8.8,Commute
+2024-06-23 15:53:00,2024-06-23 16:41:00,Pozuelo de Alarcón,Leganés,13.95,Commute
+2024-02-16 21:21:00,2024-02-16 21:47:00,Versailles,Saint-Denis,8.9,Commute
+2024-06-14 13:36:00,2024-06-14 13:55:00,Créteil,Nanterre,0.8,Business
+2024-03-12 15:12:00,2024-03-12 15:36:00,Nanterre,Saint-Denis,7.42,Customer Visit
+2024-05-29 13:13:00,2024-05-29 13:53:00,Vénissieux,Caluire-et-Cuire,14.48,Business
+2024-03-15 14:38:00,2024-03-15 15:17:00,Créteil,Nanterre,8.64,Meeting
+2024-08-20 23:37:00,2024-08-21 00:30:00,Caluire-et-Cuire,Lyon,13.68,Shopping
+2024-06-09 09:08:00,2024-06-09 09:36:00,Vénissieux,Vénissieux,4.94,Commute
+2024-12-17 19:13:00,2024-12-17 19:27:00,Madrid,Madrid,3.49,Customer Visit
+2024-10-19 14:59:00,2024-10-19 15:29:00,Paris,Créteil,7.8,Meeting
+2024-11-11 06:10:00,2024-11-11 06:38:00,Saint-Denis,Boulogne-Billancourt,4.89,Business
+2024-03-29 13:17:00,2024-03-29 14:17:00,Oeiras,Lisbon,15.67,Meeting
+2024-02-11 19:45:00,2024-02-11 20:27:00,Saint-Denis,Versailles,13.42,Business
+2024-09-25 16:20:00,2024-09-25 17:23:00,Lisb0n,Alcorcón,16.08,Commute
+2024-07-25 12:13:00,2024-07-25 12:47:00,Móstoles,Getafe,9.6,Business
+2024-02-03 20:45:00,2024-02-03 21:08:00,Nanterre,Saint-Denis,4.41,Meeting
+2024-04-27 14:23:00,2024-04-27 14:42:00,Bron,Bron,1.8,Commute
+2024-01-19 18:23:00,2024-01-19 19:05:00,Boulogne-Billancourt,Issy-les-Moulineaux,10.4,Customer Visit
+2024-05-30 10:54:00,2024-05-30 11:12:00,Aix-en-Provence,Aix-en-Provence,2.78,Commute
+2024-08-28 19:57:00,2024-08-28 20:41:00,Versailles,Par1s,16.83,Commute
+2024-10-10 17:46:00,2024-10-10 18:06:00,Marseille,Marseille,5.27,Customer Visit
+2024-01-30 18:08:00,2024-01-30 18:21:00,Issy-les-Moulineaux,Issy-les-Moulineaux,4.67,Meeting
+2024-08-20 11:45:00,2024-08-20 12:00:00,Getafe,Alcorcón,2.45,Commute
+2024-12-12 18:35:00,2024-12-12 19:01:00,Salon-de-Provence,Salon-de-Provence,3.12,Customer Visit
+2024-09-25 19:10:00,2024-09-25 19:43:00,Saint-Priest,Vénissieux,9.84,Customer Visit
+2024-06-02 17:01:00,2024-06-02 17:34:00,Getafe,Getafe,5.89,Commute
+2024-06-03 18:15:00,2024-06-03 18:41:00,Versailles,Boulogne-Billancourt,8.21,Meeting
+2024-01-27 13:09:00,2024-01-27 13:36:00,Oeiras,Sintra,7.5,Commute
+2024-05-30 17:52:00,2024-05-30 18:15:00,Paris,Saint-Denis,4.28,Business
+2024-02-21 10:47:00,2024-02-21 11:07:00,Almada,Lisbon,6.73,Business
+2024-11-09 20:22:00,2024-11-09 21:11:00,Boulogne-Billancourt,Versailles,10.86,Commute
+2024-03-19 18:21:00,2024-03-19 18:59:00,Saint-Denis,Versailles,8.76,Business
+2024-01-22 07:19:00,2024-01-22 07:36:00,Par1s,Vitrolles,3.27,Commute
+2024-04-17 06:04:00,2024-04-17 06:27:00,Bron,Villeurbanne,5.53,
+2024-12-08 20:51:00,2024-12-08 21:15:00,Salon-de-Provence,Salon-de-Provence,3.98,Business
+2024-06-16 22:09:00,2024-06-16 22:27:00,Almada,Oeiras,3.48,Meeting
+2024-01-12 19:30:00,2024-01-12 19:51:00,Martigues,La Ciotat,5.86,Business
+2024-10-11 13:54:00,2024-10-11 14:23:00,Créteil,Paris,12.13,Customer Visit
+2024-07-23 19:36:00,2024-07-23 20:06:00,Boulogne-Billancourt,Issy-les-Moulineaux,7.37,Commute
+2024-08-09 10:26:00,2024-08-09 11:04:00,Versailles,Lyon#,12.07,Commute
+2024-07-26 19:54:00,2024-07-26 20:27:00,Boulogne-Billancourt,Saint-Denis,10.08,Meeting
+2024-01-05 10:34:00,2024-01-05 10:51:00,Leganés,Leganés,4.4,Business
+2024-07-06 17:42:00,2024-07-06 18:07:00,Almada,Loures,9.34,Business
+2024-04-08 11:57:00,2024-04-08 12:11:00,Leganés,Leganés,3.78,Customer Visit
+2024-08-24 14:10:00,2024-08-24 14:47:00,Saint-Denis,Créteil,8.46,Business
+2024-07-02 22:19:00,2024-07-02 23:13:00,Saint-Denis,Nanterre,17.12,Customer Visit
+2024-03-17 10:02:00,2024-03-17 10:32:00,Oullins,Vénissieux,10.26,Commute
+2024-09-03 19:26:00,2024-09-03 19:57:00,Paris,Nanterre,9.54,Meeting
+2024-12-01 07:23:00,2024-12-01 07:50:00,Sintra,Oeiras,9.92,Errand
+2024-06-14 20:08:00,2024-06-14 20:27:00,Paris,Versailles,2.17,Customer Visit
+2024-03-25 14:26:00,2024-03-25 15:00:00,Martigues,La Ciotat,13.77,Business
+2024-08-01 07:49:00,2024-08-01 08:05:00,Lyon#,Nanterre,3.25,Airport
+2024-03-16 16:43:00,2024-03-16 17:20:00,Leganés,Madrid,8.08,Business
+2024-01-21 20:46:00,2024-01-21 21:34:00,Caluire-et-Cuire,Saint-Priest,14.69,Customer Visit
+2024-08-01 20:58:00,2024-08-01 21:07:00,Cascais,Cascais,2.49,Commute
+2024-12-08 14:25:00,2024-12-08 15:02:00,Almada,Cascais,12.5,Customer Visit
+2024-10-06 19:01:00,2024-10-06 19:42:00,Issy-les-Moulineaux,Versailles,9.91,Meeting
+2024-04-19 23:42:00,2024-04-20 00:17:00,Fuenlabrada,Móstoles,8.52,
+2024-11-27 13:30:00,2024-11-27 14:22:00,Par1s,Leganés,11.4,Business
+2024-04-14 11:23:00,2024-04-14 12:10:00,Aix-en-Provence,Salon-de-Provence,14.4,Errand
+2024-02-03 14:11:00,2024-02-03 14:53:00,Saint-Denis,Issy-les-Moulineaux,20.16,Meal/Entertain
+2024-11-10 14:50:00,2024-11-10 15:28:00,Issy-les-Moulineaux,Saint-Denis,13.86,Commute
+2024-03-24 10:21:00,2024-03-24 10:54:00,Bron,Saint-Priest,15.31,
+2024-08-09 09:51:00,2024-08-09 10:18:00,Bron,Oullins,6.05,Errand
+2024-09-10 23:49:00,2024-09-11 00:28:00,Boulogne-Billancourt,Saint-Denis,9.6,Customer Visit
+2024-07-31 06:20:00,2024-07-31 06:45:00,Lyon,Lyon,3.89,Meeting
+2024-10-09 16:07:00,2024-10-09 16:55:00,Móstoles,Aix123,13.92,Commute
+2024-03-11 14:52:00,2024-03-11 15:22:00,Aix-en-Provence,La Ciotat,6.1,Airport
+2024-06-02 19:01:00,2024-06-02 20:02:00,Lyon#,Créteil,17.07,Commute
+2024-05-15 16:20:00,2024-05-15 16:33:00,Salon-de-Provence,Salon-de-Provence,2.9,Business
+2024-10-08 23:19:00,2024-10-08 23:30:00,Issy-les-Moulineaux,Issy-les-Moulineaux,3.57,Customer Visit
+2024-01-27 10:04:00,2024-01-27 10:31:00,Versailles,Paris,5.0,Commute
+2024-10-14 13:05:00,2024-10-14 13:23:00,Versailles,Versailles,3.72,Meeting
+2024-12-28 10:10:00,2024-12-28 10:35:00,Loures,Almada,4.22,Business
+2024-05-01 07:27:00,2024-05-01 07:45:00,Aix-en-Provence,Marseille,4.67,Commute
+2024-05-27 14:15:00,2024-05-27 14:32:00,Saint-Denis,Boulogne-Billancourt,0.8,Shopping
+2024-10-22 11:52:00,2024-10-22 12:26:00,Vitrolles,La Ciotat,10.72,Airport
+2024-12-16 18:08:00,2024-12-16 18:26:00,Aix-en-Provence,Vitrolles,8.52,Airport
+2024-03-14 10:46:00,2024-03-14 11:32:00,Paris,Issy-les-Moulineaux,13.83,Business
+2024-11-21 10:13:00,2024-11-21 10:57:00,Bron,Saint-Priest,12.95,Airport
+2024-02-01 07:47:00,2024-02-01 08:38:00,Martigues,Aubagne,13.08,Commute
+2024-08-20 17:19:00,2024-08-20 17:46:00,Vénissieux,Vénissieux,2.93,Business
+2024-03-09 06:49:00,2024-03-09 07:42:00,Vitrolles,La Ciotat,13.16,Business
+2024-12-03 22:51:00,2024-12-03 23:29:00,Saint-Denis,Boulogne-Billancourt,14.05,Commute
+2024-12-08 23:54:00,2024-12-09 00:39:00,Paris,Versailles,13.08,Customer Visit
+2024-01-01 21:12:00,2024-01-01 22:19:00,Villeurbanne,Saint-Priest,19.85,Meeting
+2024-11-04 17:06:00,2024-11-04 17:40:00,Aubagne,Vitrolles,8.74,Airport
+2024-08-08 23:01:00,2024-08-08 23:25:00,Leganés,Leganés,4.55,Commute
+2024-10-07 20:45:00,2024-10-07 21:07:00,Getafe,Madrid,9.8,Business
+2024-08-18 12:05:00,2024-08-18 12:30:00,Paris,Paris,5.06,Meeting
+2024-12-18 14:34:00,2024-12-18 15:04:00,Issy-les-Moulineaux,Saint-Denis,8.94,Business
+2024-10-21 14:00:00,2024-10-21 14:52:00,Salon-de-Provence,Aix-en-Provence,11.17,Meeting
+2024-10-19 06:42:00,2024-10-19 06:49:00,Bron,Villeurbanne,0.8,
+2024-12-04 20:14:00,2024-12-04 20:41:00,Créteil,Marse!lle,5.57,Commute
+2024-01-04 11:23:00,2024-01-04 11:53:00,Amadora,Cascais,10.93,Commute
+2024-12-24 11:17:00,2024-12-24 11:31:00,Alcorcón,Alcorcón,3.29,Commute
+2024-03-21 23:42:00,2024-03-22 00:04:00,Móstoles,Fuenlabrada,5.41,Errand
+2024-05-31 18:49:00,2024-05-31 19:13:00,Caluire-et-Cuire,Bron,7.86,Business
+2024-09-30 09:35:00,2024-09-30 10:07:00,Madrid,Leganés,11.94,Airport
+2024-01-26 22:54:00,2024-01-26 23:08:00,Martigues,Marseille,2.94,Commute
+2024-01-23 19:31:00,2024-01-23 19:44:00,Saint-Denis,Saint-Denis,2.59,Customer Visit
+2024-11-20 23:05:00,2024-11-20 23:40:00,Getafe,Madrid,8.19,Business
+2024-01-16 08:20:00,2024-01-16 08:55:00,Nanterre,Versailles,16.03,Errand
+2024-11-18 06:46:00,2024-11-18 07:12:00,Marseille,Marseille,4.47,Business
+2024-02-13 23:52:00,2024-02-14 00:44:00,Lyon,Saint-Priest,18.86,Commute
+2024-08-28 07:32:00,2024-08-28 08:11:00,Vénissieux,Lisb0n,13.41,Commute
+2024-09-21 14:33:00,2024-09-21 15:24:00,Créteil,Boulogne-Billancourt,15.31,Business
+2024-03-28 18:46:00,2024-03-28 19:00:00,Versailles,Versailles,4.2,Commute
+2024-01-09 22:11:00,2024-01-09 22:26:00,Marseille,Vitrolles,1.01,Customer Visit
+2024-09-27 06:16:00,2024-09-27 06:47:00,Madrid,Alcorcón,13.24,Errand
+2024-04-06 22:41:00,2024-04-06 22:56:00,Getafe,Móstoles,0.8,Airport
+2024-12-08 15:26:00,2024-12-08 15:47:00,Paris,Madri$d,1.49,Meeting
+2024-06-07 14:05:00,2024-06-07 14:45:00,Aix-en-Provence,Salon-de-Provence,12.48,Business
+2024-04-27 17:21:00,2024-04-27 17:58:00,Saint-Priest,Vénissieux,12.61,Business
+2024-07-29 14:55:00,2024-07-29 15:27:00,Issy-les-Moulineaux,Paris,7.05,Commute
+2024-05-21 16:46:00,2024-05-21 17:28:00,Móstoles,Madrid,9.51,Meeting
+2024-05-29 13:13:00,2024-05-29 13:20:00,Madrid,Alcorcón,1.28,
+2024-03-13 09:05:00,2024-03-13 09:36:00,Leganés,Fuenlabrada,8.31,Airport
+2024-02-16 12:31:00,2024-02-16 13:08:00,Saint-Priest,Lyon,12.41,Commute
+2024-11-09 22:31:00,2024-11-09 22:45:00,Boulogne-Billancourt,Boulogne-Billancourt,3.41,Shopping
+2024-04-04 12:52:00,2024-04-04 13:17:00,Aix123,Unknown Location,9.8,Business
+2024-06-19 21:40:00,2024-06-19 21:57:00,Versailles,Versailles,4.51,Airport
+2024-11-08 17:08:00,2024-11-08 17:25:00,Saint-Denis,Saint-Denis,2.97,Commute
+2024-07-22 22:30:00,2024-07-22 22:43:00,Salon-de-Provence,Par1s,0.83,Business
+2024-09-15 10:04:00,2024-09-15 10:33:00,Aubagne,Salon-de-Provence,7.24,Meeting
+2024-10-01 19:47:00,2024-10-01 20:02:00,Paris,Paris,2.33,Business
+2024-02-19 09:47:00,2024-02-19 10:14:00,Issy-les-Moulineaux,Versailles,12.88,Meeting
+2024-07-22 08:52:00,2024-07-22 09:15:00,Paris,Par1s,6.63,Commute
+2024-07-01 07:52:00,2024-07-01 08:25:00,Marseille,Salon-de-Provence,11.07,Errand
+2024-09-25 14:18:00,2024-09-25 15:12:00,Lyon,Caluire-et-Cuire,19.32,Meeting
+2024-12-07 23:47:00,2024-12-08 00:06:00,Saint-Denis,Saint-Denis,2.93,Business
+2024-01-10 07:32:00,2024-01-10 08:06:00,Boulogne-Billancourt,Créteil,8.26,Airport
+2024-08-19 14:37:00,2024-08-19 14:59:00,Salon-de-Provence,La Ciotat,7.03,Airport
+2024-11-24 20:05:00,2024-11-24 20:22:00,La Ciotat,Salon-de-Provence,2.97,Customer Visit
+2024-10-16 09:18:00,2024-10-16 09:49:00,Lisb0n,Oullins,11.51,Business
+2024-03-13 19:25:00,2024-03-13 20:27:00,Oullins,Villeurbanne,17.56,Commute
+2024-08-22 19:57:00,2024-08-22 20:25:00,Madri$d,Créteil,5.76,Meeting
+2024-09-23 10:42:00,2024-09-23 11:19:00,Saint-Denis,Issy-les-Moulineaux,9.34,Meeting
+2024-12-21 19:21:00,2024-12-21 19:53:00,Aix123,Alcorcón,14.59,
+2024-06-25 19:40:00,2024-06-25 20:11:00,Saint-Denis,Créteil,6.36,Meeting
+2024-09-27 16:36:00,2024-09-27 16:51:00,Versailles,Paris,4.2,Customer Visit
+2024-05-19 07:54:00,2024-05-19 08:19:00,Par1s,Nanterre,6.44,Customer Visit
+2024-07-18 08:03:00,2024-07-18 08:41:00,Paris,Créteil,10.02,Errand
+2024-02-03 18:33:00,2024-02-03 18:39:00,Villeurbanne,Villeurbanne,0.96,Business
+2024-10-25 20:41:00,2024-10-25 21:12:00,Créteil,Issy-les-Moulineaux,6.36,Business
+2024-11-02 15:25:00,2024-11-02 16:24:00,Aix-en-Provence,Aubagne,12.95,Commute
+2024-09-08 21:59:00,2024-09-08 22:17:00,Villeurbanne,Caluire-et-Cuire,5.63,Airport
+2024-09-25 23:16:00,2024-09-25 23:32:00,Créteil,Paris,3.16,Business
+2024-07-24 09:29:00,2024-07-24 09:50:00,Boulogne-Billancourt,Boulogne-Billancourt,5.6,Business
+2024-08-04 13:52:00,2024-08-04 14:28:00,Issy-les-Moulineaux,Boulogne-Billancourt,7.7,Business
+2024-02-08 23:18:00,2024-02-08 23:43:00,Versailles,Nanterre,6.86,Business
+2024-02-18 19:17:00,2024-02-18 20:06:00,Aix-en-Provence,Aubagne,17.09,Meal/Entertain
+2024-08-25 21:42:00,2024-08-25 22:15:00,Saint-Priest,Lyon,11.16,Shopping
+2024-04-09 14:33:00,2024-04-09 14:48:00,Issy-les-Moulineaux,Issy-les-Moulineaux,4.09,Business
+2024-04-28 23:15:00,2024-04-28 23:54:00,Vénissieux,Caluire-et-Cuire,9.97,Errand
+2024-08-18 06:31:00,2024-08-18 06:45:00,Créteil,Versailles,1.8,Meeting
+2024-07-26 22:49:00,2024-07-26 23:10:00,Aubagne,Marseille,1.81,Business
+2024-06-27 16:43:00,2024-06-27 16:55:00,Issy-les-Moulineaux,Issy-les-Moulineaux,2.63,Business
+2024-12-17 14:25:00,2024-12-17 14:59:00,Martigues,Vitrolles,8.02,Shopping
+2024-01-21 23:37:00,2024-01-22 00:18:00,Oullins,Lyon,10.94,Customer Visit
+2024-03-05 07:54:00,2024-03-05 08:13:00,Saint-Denis,Lisb0n,8.22,Meal/Entertain
+2024-05-29 10:19:00,2024-05-29 10:33:00,Aix-en-Provence,Martigues,1.95,Meeting
+2024-11-16 23:32:00,2024-11-17 00:08:00,La Ciotat,Marseille,11.42,Commute
+2024-09-01 12:34:00,2024-09-01 13:01:00,Loures,Lisbon,6.74,Commute
+2024-12-05 20:31:00,2024-12-05 20:57:00,Saint-Denis,Versailles,10.71,Airport
+2024-10-22 12:31:00,2024-10-22 12:40:00,Oullins,Bron,1.34,Commute
+2024-05-01 17:03:00,2024-05-01 17:30:00,Vitrolles,Marseille,8.24,Airport
+2024-03-04 11:17:00,2024-03-04 11:28:00,Salon-de-Provence,Aubagne,3.91,Business
+2024-10-30 18:12:00,2024-10-30 19:07:00,Salon-de-Provence,Vitrolles,12.76,Commute
+2024-04-23 12:34:00,2024-04-23 13:15:00,Aix-en-Provence,Salon-de-Provence,15.01,Customer Visit
+2024-06-21 21:11:00,2024-06-21 21:43:00,Oeiras,Cascais,6.46,Business
+2024-12-17 17:06:00,2024-12-17 17:24:00,Saint-Denis,Saint-Denis,2.87,Meeting
+2024-10-13 16:01:00,2024-10-13 16:13:00,Caluire-et-Cuire,Vénissieux,1.13,Meal/Entertain
+2024-03-02 22:52:00,2024-03-02 23:58:00,Leganés,Getafe,16.77,Meeting
+2024-01-20 08:53:00,2024-01-20 09:31:00,Versailles,Boulogne-Billancourt,13.73,Commute
+2024-03-29 17:39:00,2024-03-29 18:07:00,Nanterre,Versailles,10.09,Business
+2024-11-13 14:54:00,2024-11-13 15:14:00,Oullins,Lyon,8.85,Business
+2024-07-15 22:07:00,2024-07-15 23:02:00,Leganés,Madrid,13.23,Business
+2024-09-26 23:54:00,2024-09-27 00:25:00,Caluire-et-Cuire,Villeurbanne,8.53,Customer Visit
+2024-10-25 22:26:00,2024-10-25 22:58:00,Leganés,Móstoles,7.98,Errand
+2024-06-22 19:23:00,2024-06-22 19:44:00,Vénissieux,Villeurbanne,4.42,Meeting
+2024-12-20 19:21:00,2024-12-20 19:52:00,Aix123,Unknown Location,8.69,Meal/Entertain
+2024-02-29 16:55:00,2024-02-29 17:30:00,Issy-les-Moulineaux,Créteil,9.33,Business
+2024-05-25 15:18:00,2024-05-25 15:33:00,Versailles,Versailles,3.76,Airport
+2024-12-19 13:27:00,2024-12-19 14:19:00,Caluire-et-Cuire,Oullins,14.61,Meal/Entertain
+2024-05-27 12:04:00,2024-05-27 12:27:00,Vénissieux,Villeurbanne,8.45,Shopping
+2024-03-05 12:38:00,2024-03-05 12:58:00,Saint-Denis,Paris,6.13,Customer Visit
+2024-09-07 11:13:00,2024-09-07 11:47:00,Nanterre,Paris,8.09,Commute
+2024-03-31 11:57:00,2024-03-31 12:22:00,Boulogne-Billancourt,Saint-Denis,8.9,Airport
+2024-11-12 08:32:00,2024-11-12 08:43:00,Nanterre,Versailles,4.13,Commute
+2024-10-08 11:45:00,2024-10-08 12:15:00,Aubagne,Martigues,8.95,Commute
+2024-01-15 16:11:00,2024-01-15 16:41:00,Lyon,Vénissieux,11.03,Meal/Entertain
+2024-06-16 08:40:00,2024-06-16 09:16:00,Caluire-et-Cuire,Bron,16.0,Airport
+2024-06-06 14:26:00,2024-06-06 14:51:00,Boulogne-Billancourt,Versailles,7.51,Commute
+2024-01-11 16:16:00,2024-01-11 16:45:00,Saint-Priest,Villeurbanne,5.28,Commute
+2024-10-19 11:28:00,2024-10-19 12:19:00,Cascais,Almada,15.58,Business
+2024-12-28 16:08:00,2024-12-28 16:41:00,Saint-Denis,Créteil,14.86,Business
+2024-07-22 07:35:00,2024-07-22 07:47:00,Amadora,Amadora,3.57,Customer Visit
+2024-10-18 20:22:00,2024-10-18 21:07:00,Issy-les-Moulineaux,Saint-Denis,11.05,Meeting
+2024-01-21 12:01:00,2024-01-21 12:21:00,Vitrolles,Aubagne,2.14,Shopping
+2024-03-24 12:55:00,2024-03-24 13:16:00,Loures,Loures,2.1,Business
+2024-02-17 15:12:00,2024-02-17 15:28:00,Madrid,Pozuelo de Alarcón,1.58,Airport
+2024-12-17 21:05:00,2024-12-17 21:32:00,Aix-en-Provence,Aix-en-Provence,4.57,Business
+2024-12-04 10:03:00,2024-12-04 10:30:00,Saint-Priest,Saint-Priest,3.75,Commute
+2024-01-17 20:08:00,2024-01-17 20:20:00,Marseille,Marseille,2.6,Meeting
+2024-10-19 12:27:00,2024-10-19 13:03:00,Almada,Amadora,9.86,Business
+2024-02-16 15:01:00,2024-02-16 15:47:00,Boulogne-Billancourt,Issy-les-Moulineaux,11.43,Business
+2024-03-17 15:24:00,2024-03-17 15:38:00,Aix-en-Provence,Marseille,1.28,
+2024-04-19 17:08:00,2024-04-19 17:32:00,Martigues,Vitrolles,6.97,Customer Visit
+2024-10-08 16:34:00,2024-10-08 16:59:00,Pozuelo de Alarcón,Pozuelo de Alarcón,3.89,Shopping
+2024-09-03 07:27:00,2024-09-03 07:48:00,Amadora,Cascais,8.06,Business
+2024-10-29 06:26:00,2024-10-29 06:58:00,Caluire-et-Cuire,Lyon,11.64,Commute
+2024-03-22 06:14:00,2024-03-22 07:00:00,Créteil,Paris,13.91,Meal/Entertain
+2024-11-23 20:23:00,2024-11-23 20:42:00,Paris,Paris,1.16,Meeting
+2024-05-08 21:53:00,2024-05-08 22:25:00,Vitrolles,Salon-de-Provence,9.24,Shopping
+2024-04-16 06:51:00,2024-04-16 07:20:00,Versailles,Versailles,3.67,Business
+2024-08-04 22:02:00,2024-08-04 22:24:00,Lyon,Bron,8.93,Commute
+2024-08-25 08:12:00,2024-08-25 08:43:00,Fuenlabrada,Madrid,9.17,Airport
+2024-05-27 17:33:00,2024-05-27 18:00:00,Paris,Nanterre,9.4,Customer Visit
+2024-09-27 17:28:00,2024-09-27 17:41:00,Versailles,Versailles,2.9,Commute
+2024-03-21 20:59:00,2024-03-21 21:32:00,Paris,Créteil,11.5,Meeting
+2024-08-31 06:02:00,2024-08-31 06:16:00,Oullins,Oullins,2.89,Airport
+2024-02-29 07:28:00,2024-02-29 07:51:00,Lyon,Bron,9.81,Customer Visit
+2024-10-15 14:36:00,2024-10-15 14:45:00,Par1s,Nanterre,2.11,Customer Visit
+2024-11-02 21:59:00,2024-11-02 22:36:00,Vitrolles,Marseille,8.29,Meeting
+2024-12-16 09:52:00,2024-12-16 10:54:00,Bron,Oullins,14.66,Meeting
+2024-10-19 14:15:00,2024-10-19 14:44:00,Marseille,La Ciotat,10.95,Commute
+2024-02-28 20:51:00,2024-02-28 21:16:00,Marse!lle,Issy-les-Moulineaux,7.8,Meeting
+2024-10-03 11:06:00,2024-10-03 11:55:00,Versailles,Issy-les-Moulineaux,10.5,Customer Visit
+2024-10-06 08:15:00,2024-10-06 08:47:00,Créteil,Issy-les-Moulineaux,10.9,Business
+2024-10-02 22:40:00,2024-10-02 23:14:00,La Ciotat,Martigues,6.1,Meal/Entertain
+2024-06-04 23:08:00,2024-06-04 23:39:00,Marseille,Aix-en-Provence,9.3,Errand
+2024-01-06 23:11:00,2024-01-07 00:03:00,Oeiras,Lisb0n,13.75,Commute
+2024-07-13 08:19:00,2024-07-13 08:44:00,Versailles,Issy-les-Moulineaux,5.91,Customer Visit
+2024-08-04 23:57:00,2024-08-05 00:35:00,Marseille,Martigues,13.72,Meeting
+2024-01-26 14:02:00,2024-01-26 14:27:00,La Ciotat,Salon-de-Provence,4.24,Airport
+2024-11-24 13:11:00,2024-11-24 13:35:00,Issy-les-Moulineaux,Issy-les-Moulineaux,2.87,Errand
+2024-12-03 18:11:00,2024-12-03 18:43:00,Móstoles,Leganés,7.79,Meeting
+2024-05-07 14:59:00,2024-05-07 15:21:00,Aubagne,Madri$d,4.35,Commute
+2024-07-01 13:52:00,2024-07-01 14:08:00,Villeurbanne,Villeurbanne,3.33,Business
+2024-09-13 13:39:00,2024-09-13 14:37:00,Lyon,Saint-Priest,16.07,Meeting
+2024-11-15 08:05:00,2024-11-15 08:25:00,Cascais,Loures,6.56,Commute
+2024-04-14 19:06:00,2024-04-14 19:29:00,Móstoles,Pozuelo de Alarcón,8.57,
+2024-09-18 09:25:00,2024-09-18 10:23:00,Lyon,Vénissieux,15.12,Commute
+2024-11-28 07:55:00,2024-11-28 08:23:00,Boulogne-Billancourt,Versailles,8.52,Commute
+2024-02-03 22:08:00,2024-02-03 22:32:00,Saint-Denis,Paris,3.24,Errand
+2024-10-09 10:06:00,2024-10-09 10:22:00,Caluire-et-Cuire,Saint-Priest,0.8,Commute
+2024-11-16 18:16:00,2024-11-16 18:35:00,Oullins,Villeurbanne,6.0,Shopping
+2024-09-16 18:36:00,2024-09-16 19:21:00,Oullins,Saint-Priest,12.96,Commute
+2024-11-10 10:46:00,2024-11-10 11:04:00,Nanterre,Versailles,7.8,Business
+2024-02-06 21:05:00,2024-02-06 21:25:00,Pozuelo de Alarcón,Leganés,8.73,Commute
+2024-05-07 19:45:00,2024-05-07 20:31:00,Saint-Denis,Créteil,18.84,Commute
+2024-06-01 22:37:00,2024-06-01 23:14:00,Vénissieux,Lyon,8.1,Customer Visit
+2024-07-29 07:20:00,2024-07-29 07:53:00,Cascais,Oeiras,8.89,Commute
+2024-01-15 20:50:00,2024-01-15 21:11:00,Issy-les-Moulineaux,Nanterre,4.7,Meeting
+2024-07-08 14:51:00,2024-07-08 15:31:00,Amadora,Loures,10.48,Commute
+2024-06-26 13:59:00,2024-06-26 14:31:00,Créteil,Versailles,6.58,Meeting
+2024-08-19 19:56:00,2024-08-19 20:41:00,Aix-en-Provence,Marseille,11.68,Business
+2024-02-21 08:23:00,2024-02-21 09:02:00,Boulogne-Billancourt,Créteil,9.47,Airport
+2024-10-01 06:06:00,2024-10-01 06:28:00,Leganés,Fuenlabrada,8.94,Business
+2024-01-07 14:28:00,2024-01-07 15:24:00,Saint-Priest,Caluire-et-Cuire,14.87,Commute
+2024-09-27 14:14:00,2024-09-27 14:28:00,Pozuelo de Alarcón,Pozuelo de Alarcón,3.41,Business
+2024-06-28 11:23:00,2024-06-28 11:40:00,Bron,Saint-Priest,6.84,Commute
+2024-05-17 07:02:00,2024-05-17 07:17:00,Boulogne-Billancourt,Boulogne-Billancourt,2.37,Commute
+2024-04-09 10:59:00,2024-04-09 11:23:00,Nanterre,Saint-Denis,7.17,Business
+2024-07-22 12:15:00,2024-07-22 12:39:00,Móstoles,Pozuelo de Alarcón,10.64,Commute
+2024-08-31 17:45:00,2024-08-31 18:19:00,Lisb0n,Marseille,11.55,Customer Visit
+2024-11-21 12:02:00,2024-11-21 12:45:00,Móstoles,Getafe,16.44,Commute
+2024-06-05 06:02:00,2024-06-05 06:34:00,Oeiras,Loures,10.2,Customer Visit
+2024-02-04 19:22:00,2024-02-04 19:54:00,Fuenlabrada,Fuenlabrada,5.78,Commute
+2024-04-17 23:56:00,2024-04-18 00:33:00,Créteil,Nanterre,12.34,Customer Visit
+2024-11-01 09:09:00,2024-11-01 09:50:00,Aix-en-Provence,Martigues,13.54,Commute
+2024-09-27 22:49:00,2024-09-27 23:36:00,Vénissieux,Oullins,12.52,
+2024-08-18 10:16:00,2024-08-18 10:24:00,Marseille,Aubagne,1.54,Commute
+2024-03-30 14:08:00,2024-03-30 14:41:00,Créteil,Saint-Denis,9.32,Airport
+2024-12-03 23:31:00,2024-12-04 00:03:00,Aix123,Martigues,9.03,
+2024-10-12 12:10:00,2024-10-12 12:41:00,Getafe,Fuenlabrada,14.31,Airport
+2024-01-24 06:32:00,2024-01-24 07:26:00,Boulogne-Billancourt,Paris,15.37,Commute
+2024-05-31 12:23:00,2024-05-31 12:48:00,Pozuelo de Alarcón,Fuenlabrada,9.2,Meeting
+2024-01-25 21:17:00,2024-01-25 21:42:00,Créteil,Saint-Denis,7.53,Meeting
+2024-02-20 07:00:00,2024-02-20 07:16:00,Fuenlabrada,Fuenlabrada,2.63,Customer Visit
+2024-10-28 18:28:00,2024-10-28 19:20:00,Issy-les-Moulineaux,Boulogne-Billancourt,12.73,Shopping
+2024-06-02 08:45:00,2024-06-02 09:17:00,Lisbon,Almada,5.76,Shopping
+2024-11-10 14:49:00,2024-11-10 15:23:00,Amadora,Lisbon,10.77,Business
+2024-10-17 18:10:00,2024-10-17 18:25:00,Vitrolles,Aix-en-Provence,3.37,Commute
+2024-12-15 21:50:00,2024-12-15 22:20:00,Boulogne-Billancourt,Créteil,10.92,Commute
+2024-10-31 13:08:00,2024-10-31 13:38:00,Unknown Location,Vénissieux,6.77,Business
+2024-04-05 18:00:00,2024-04-05 18:36:00,Pozuelo de Alarcón,Alcorcón,9.02,Meeting
+2024-09-18 16:07:00,2024-09-18 16:44:00,Pozuelo de Alarcón,Móstoles,6.83,Commute
+2024-02-19 23:43:00,2024-02-20 00:17:00,Martigues,Aubagne,10.31,Customer Visit
+2024-09-01 16:32:00,2024-09-01 16:56:00,Paris,Créteil,6.49,Business
+2024-10-10 17:43:00,2024-10-10 18:16:00,Leganés,Alcorcón,9.9,Business
+2024-01-01 06:46:00,2024-01-01 07:42:00,Leganés,Fuenlabrada,14.59,Commute
+2024-04-18 10:17:00,2024-04-18 11:00:00,Créteil,Versailles,14.7,Commute
+2024-09-05 22:41:00,2024-09-05 22:53:00,Boulogne-Billancourt,Créteil,5.11,Business
+2024-02-07 18:59:00,2024-02-07 19:46:00,Créteil,Versailles,14.84,
+2024-10-21 17:00:00,2024-10-21 17:27:00,Madrid,Getafe,10.94,Business
+2024-01-23 17:14:00,2024-01-23 17:23:00,Madrid,Pozuelo de Alarcón,0.8,Commute
+2024-01-03 21:16:00,2024-01-03 21:55:00,Oullins,Villeurbanne,13.32,Airport
+2024-04-26 10:51:00,2024-04-26 11:25:00,La Ciotat,Vitrolles,9.86,Airport
+2024-07-30 08:39:00,2024-07-30 09:09:00,La Ciotat,Aubagne,5.11,Customer Visit
+2024-02-06 07:16:00,2024-02-06 07:47:00,Versailles,Nanterre,13.51,Business
+2024-07-03 20:16:00,2024-07-03 20:39:00,Fuenlabrada,Getafe,7.82,Meal/Entertain
+2024-10-06 19:02:00,2024-10-06 19:32:00,Issy-les-Moulineaux,Versailles,6.94,Errand
+2024-06-11 13:24:00,2024-06-11 14:14:00,Aix-en-Provence,Aubagne,16.56,Meal/Entertain
+2024-08-16 20:59:00,2024-08-16 21:15:00,Salon-de-Provence,Aix-en-Provence,1.92,Commute
+2024-01-05 07:34:00,2024-01-05 07:56:00,Caluire-et-Cuire,Lyon,5.52,Airport
+2024-11-03 09:56:00,2024-11-03 10:29:00,Paris,Issy-les-Moulineaux,11.91,Airport
+2024-12-26 20:43:00,2024-12-26 21:58:00,Cascais,Sintra,19.41,Customer Visit
+2024-02-12 11:00:00,2024-02-12 11:18:00,Créteil,Créteil,2.92,Airport
+2024-08-01 07:05:00,2024-08-01 07:19:00,Nanterre,Créteil,4.26,Business
+2024-11-12 16:02:00,2024-11-12 16:44:00,Getafe,Alcorcón,14.92,Commute
+2024-10-08 07:59:00,2024-10-08 08:25:00,Madrid,Pozuelo de Alarcón,7.13,Commute
+2024-05-27 12:19:00,2024-05-27 12:38:00,Martigues,Marse!lle,5.52,
+2024-11-09 15:04:00,2024-11-09 15:30:00,Madrid,Madrid,5.89,Business
+2024-05-04 17:43:00,2024-05-04 18:06:00,Marseille,Salon-de-Provence,5.27,Commute
+2024-07-22 19:58:00,2024-07-22 20:04:00,Lyon,Lyon,1.85,Meeting
+2024-09-13 14:44:00,2024-09-13 15:24:00,Versailles,Saint-Denis,11.35,
+2024-07-20 21:29:00,2024-07-20 21:49:00,Loures,Oeiras,6.07,Business
+2024-07-13 16:16:00,2024-07-13 16:45:00,Nanterre,Nanterre,3.89,Business
+2024-10-20 10:14:00,2024-10-20 10:48:00,Versailles,Boulogne-Billancourt,12.02,Airport
+2024-01-24 17:15:00,2024-01-24 17:33:00,Aix123,Madrid,1.43,Customer Visit
+2024-04-22 10:39:00,2024-04-22 11:47:00,Bron,Villeurbanne,17.85,Commute
+2024-10-16 11:05:00,2024-10-16 11:42:00,Aubagne,Martigues,9.32,Commute
+2024-12-21 10:29:00,2024-12-21 10:47:00,Leganés,Leganés,4.2,Customer Visit
+2024-06-25 11:14:00,2024-06-25 11:34:00,Versailles,Paris,7.71,Business
+2024-09-25 09:33:00,2024-09-25 09:59:00,Versailles,Boulogne-Billancourt,6.3,Business
+2024-10-08 08:46:00,2024-10-08 09:24:00,Nanterre,Saint-Denis,10.22,Commute
+2024-09-21 07:45:00,2024-09-21 08:11:00,Martigues,Aix-en-Provence,9.86,Commute
+2024-03-20 22:58:00,2024-03-20 23:26:00,Boulogne-Billancourt,Issy-les-Moulineaux,6.01,Meeting
+2024-03-11 11:46:00,2024-03-11 12:04:00,Leganés,Alcorcón,6.59,
+2024-03-20 07:16:00,2024-03-20 07:29:00,Saint-Denis,Nanterre,2.36,Business
+2024-02-03 19:23:00,2024-02-03 19:54:00,Loures,Amadora,7.06,Airport
+2024-05-21 10:14:00,2024-05-21 10:31:00,Martigues,Martigues,3.04,Meal/Entertain
+2024-03-07 22:05:00,2024-03-07 22:33:00,Vénissieux,Villeurbanne,7.79,Business
+2024-10-31 13:59:00,2024-10-31 14:14:00,Bron,Oullins,6.52,Commute
+2024-11-02 08:26:00,2024-11-02 08:37:00,Caluire-et-Cuire,Caluire-et-Cuire,3.03,Meeting
+2024-01-15 14:15:00,2024-01-15 14:50:00,Lisbon,Sintra,9.36,Business
+2024-04-13 09:26:00,2024-04-13 09:52:00,Madrid,Móstoles,7.53,Customer Visit
+2024-12-24 18:59:00,2024-12-24 19:35:00,Caluire-et-Cuire,Bron,13.83,Commute
+2024-01-19 20:27:00,2024-01-19 20:38:00,Leganés,Alcorcón,0.8,Commute
+2024-04-07 10:54:00,2024-04-07 11:20:00,Issy-les-Moulineaux,Boulogne-Billancourt,4.74,Business
+2024-06-24 23:44:00,2024-06-24 23:58:00,Madrid,Madrid,4.26,Shopping
+2024-09-09 09:47:00,2024-09-09 10:05:00,Saint-Denis,Issy-les-Moulineaux,7.82,Meeting
+2024-10-13 16:51:00,2024-10-13 17:30:00,Martigues,Salon-de-Provence,13.76,Business
+2024-04-30 13:15:00,2024-04-30 13:40:00,Oeiras,Amadora,11.59,Commute
+2024-01-15 17:46:00,2024-01-15 18:36:00,Pozuelo de Alarcón,Madrid,16.01,Commute
+2024-08-20 18:37:00,2024-08-20 19:21:00,Alcorcón,Fuenlabrada,12.55,Commute
+2024-08-29 14:25:00,2024-08-29 14:53:00,Loures,Almada,6.96,Commute
+2024-03-31 16:18:00,2024-03-31 16:55:00,Alcorcón,Madrid,11.08,Business
+2024-07-23 10:20:00,2024-07-23 11:08:00,Sintra,Loures,11.84,Business
+2024-05-21 10:15:00,2024-05-21 10:44:00,Vénissieux,Villeurbanne,6.58,Business
+2024-10-25 12:15:00,2024-10-25 12:47:00,Oeiras,Lisbon,11.87,Meeting
+2024-01-29 20:36:00,2024-01-29 20:57:00,Lyon,Bron,6.99,Airport
+2024-09-28 17:58:00,2024-09-28 18:23:00,Lyon,Oullins,9.41,Commute
+2024-04-17 17:52:00,2024-04-17 18:17:00,Créteil,Paris,7.87,Commute
+2024-09-11 12:41:00,2024-09-11 13:17:00,Alcorcón,Fuenlabrada,9.53,Business
+2024-08-15 20:28:00,2024-08-15 20:35:00,Loures,Loures,0.8,Business
+2024-11-26 07:59:00,2024-11-26 08:32:00,Aubagne,La Ciotat,7.04,Shopping
+2024-01-24 07:01:00,2024-01-24 08:05:00,Pozuelo de Alarcón,Móstoles,18.02,Meeting
+2024-01-14 15:14:00,2024-01-14 15:28:00,Martigues,Martigues,2.75,Business
+2024-03-25 07:12:00,2024-03-25 07:40:00,Boulogne-Billancourt,Créteil,12.18,Commute
+2024-11-19 21:50:00,2024-11-19 22:01:00,Saint-Priest,Saint-Priest,2.34,Meeting
+2024-08-14 13:44:00,2024-08-14 14:03:00,Caluire-et-Cuire,Oullins,4.46,Meeting
+2024-04-25 10:14:00,2024-04-25 10:27:00,Aix-en-Provence,Aix-en-Provence,2.16,Customer Visit
+2024-04-05 18:38:00,2024-04-05 19:18:00,Lyon,Villeurbanne,12.35,Business
+2024-07-21 09:22:00,2024-07-21 09:45:00,Pozuelo de Alarcón,Pozuelo de Alarcón,2.11,Business
+2024-09-09 19:59:00,2024-09-09 20:19:00,Amadora,Loures,5.71,Meal/Entertain
+2024-04-17 12:44:00,2024-04-17 13:01:00,Pozuelo de Alarcón,Getafe,2.78,Business
+2024-12-09 10:45:00,2024-12-09 11:28:00,Créteil,Issy-les-Moulineaux,13.34,Commute
+2024-12-01 07:57:00,2024-12-01 08:20:00,Aix-en-Provence,Aix-en-Provence,4.58,Business
+2024-05-19 18:43:00,2024-05-19 19:11:00,Martigues,Aix-en-Provence,7.31,Meeting
+2024-06-14 10:00:00,2024-06-14 10:29:00,Madrid,Alcorcón,9.25,Meeting
+2024-04-27 21:42:00,2024-04-27 22:26:00,Getafe,Madrid,14.21,Airport
+2024-08-07 14:04:00,2024-08-07 14:20:00,Salon-de-Provence,Vitrolles,6.07,Commute
+2024-07-11 12:37:00,2024-07-11 13:12:00,Vitrolles,Marseille,13.8,Meeting
+2024-03-22 06:04:00,2024-03-22 06:13:00,Villeurbanne,Villeurbanne,0.8,Commute
+2024-11-13 18:29:00,2024-11-13 18:54:00,Créteil,Boulogne-Billancourt,4.72,Errand
+2024-09-04 13:05:00,2024-09-04 14:04:00,Caluire-et-Cuire,Bron,18.51,Commute
+2024-08-31 23:26:00,2024-09-01 00:07:00,Versailles,Issy-les-Moulineaux,8.96,Meeting
+2024-02-16 18:21:00,2024-02-16 18:36:00,Loures,Lisb0n,3.52,Business
+2024-06-29 06:49:00,2024-06-29 07:24:00,Salon-de-Provence,Vitrolles,9.47,Meeting
+2024-12-30 07:00:00,2024-12-30 07:32:00,Nanterre,Saint-Denis,10.61,Commute
+2024-06-07 08:26:00,2024-06-07 09:06:00,Vénissieux,Oullins,8.91,Meeting
+2024-05-05 17:20:00,2024-05-05 17:29:00,Saint-Priest,Vénissieux,3.25,Business
+2024-11-21 17:08:00,2024-11-21 17:29:00,Créteil,Nanterre,2.78,Business
+2024-06-28 09:10:00,2024-06-28 09:26:00,Paris,Créteil,6.02,Business
+2024-06-27 15:26:00,2024-06-27 16:01:00,Aubagne,Marseille,12.25,Meeting
+2024-02-07 15:39:00,2024-02-07 15:57:00,Almada,Oeiras,3.55,Airport
+2024-10-21 14:56:00,2024-10-21 15:50:00,Aix-en-Provence,Aix123,13.94,Commute
+2024-09-13 19:08:00,2024-09-13 19:14:00,Martigues,Aix-en-Provence,0.8,Meeting
+2024-03-21 09:00:00,2024-03-21 09:16:00,Sintra,Loures,2.68,Business
+2024-06-03 22:22:00,2024-06-03 22:28:00,Lyon,Villeurbanne,1.23,Commute
+2024-05-22 19:54:00,2024-05-22 20:40:00,Leganés,Fuenlabrada,13.77,Business
+2024-07-01 09:08:00,2024-07-01 09:42:00,Saint-Denis,Paris,14.25,Errand
+2024-08-29 06:35:00,2024-08-29 06:54:00,Leganés,Alcorcón,2.55,Meeting
+2024-04-06 14:44:00,2024-04-06 15:17:00,Saint-Denis,Paris,7.41,Meeting
+2024-07-27 11:59:00,2024-07-27 12:11:00,Boulogne-Billancourt,Créteil,2.05,Business
+2024-02-25 06:19:00,2024-02-25 07:18:00,Getafe,Alcorcón,15.28,Business
+2024-11-29 16:45:00,2024-11-29 17:07:00,Caluire-et-Cuire,Oullins,9.92,Business
+2024-09-06 20:56:00,2024-09-06 21:12:00,Alcorcón,Madrid,4.21,Meeting
+2024-03-24 11:52:00,2024-03-24 12:28:00,Paris,Versailles,11.52,Shopping
+2024-03-09 22:09:00,2024-03-09 22:36:00,Vénissieux,Bron,9.66,Business
+2024-04-11 14:26:00,2024-04-11 14:58:00,Boulogne-Billancourt,Créteil,11.63,Business
+2024-08-06 10:49:00,2024-08-06 11:12:00,Martigues,Aubagne,8.33,Commute
+2024-03-29 13:47:00,2024-03-29 14:20:00,Vitrolles,Salon-de-Provence,11.9,Business
+2024-10-03 15:29:00,2024-10-03 16:01:00,Getafe,Leganés,9.77,Business
+2024-07-10 07:28:00,2024-07-10 08:01:00,Martigues,Marseille,14.52,Commute
+2024-08-31 21:20:00,2024-08-31 21:55:00,Oeiras,Loures,12.37,Customer Visit
+2024-08-13 10:50:00,2024-08-13 11:24:00,Salon-de-Provence,Aix-en-Provence,9.79,Meeting
+2024-10-26 16:24:00,2024-10-26 16:50:00,Issy-les-Moulineaux,Boulogne-Billancourt,7.85,Customer Visit
+2024-02-09 11:06:00,2024-02-09 11:52:00,La Ciotat,Aix-en-Provence,13.4,Meeting
+2024-10-10 19:51:00,2024-10-10 20:25:00,Saint-Denis,Créteil,6.81,
+2024-06-29 09:37:00,2024-06-29 10:11:00,Marseille,Aix-en-Provence,11.88,Meeting
+2024-03-29 11:09:00,2024-03-29 11:23:00,Aix-en-Provence,Salon-de-Provence,4.57,Commute
+2024-07-11 11:24:00,2024-07-11 11:47:00,Aix-en-Provence,La Ciotat,8.89,Business
+2024-04-10 12:18:00,2024-04-10 12:38:00,Créteil,Boulogne-Billancourt,9.35,Airport
+2024-01-11 11:00:00,2024-01-11 11:06:00,Lisbon,Loures,2.41,Commute
+2024-12-15 20:31:00,2024-12-15 21:02:00,Caluire-et-Cuire,Lyon,8.53,Business
+2024-04-04 20:58:00,2024-04-04 21:41:00,Versailles,Boulogne-Billancourt,13.44,Business
+2024-02-12 10:51:00,2024-02-12 11:45:00,Nanterre,Lyon#,16.29,Commute
+2024-03-18 16:20:00,2024-03-18 16:42:00,Villeurbanne,Villeurbanne,3.73,Business
+2024-04-02 07:27:00,2024-04-02 07:58:00,Bron,Oullins,8.02,Airport
+2024-10-02 07:02:00,2024-10-02 07:14:00,Saint-Denis,Saint-Denis,2.58,Business
+2024-03-18 09:53:00,2024-03-18 10:07:00,Fuenlabrada,Madrid,4.92,Business
+2024-07-24 15:57:00,2024-07-24 16:26:00,Aix123,Marseille,7.15,Meeting
+2024-12-10 06:02:00,2024-12-10 06:20:00,Vénissieux,Lyon,3.07,Customer Visit
+2024-05-24 18:47:00,2024-05-24 19:02:00,Cascais,Loures,0.8,Meeting
+2024-04-01 08:12:00,2024-04-01 08:33:00,Martigues,Martigues,2.95,Customer Visit
+2024-09-18 09:05:00,2024-09-18 09:22:00,Nanterre,Nanterre,3.18,Airport
+2024-09-26 09:41:00,2024-09-26 10:17:00,Issy-les-Moulineaux,Saint-Denis,11.65,Meeting
+2024-02-01 06:22:00,2024-02-01 06:40:00,Saint-Denis,Saint-Denis,4.66,Airport
+2024-05-18 13:56:00,2024-05-18 14:27:00,Villeurbanne,Vénissieux,8.78,Customer Visit
+2024-10-16 07:03:00,2024-10-16 07:25:00,Vitrolles,Aix-en-Provence,8.22,Meeting
+2024-09-13 18:43:00,2024-09-13 19:39:00,Oullins,Bron,16.62,Errand
+2024-11-19 23:58:00,2024-11-20 00:25:00,Versailles,Issy-les-Moulineaux,4.9,Meeting
+2024-04-07 10:42:00,2024-04-07 10:54:00,Bron,Villeurbanne,4.99,Meal/Entertain
+2024-04-24 17:57:00,2024-04-24 18:36:00,Loures,Lisbon,10.04,Airport
+2024-09-03 21:24:00,2024-09-03 21:38:00,Marseille,Aubagne,6.52,Commute
+2024-11-30 14:15:00,2024-11-30 14:36:00,Martigues,La Ciotat,1.11,Business
+2024-09-30 13:34:00,2024-09-30 13:59:00,Bron,Lyon,3.34,Meeting
+2024-07-11 17:44:00,2024-07-11 18:09:00,Saint-Priest,Oullins,9.8,Airport
+2024-09-16 11:21:00,2024-09-16 11:46:00,Villeurbanne,Bron,6.71,Commute
+2024-11-07 06:28:00,2024-11-07 06:50:00,Martigues,Aubagne,7.59,Meeting
+2024-01-02 23:50:00,2024-01-03 00:36:00,Alcorcón,Leganés,12.96,Business
+2024-02-08 22:12:00,2024-02-08 22:46:00,Vitrolles,Salon-de-Provence,10.36,Commute
+2024-10-24 23:51:00,2024-10-25 00:17:00,Madrid,Leganés,7.29,Business
+2024-03-26 22:51:00,2024-03-26 23:29:00,Saint-Denis,Par1s,13.33,Customer Visit
+2024-02-01 06:53:00,2024-02-01 07:15:00,Paris,Paris,4.39,Meeting
+2024-01-22 16:30:00,2024-01-22 17:18:00,Leganés,Getafe,17.72,Errand
+2024-07-31 13:00:00,2024-07-31 13:28:00,Caluire-et-Cuire,Bron,8.53,Meeting
+2024-11-01 17:41:00,2024-11-01 18:06:00,Madrid,Madrid,5.26,Business
+2024-10-18 07:32:00,2024-10-18 07:59:00,Cascais,Loures,8.1,Commute
+2024-11-19 12:27:00,2024-11-19 12:33:00,Loures,Loures,1.77,Business
+2024-10-31 07:25:00,2024-10-31 07:52:00,Nanterre,Versailles,9.31,Business
+2024-03-05 09:20:00,2024-03-05 09:50:00,Sintra,Cascais,10.32,Commute
+2024-01-05 16:15:00,2024-01-05 16:37:00,Bron,Bron,5.38,Business
+2024-06-04 23:18:00,2024-06-04 23:47:00,Aubagne,Vitrolles,5.33,Errand
+2024-09-07 08:08:00,2024-09-07 09:00:00,La Ciotat,Aix-en-Provence,15.4,Commute
+2024-12-03 11:05:00,2024-12-03 11:56:00,Boulogne-Billancourt,Créteil,13.28,Commute
+2024-10-01 23:46:00,2024-10-02 00:39:00,Aubagne,Salon-de-Provence,15.91,Customer Visit
+2024-06-26 10:45:00,2024-06-26 11:48:00,Créteil,Nanterre,17.83,Business
+2024-11-22 07:23:00,2024-11-22 07:41:00,Saint-Denis,Nanterre,4.82,Meeting
+2024-03-13 15:28:00,2024-03-13 15:46:00,Vénissieux,Villeurbanne,5.25,Commute
+2024-10-19 20:12:00,2024-10-19 20:27:00,Leganés,Leganés,1.69,Airport
+2024-02-12 08:44:00,2024-02-12 09:23:00,Marseille,La Ciotat,7.39,Business
+2024-09-30 11:51:00,2024-09-30 12:25:00,Caluire-et-Cuire,Bron,8.43,Commute
+2024-06-09 11:07:00,2024-06-09 12:01:00,Alcorcón,Getafe,16.92,Airport
+2024-09-19 07:06:00,2024-09-19 07:42:00,Créteil,Nanterre,9.01,Customer Visit
+2024-07-12 11:37:00,2024-07-12 12:17:00,Saint-Priest,Vénissieux,7.69,Commute
+2024-11-18 19:16:00,2024-11-18 20:04:00,Nanterre,Saint-Denis,12.84,Errand
+2024-10-22 06:34:00,2024-10-22 07:04:00,La Ciotat,Marseille,7.69,Commute
+2024-05-27 11:41:00,2024-05-27 12:05:00,Vitrolles,Vitrolles,2.71,Commute
+2024-08-12 11:35:00,2024-08-12 11:57:00,Almada,Sintra,3.12,Meeting
+2024-10-30 07:11:00,2024-10-30 07:34:00,Alcorcón,Pozuelo de Alarcón,1.7,Airport
+2024-06-02 22:34:00,2024-06-02 22:48:00,Martigues,Salon-de-Provence,5.25,Customer Visit
+2024-02-20 14:50:00,2024-02-20 15:16:00,Madrid,Alcorcón,8.52,Shopping
+2024-04-21 06:13:00,2024-04-21 06:23:00,Getafe,Móstoles,2.98,Business
+2024-02-10 14:58:00,2024-02-10 15:22:00,Caluire-et-Cuire,Aix123,3.72,Customer Visit
+2024-01-25 17:20:00,2024-01-25 17:37:00,Issy-les-Moulineaux,Créteil,0.8,Commute
+2024-10-02 06:48:00,2024-10-02 07:14:00,Sintra,Oeiras,4.65,Airport
+2024-05-03 08:00:00,2024-05-03 08:29:00,Issy-les-Moulineaux,Boulogne-Billancourt,11.66,Business
+2024-05-04 19:02:00,2024-05-04 19:49:00,Saint-Denis,Nanterre,11.72,Commute
+2024-08-24 12:25:00,2024-08-24 12:52:00,Saint-Denis,Créteil,8.23,Commute
+2024-08-13 08:13:00,2024-08-13 08:45:00,Salon-de-Provence,Aix-en-Provence,7.2,Business
+2024-08-08 08:23:00,2024-08-08 08:53:00,La Ciotat,Vitrolles,8.81,Meeting
+2024-10-17 11:22:00,2024-10-17 12:00:00,Marseille,La Ciotat,14.74,Meeting
+2024-04-03 20:01:00,2024-04-03 20:17:00,Nanterre,Issy-les-Moulineaux,3.5,Commute
+2024-09-23 08:24:00,2024-09-23 08:46:00,Oullins,Bron,4.18,Commute
+2024-04-14 16:34:00,2024-04-14 17:15:00,Fuenlabrada,Madrid,13.43,Meeting
+2024-10-13 23:00:00,2024-10-13 23:11:00,Issy-les-Moulineaux,Nanterre,4.59,Business
+2024-05-12 14:29:00,2024-05-12 14:35:00,Boulogne-Billancourt,Nanterre,0.8,Commute
+2024-07-24 14:44:00,2024-07-24 15:17:00,Nanterre,Paris,13.42,Commute
+2024-09-17 20:48:00,2024-09-17 21:12:00,Fuenlabrada,Madrid,5.99,Shopping
+2024-08-20 10:54:00,2024-08-20 11:20:00,Lisbon,Oeiras,7.32,Meeting
+2024-05-18 07:12:00,2024-05-18 07:40:00,Madrid,Móstoles,12.44,Customer Visit
+2024-07-02 22:14:00,2024-07-02 22:32:00,Caluire-et-Cuire,Saint-Priest,0.8,Commute
+2024-06-27 12:32:00,2024-06-27 13:09:00,Versailles,Nanterre,14.44,Shopping
+2024-01-21 14:04:00,2024-01-21 14:51:00,Amadora,Sintra,12.5,Customer Visit
+2024-02-03 06:03:00,2024-02-03 06:30:00,Madrid,Pozuelo de Alarcón,5.67,Customer Visit
+2024-05-02 23:41:00,2024-05-03 00:03:00,Martigues,La Ciotat,4.48,Commute
+2024-10-12 21:09:00,2024-10-12 21:30:00,Vitrolles,Vitrolles,2.62,Business
+2024-04-04 15:00:00,2024-04-04 15:33:00,Móstoles,Getafe,9.3,Customer Visit
+2024-07-14 22:27:00,2024-07-14 22:40:00,Aix-en-Provence,Aix-en-Provence,4.6,Business
+2024-01-17 16:49:00,2024-01-17 16:59:00,Paris,Paris,1.46,Customer Visit
+2024-08-26 21:38:00,2024-08-26 21:44:00,Fuenlabrada,Fuenlabrada,2.36,Business
+2024-04-20 20:05:00,2024-04-20 20:20:00,Villeurbanne,Saint-Priest,7.21,Customer Visit
+2024-08-29 08:41:00,2024-08-29 08:55:00,Aix-en-Provence,Aix-en-Provence,4.31,Airport
+2024-09-10 09:36:00,2024-09-10 10:27:00,Issy-les-Moulineaux,Nanterre,13.35,Customer Visit
+2024-03-15 13:48:00,2024-03-15 14:06:00,Cascais,Sintra,3.34,Commute
+2024-10-27 14:48:00,2024-10-27 15:31:00,Amadora,Oeiras,12.28,Business
+2024-08-30 11:24:00,2024-08-30 12:10:00,Loures,Sintra,10.99,Customer Visit
+2024-11-04 15:46:00,2024-11-04 16:31:00,Créteil,Nanterre,16.95,Meeting
+2024-01-19 10:06:00,2024-01-19 10:55:00,Vitrolles,Salon-de-Provence,14.19,Business
+2024-10-01 19:16:00,2024-10-01 19:48:00,Saint-Denis,Paris,10.78,Airport
+2024-01-05 22:33:00,2024-01-05 23:23:00,Móstoles,Getafe,12.69,
+2024-11-13 10:05:00,2024-11-13 10:23:00,Créteil,Issy-les-Moulineaux,6.69,Commute
+2024-11-16 10:53:00,2024-11-16 11:16:00,Saint-Priest,Caluire-et-Cuire,7.82,Commute
+2024-10-20 22:26:00,2024-10-20 22:56:00,Saint-Denis,Versailles,7.12,Business
+2024-03-16 06:22:00,2024-03-16 06:47:00,Issy-les-Moulineaux,Par1s,3.97,Airport
+2024-07-25 20:15:00,2024-07-25 20:39:00,Madrid,Madrid,4.88,Airport
+2024-07-26 06:01:00,2024-07-26 06:23:00,Saint-Denis,Créteil,9.12,Commute
+2024-10-24 23:49:00,2024-10-25 00:19:00,Saint-Denis,Issy-les-Moulineaux,10.4,Shopping
+2024-02-12 23:27:00,2024-02-13 00:02:00,Marseille,Martigues,11.19,Commute
+2024-05-07 19:07:00,2024-05-07 19:20:00,Paris,Paris,1.67,Airport
+2024-06-17 22:09:00,2024-06-17 22:34:00,Versailles,Versailles,4.84,Airport
+2024-05-02 14:26:00,2024-05-02 15:08:00,Paris,Versailles,10.75,Commute
+2024-08-09 20:09:00,2024-08-09 20:25:00,Caluire-et-Cuire,Vénissieux,2.24,Errand
+2024-03-18 10:41:00,2024-03-18 11:07:00,Vénissieux,Oullins,10.95,Airport
+2024-09-28 17:32:00,2024-09-28 18:02:00,Oeiras,Amadora,8.75,Business
+2024-08-20 06:00:00,2024-08-20 06:26:00,Aix-en-Provence,Aubagne,6.58,Commute
+2024-02-29 19:04:00,2024-02-29 19:30:00,Issy-les-Moulineaux,Boulogne-Billancourt,6.27,Business
+2024-11-04 11:14:00,2024-11-04 11:28:00,Oeiras,Cascais,3.69,Business
+2024-03-30 12:57:00,2024-03-30 13:11:00,Paris,Paris,3.24,Airport
+2024-08-07 19:48:00,2024-08-07 20:07:00,Cascais,Cascais,3.49,Business
+2024-06-05 11:57:00,2024-06-05 12:24:00,Fuenlabrada,Leganés,9.09,Meal/Entertain
+2024-07-06 21:46:00,2024-07-06 22:18:00,Almada,Cascais,8.96,Business
+2024-08-03 08:31:00,2024-08-03 09:05:00,Créteil,Boulogne-Billancourt,7.6,Meeting
+2024-01-02 22:25:00,2024-01-02 22:42:00,Nanterre,Issy-les-Moulineaux,4.89,Commute
+2024-02-09 20:56:00,2024-02-09 21:03:00,Vénissieux,Caluire-et-Cuire,0.9,Commute
+2024-11-23 12:23:00,2024-11-23 12:52:00,Madri$d,Caluire-et-Cuire,7.14,Meeting
+2024-03-05 13:20:00,2024-03-05 14:03:00,Saint-Denis,Créteil,13.36,Meal/Entertain
+2024-11-22 19:53:00,2024-11-22 20:15:00,Nanterre,Issy-les-Moulineaux,8.64,Business
+2024-05-21 15:41:00,2024-05-21 16:04:00,Vénissieux,Villeurbanne,2.83,Meeting
+2024-12-08 19:14:00,2024-12-08 19:43:00,Créteil,Boulogne-Billancourt,6.74,Business
+2024-05-21 19:34:00,2024-05-21 19:54:00,Madri$d,Martigues,7.97,Meeting
+2024-07-08 15:12:00,2024-07-08 16:00:00,Madrid,Getafe,14.25,Customer Visit
+2024-11-08 22:27:00,2024-11-08 22:43:00,Par1s,Madrid,0.8,Business
+2024-04-13 09:38:00,2024-04-13 09:44:00,Créteil,Saint-Denis,0.8,
+2024-08-31 09:15:00,2024-08-31 09:36:00,Marseille,Marseille,3.33,Shopping
+2024-02-23 18:56:00,2024-02-23 19:16:00,La Ciotat,Salon-de-Provence,7.42,Customer Visit
+2024-11-21 20:52:00,2024-11-21 21:21:00,Loures,Lisbon,7.89,Customer Visit
+2024-03-02 06:30:00,2024-03-02 06:58:00,Loures,Loures,3.61,Business
+2024-11-02 07:45:00,2024-11-02 08:34:00,Salon-de-Provence,Martigues,13.14,Customer Visit
+2024-04-13 18:16:00,2024-04-13 18:27:00,Bron,Bron,2.57,Business
+2024-01-04 11:51:00,2024-01-04 12:36:00,Bron,Marse!lle,17.44,Errand
+2024-03-27 14:42:00,2024-03-27 15:21:00,Vitrolles,La Ciotat,10.81,Business
+2024-07-15 18:35:00,2024-07-15 19:10:00,Getafe,Leganés,12.89,Customer Visit
+2024-03-01 13:36:00,2024-03-01 14:01:00,Bron,Bron,3.87,Meeting
+2024-07-27 15:52:00,2024-07-27 16:01:00,Saint-Priest,Villeurbanne,2.03,Airport
+2024-03-21 15:54:00,2024-03-21 16:50:00,Lyon,Bron,18.75,Customer Visit
+2024-04-22 06:00:00,2024-04-22 06:45:00,Saint-Denis,Créteil,11.58,Meeting
+2024-07-12 21:46:00,2024-07-12 22:20:00,Oullins,Lyon,7.19,Shopping
+2024-11-10 16:14:00,2024-11-10 16:47:00,Bron,Caluire-et-Cuire,11.46,Business
+2024-10-26 19:54:00,2024-10-26 20:26:00,Paris,Versailles,12.5,Commute
+2024-09-09 16:51:00,2024-09-09 17:13:00,Nanterre,Paris,6.03,Errand
+2024-11-02 20:10:00,2024-11-02 20:30:00,Caluire-et-Cuire,Lyon,6.61,Customer Visit
+2024-08-04 20:29:00,2024-08-04 21:05:00,Issy-les-Moulineaux,Créteil,11.43,Customer Visit
+2024-09-03 23:41:00,2024-09-04 00:19:00,Lyon,Villeurbanne,10.83,Customer Visit
+2024-05-31 08:53:00,2024-05-31 09:03:00,Aix-en-Provence,Aix-en-Provence,1.59,Errand
+2024-07-20 22:25:00,2024-07-20 23:30:00,Martigues,Marseille,19.86,Commute
+2024-07-12 12:09:00,2024-07-12 12:36:00,Saint-Denis,Paris,3.98,Meeting
+2024-12-20 10:22:00,2024-12-20 10:57:00,Getafe,Leganés,10.01,Commute
+2024-09-21 22:25:00,2024-09-21 22:37:00,Saint-Priest,Bron,4.91,Customer Visit
+2024-12-17 22:53:00,2024-12-17 23:21:00,Nanterre,Boulogne-Billancourt,5.63,Customer Visit
+2024-12-15 16:26:00,2024-12-15 16:36:00,Versailles,Nanterre,4.45,Commute
+2024-02-09 06:15:00,2024-02-09 06:37:00,Bron,Vénissieux,5.71,Commute
+2024-03-31 11:41:00,2024-03-31 12:06:00,Boulogne-Billancourt,Saint-Denis,8.49,Business
+2024-03-02 21:06:00,2024-03-02 21:36:00,Pozuelo de Alarcón,Leganés,6.12,Commute
+2024-03-30 09:53:00,2024-03-30 10:28:00,Saint-Denis,Nanterre,11.18,Business
+2024-10-18 23:00:00,2024-10-18 23:42:00,Issy-les-Moulineaux,Boulogne-Billancourt,10.84,Airport
+2024-01-10 12:51:00,2024-01-10 13:16:00,Créteil,Versailles,9.26,Commute
+2024-07-30 20:11:00,2024-07-30 20:29:00,Issy-les-Moulineaux,Issy-les-Moulineaux,3.09,Business
+2024-05-03 23:00:00,2024-05-03 23:25:00,Oullins,Oullins,3.5,Commute
+2024-11-11 23:20:00,2024-11-11 23:43:00,Versailles,Nanterre,6.02,Errand
+2024-10-20 09:52:00,2024-10-20 09:58:00,Aix-en-Provence,Aix-en-Provence,0.8,Business
+2024-06-18 11:29:00,2024-06-18 12:20:00,Issy-les-Moulineaux,Versailles,16.39,Commute
+2024-01-01 22:54:00,2024-01-01 23:33:00,Boulogne-Billancourt,Versailles,11.6,Business
+2024-12-06 09:36:00,2024-12-06 10:07:00,Créteil,Nanterre,8.69,Meeting
+2024-05-01 07:17:00,2024-05-01 07:29:00,Aix-en-Provence,Marseille,0.8,Errand
+2024-03-26 13:22:00,2024-03-26 13:46:00,Boulogne-Billancourt,Boulogne-Billancourt,6.13,Business
+2024-05-25 16:50:00,2024-05-25 17:20:00,Saint-Priest,Vénissieux,9.45,
+2024-04-16 12:48:00,2024-04-16 13:13:00,Versailles,Créteil,7.25,Airport
+2024-10-02 13:07:00,2024-10-02 13:22:00,Issy-les-Moulineaux,Boulogne-Billancourt,6.49,Commute
+2024-11-09 10:03:00,2024-11-09 10:24:00,Nanterre,Nanterre,3.55,Commute
+2024-07-15 11:38:00,2024-07-15 11:45:00,Villeurbanne,Villeurbanne,1.39,Errand
+2024-04-02 18:28:00,2024-04-02 18:55:00,Boulogne-Billancourt,Versailles,10.0,Meeting
+2024-09-17 18:16:00,2024-09-17 19:14:00,Villeurbanne,Vénissieux,16.8,Business
+2024-10-19 11:42:00,2024-10-19 12:07:00,Paris,Saint-Denis,5.46,Business
+2024-06-18 17:00:00,2024-06-18 17:23:00,Issy-les-Moulineaux,Issy-les-Moulineaux,3.52,Airport
+2024-08-14 21:58:00,2024-08-14 22:06:00,Aix-en-Provence,Aix-en-Provence,2.29,Meeting
+2024-04-30 14:40:00,2024-04-30 15:06:00,Saint-Denis,Nanterre,7.29,Meeting
+2024-08-08 21:40:00,2024-08-08 22:12:00,Almada,Almada,4.56,Commute
+2024-07-02 07:10:00,2024-07-02 08:05:00,Amadora,Loures,17.84,Commute
+2024-10-04 11:49:00,2024-10-04 12:19:00,Aubagne,Martigues,5.83,Meeting
+2024-09-03 10:42:00,2024-09-03 11:43:00,Getafe,Leganés,13.11,Commute
+2024-03-22 11:11:00,2024-03-22 12:07:00,Boulogne-Billancourt,Unknown Location,13.7,Business
+2024-06-02 20:11:00,2024-06-02 20:31:00,Vénissieux,Oullins,3.3,Business
+2024-10-18 11:38:00,2024-10-18 12:17:00,Unknown Location,Madrid,10.13,Business
+2024-06-24 07:37:00,2024-06-24 07:46:00,Aubagne,Aubagne,3.06,Commute
+2024-01-26 08:36:00,2024-01-26 09:08:00,Issy-les-Moulineaux,Paris,7.3,Meeting
+2024-01-03 07:26:00,2024-01-03 07:51:00,Saint-Denis,Saint-Denis,5.45,Commute
+2024-01-29 21:27:00,2024-01-29 21:51:00,Versailles,Nanterre,4.82,Customer Visit
+2024-03-29 12:17:00,2024-03-29 13:05:00,Saint-Denis,Nanterre,11.18,Business
+2024-11-25 14:18:00,2024-11-25 15:09:00,Villeurbanne,Oullins,18.33,Business
+2024-04-10 20:11:00,2024-04-10 21:05:00,Boulogne-Billancourt,Saint-Denis,16.77,Business
+2024-11-05 15:11:00,2024-11-05 15:55:00,Vénissieux,Caluire-et-Cuire,14.42,Customer Visit
+2024-10-08 20:01:00,2024-10-08 20:23:00,Versailles,Saint-Denis,3.87,Business
+2024-08-15 15:17:00,2024-08-15 15:43:00,Caluire-et-Cuire,Villeurbanne,7.62,Meeting
+2024-07-18 14:28:00,2024-07-18 14:59:00,Villeurbanne,Caluire-et-Cuire,11.22,Meeting
+2024-10-17 07:17:00,2024-10-17 07:35:00,Issy-les-Moulineaux,Saint-Denis,6.3,Commute
