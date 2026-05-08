@@ -1,7 +1,7 @@
 -- Objectif :
--- nettoyer la table de correspondance villes -> pays si nécessaire
+-- nettoyer la table de correspondance
 
 select
-    -- TODO : sélectionner les colonnes utiles
-    *
+    city,
+    country
 from {{ source('raw_uber', 'cities_with_countries') }}

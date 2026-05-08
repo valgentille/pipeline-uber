@@ -35,30 +35,12 @@ uv pip install dbt-duckdb
 dbt debug --profiles-dir .
 dbt run --profiles-dir .
 dbt test --profiles-dir .
-```
-
-## Consignes
-
-Complétez les fichiers SQL marqués `TODO`.
-
-Réalisez les étapes suivantes :
-
-1. Lire les deux sources CSV.
-2. Normaliser les dates.
-3. Renommer les colonnes.
-4. Remplacer les valeurs nulles de `PURPOSE` par `Unknown`.
-5. Supprimer les lignes invalides :
-   - `Unknown Location`
-   - villes contenant autre chose que des lettres et des espaces
-6. Réunir les deux sources.
-7. Joindre la table `cities_with_countries`.
-8. Ajouter `start_country` et `stop_country`.
-9. Supprimer les trajets dont le pays n’est pas déterminé.
-10. Produire les KPI finaux.
-11. Exécuter les tests dbt.
-
 ## Fichiers présents dans `data/`
 
 - `UberDataset1.csv`
 - `UberDataset2.csv`
 - `cities_with_countries.csv`
+note pour affichier les kpi via python python3 -c "
+import duckdb
+con = duckdb.connect('tp_uber.duckdb')
+print(con.execute('SELECT * FROM mart_uber_kpis').df())
